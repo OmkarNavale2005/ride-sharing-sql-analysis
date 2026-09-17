@@ -113,3 +113,25 @@ The project helped me understand how SQL can be applied to real-world business s
 Data Analyst | Data Science Graduate
 
 Skills: SQL | Excel | Python | Power BI | Statistics | Machine Learning
+
+
+## 📊 Project Screenshots
+
+### Project Overview
+![Project Overview](screenshots/project-overview.png)
+
+### ER Diagram
+![ER Diagram](screenshots/er-diagram.png)
+
+### Database Tables
+![Database Tables](screenshots/database-tables.png)
+
+### SQL Queries
+![SQL Queries](screenshots/sql-queries.png)
+
+### Revenue by City
+![Revenue by City](screenshots/revenue-by-city.png)
+
+### Driver Revenue Ranking
+![Driver Revenue Ranking](screenshots/driver-ranking.png)
+
