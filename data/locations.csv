@@ -1,0 +1,41 @@
+location_id,city,area,latitude,longitude
+1,Mumbai,Andheri,24.4258,73.2569
+2,Mumbai,Bandra,25.4056,73.5185
+3,Mumbai,Powai,23.9408,83.2422
+4,Mumbai,Dadar,18.6653,75.6927
+5,Mumbai,Thane,27.1567,81.861
+6,Pune,Hinjewadi,20.4629,83.0509
+7,Pune,Kothrud,23.9678,80.0252
+8,Pune,Viman Nagar,27.7619,82.9353
+9,Pune,Baner,21.7544,84.8012
+10,Pune,Hadapsar,26.8458,74.0035
+11,Bengaluru,Whitefield,20.0055,75.4596
+12,Bengaluru,Koramangala,24.9121,81.6486
+13,Bengaluru,Indiranagar,24.1899,87.0524
+14,Bengaluru,Electronic City,25.7591,74.047
+15,Bengaluru,HSR Layout,21.4751,78.9663
+16,Delhi,Rohini,21.9596,82.7089
+17,Delhi,Dwarka,26.9189,76.8968
+18,Delhi,Saket,23.5188,84.6306
+19,Delhi,Vasant Kunj,22.1622,74.6899
+20,Delhi,Karol Bagh,22.7495,72.8836
+21,Hyderabad,Hitech City,27.4238,73.1971
+22,Hyderabad,Banjara Hills,22.3846,80.4781
+23,Hyderabad,Gachibowli,27.853,74.6563
+24,Hyderabad,Kukatpally,19.1443,72.1393
+25,Hyderabad,Madhapur,19.5557,75.3164
+26,Chennai,T Nagar,24.3058,75.5153
+27,Chennai,Adyar,18.2052,85.2259
+28,Chennai,Velachery,21.656,77.6591
+29,Chennai,Anna Nagar,21.0248,87.606
+30,Chennai,Guindy,19.7012,86.3718
+31,Kolkata,Salt Lake,25.768,73.2237
+32,Kolkata,Park Street,27.8673,76.3419
+33,Kolkata,New Town,18.9858,85.269
+34,Kolkata,Ballygunge,25.0668,81.8755
+35,Kolkata,Howrah,19.5598,79.6559
+36,Ahmedabad,Navrangpura,25.8056,76.858
+37,Ahmedabad,Satellite,21.1169,72.0503
+38,Ahmedabad,Bopal,19.7424,86.0065
+39,Ahmedabad,Maninagar,22.4175,87.7478
+40,Ahmedabad,Vastrapur,21.9571,83.443

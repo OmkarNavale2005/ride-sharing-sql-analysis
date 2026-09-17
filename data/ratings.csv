@@ -1,0 +1,6988 @@
+rating_id,ride_id,rider_rating,driver_rating,feedback
+1,1671,5,4,Good
+2,4012,5,5,Could be better
+3,2612,5,4,Good
+4,3629,5,4,Good
+5,3289,5,5,Very good
+6,5132,5,4,Could be better
+7,7980,3,5,Average
+8,5525,4,4,Good
+9,3769,5,5,Average
+10,7963,5,4,Good
+11,5065,4,5,Excellent
+12,6768,5,4,Could be better
+13,7440,3,4,Average
+14,5589,5,5,Could be better
+15,8959,4,5,Excellent
+16,1807,5,4,Excellent
+17,593,5,5,Very good
+18,8388,4,4,Very good
+19,4675,5,5,Average
+20,1637,4,3,Could be better
+21,1131,4,5,Excellent
+22,4526,3,5,Good
+23,5836,5,4,Good
+24,5308,3,5,Could be better
+25,7804,5,5,Could be better
+26,6227,4,5,Good
+27,8642,5,5,Average
+28,1481,5,5,Average
+29,9262,4,4,Excellent
+30,3295,5,5,Excellent
+31,8133,4,5,Average
+32,9319,3,5,Excellent
+33,661,5,4,Could be better
+34,5607,5,5,Average
+35,2937,5,5,Excellent
+36,9691,4,5,Excellent
+37,8184,5,3,Could be better
+38,3561,5,4,Average
+39,4089,5,4,Could be better
+40,3434,5,5,Very good
+41,2492,4,5,Very good
+42,7616,5,5,Average
+43,8341,5,5,Good
+44,3200,5,5,Excellent
+45,6254,5,5,Good
+46,2482,5,5,Good
+47,4351,5,5,Very good
+48,6215,5,5,Excellent
+49,4007,5,4,Average
+50,4057,5,5,Average
+51,3202,4,5,Average
+52,672,4,5,Very good
+53,8481,5,4,Could be better
+54,7729,5,5,Good
+55,1860,5,4,Excellent
+56,4346,5,5,Good
+57,3015,3,5,Could be better
+58,343,5,4,Very good
+59,1548,4,5,Good
+60,3775,5,5,Could be better
+61,838,5,4,Excellent
+62,8375,4,5,Excellent
+63,7001,5,4,Very good
+64,613,4,5,Average
+65,952,3,5,Very good
+66,8990,5,5,Excellent
+67,4104,4,4,Excellent
+68,1732,4,4,Very good
+69,3667,4,5,Could be better
+70,2950,3,5,Excellent
+71,1940,4,5,Could be better
+72,5916,4,5,Very good
+73,8040,5,5,Excellent
+74,3738,5,3,Good
+75,3476,5,5,Very good
+76,5325,5,5,Average
+77,8449,5,5,Very good
+78,1331,5,5,Average
+79,8264,5,4,Could be better
+80,809,5,5,Average
+81,8771,5,5,Excellent
+82,180,5,5,Average
+83,1792,4,4,Excellent
+84,1369,5,5,Good
+85,9425,3,5,Good
+86,54,5,5,Average
+87,9917,3,4,Good
+88,605,5,5,Excellent
+89,9348,5,4,Average
+90,9626,5,5,Could be better
+91,5600,3,5,Average
+92,5388,5,5,Excellent
+93,8911,4,5,Could be better
+94,1024,3,4,Average
+95,2941,4,5,Could be better
+96,530,5,4,Good
+97,7102,4,5,Excellent
+98,707,3,5,Good
+99,3436,5,4,Average
+100,8961,5,4,Average
+101,9514,5,5,Could be better
+102,7912,5,5,Average
+103,3923,3,4,Average
+104,5846,3,5,Very good
+105,7574,5,5,Average
+106,7207,5,4,Average
+107,133,5,3,Average
+108,4734,5,4,Very good
+109,7809,4,4,Average
+110,2026,5,5,Average
+111,3992,3,5,Average
+112,6973,5,4,Could be better
+113,2618,5,5,Average
+114,6097,5,5,Good
+115,775,5,5,Very good
+116,9616,5,5,Excellent
+117,7972,5,5,Excellent
+118,1543,5,5,Could be better
+119,6503,5,5,Good
+120,6211,4,5,Very good
+121,2904,5,3,Could be better
+122,5946,5,5,Very good
+123,2485,5,5,Good
+124,38,5,4,Excellent
+125,3484,3,5,Good
+126,1647,5,5,Could be better
+127,4083,5,5,Could be better
+128,6788,4,3,Average
+129,558,5,5,Very good
+130,2137,5,5,Average
+131,8973,4,5,Could be better
+132,6378,5,5,Excellent
+133,2819,5,5,Could be better
+134,3264,3,5,Could be better
+135,2073,5,5,Good
+136,8015,4,5,Excellent
+137,951,4,5,Good
+138,4646,3,5,Excellent
+139,9333,5,5,Very good
+140,1090,4,5,Could be better
+141,6441,5,4,Could be better
+142,6332,5,5,Could be better
+143,7298,3,5,Could be better
+144,5432,5,4,Could be better
+145,9871,3,4,Average
+146,5841,5,4,Good
+147,4402,4,5,Excellent
+148,6939,5,5,Average
+149,3749,5,5,Very good
+150,5039,4,5,Excellent
+151,9724,5,4,Very good
+152,6318,5,5,Average
+153,9907,5,3,Could be better
+154,9387,4,5,Could be better
+155,6743,5,3,Very good
+156,8172,4,3,Good
+157,9847,5,5,Very good
+158,3717,5,4,Very good
+159,4235,5,5,Excellent
+160,8585,3,5,Excellent
+161,2039,5,4,Excellent
+162,8349,5,5,Very good
+163,5291,4,5,Good
+164,3095,4,4,Average
+165,92,3,5,Very good
+166,745,5,5,Average
+167,7254,5,5,Very good
+168,4497,5,5,Very good
+169,5828,4,5,Excellent
+170,3456,5,5,Average
+171,5899,4,5,Excellent
+172,9190,5,5,Excellent
+173,6797,5,5,Excellent
+174,2353,5,5,Could be better
+175,873,4,5,Good
+176,3352,5,5,Average
+177,7349,5,5,Excellent
+178,2280,5,3,Excellent
+179,2799,5,5,Excellent
+180,2230,5,5,Average
+181,6442,5,5,Very good
+182,3039,5,4,Good
+183,6103,5,4,Could be better
+184,9352,4,5,Good
+185,6914,3,4,Excellent
+186,9008,4,4,Good
+187,1828,5,5,Could be better
+188,8110,5,4,Very good
+189,2497,5,4,Very good
+190,4506,4,4,Good
+191,9253,5,5,Average
+192,5920,5,4,Good
+193,6718,4,4,Very good
+194,5957,5,5,Average
+195,8137,5,4,Excellent
+196,9608,5,5,Average
+197,2956,5,5,Could be better
+198,756,4,4,Good
+199,1961,5,5,Average
+200,7417,5,4,Excellent
+201,9033,5,5,Good
+202,3799,5,5,Good
+203,9362,5,5,Excellent
+204,7608,5,5,Could be better
+205,922,5,5,Good
+206,6138,4,4,Good
+207,6636,5,4,Average
+208,8794,4,5,Excellent
+209,1330,5,3,Very good
+210,328,4,5,Very good
+211,4017,5,5,Very good
+212,7161,5,5,Average
+213,6825,5,4,Excellent
+214,2347,5,5,Very good
+215,8342,5,4,Good
+216,2735,4,5,Excellent
+217,9953,5,5,Average
+218,635,5,5,Average
+219,3463,5,4,Could be better
+220,6819,5,4,Average
+221,7267,5,5,Very good
+222,1939,5,5,Could be better
+223,8263,5,5,Excellent
+224,4632,5,5,Could be better
+225,6409,5,5,Good
+226,2749,5,4,Average
+227,289,5,5,Average
+228,3347,5,4,Average
+229,2626,5,5,Very good
+230,1319,4,4,Excellent
+231,5604,4,4,Excellent
+232,5926,4,5,Very good
+233,4398,5,4,Could be better
+234,4289,5,5,Average
+235,5557,4,5,Excellent
+236,7088,5,5,Good
+237,3428,4,5,Excellent
+238,8222,5,3,Excellent
+239,8508,4,5,Very good
+240,6772,5,5,Average
+241,1678,5,5,Average
+242,8995,4,4,Excellent
+243,2858,5,4,Good
+244,8980,5,5,Very good
+245,4449,4,4,Good
+246,1296,5,5,Excellent
+247,8706,5,3,Average
+248,9612,5,5,Average
+249,141,5,5,Very good
+250,5165,5,5,Average
+251,6177,4,4,Could be better
+252,2817,5,5,Good
+253,5704,4,5,Average
+254,302,5,4,Could be better
+255,7491,5,5,Very good
+256,5723,4,5,Average
+257,7244,3,5,Excellent
+258,8069,5,4,Average
+259,5262,5,5,Could be better
+260,2413,5,4,Good
+261,8761,4,4,Excellent
+262,2393,5,5,Excellent
+263,2387,5,5,Excellent
+264,9977,4,5,Excellent
+265,1120,5,4,Good
+266,86,4,4,Very good
+267,4836,4,5,Good
+268,1148,3,5,Very good
+269,7596,4,5,Average
+270,9704,5,5,Very good
+271,5415,5,4,Good
+272,1825,4,5,Excellent
+273,5503,4,4,Average
+274,645,5,4,Could be better
+275,6036,4,5,Excellent
+276,9163,5,3,Could be better
+277,3100,5,5,Very good
+278,9234,5,5,Excellent
+279,6292,4,5,Could be better
+280,4050,4,4,Could be better
+281,411,5,5,Good
+282,8918,5,5,Excellent
+283,9639,5,4,Excellent
+284,4954,5,5,Good
+285,4373,5,5,Good
+286,6987,4,4,Very good
+287,3265,4,5,Very good
+288,9601,5,5,Good
+289,114,4,5,Could be better
+290,9931,3,5,Average
+291,8376,4,5,Could be better
+292,7323,4,3,Could be better
+293,6296,5,4,Good
+294,7544,5,5,Could be better
+295,6915,5,4,Very good
+296,4502,5,5,Excellent
+297,5696,5,5,Average
+298,6229,5,5,Very good
+299,7945,5,5,Could be better
+300,431,4,5,Average
+301,8310,4,5,Could be better
+302,5682,5,5,Very good
+303,3704,5,5,Excellent
+304,1203,4,5,Good
+305,696,5,5,Could be better
+306,2580,4,4,Good
+307,1726,5,5,Average
+308,9560,5,3,Good
+309,413,3,5,Could be better
+310,5701,5,5,Very good
+311,6648,3,5,Very good
+312,4870,5,3,Could be better
+313,8575,5,4,Very good
+314,4509,3,5,Good
+315,9790,5,4,Could be better
+316,305,5,3,Excellent
+317,8651,5,5,Could be better
+318,4981,5,5,Could be better
+319,9819,4,5,Excellent
+320,220,5,4,Very good
+321,1716,5,5,Could be better
+322,5343,4,4,Very good
+323,5683,5,5,Excellent
+324,2979,4,5,Good
+325,456,4,4,Average
+326,1833,5,5,Average
+327,4073,5,5,Excellent
+328,9874,5,5,Good
+329,9446,5,5,Very good
+330,8819,4,5,Very good
+331,3691,3,5,Excellent
+332,3993,5,4,Average
+333,8230,5,5,Very good
+334,6057,5,4,Average
+335,1601,5,5,Excellent
+336,8715,5,4,Average
+337,1317,4,4,Average
+338,3486,5,5,Could be better
+339,6246,5,5,Could be better
+340,7052,5,5,Could be better
+341,719,4,5,Very good
+342,7829,5,5,Excellent
+343,1276,5,5,Excellent
+344,8010,5,5,Average
+345,8446,5,5,Could be better
+346,2238,5,5,Very good
+347,3044,5,5,Excellent
+348,9383,4,5,Very good
+349,5548,5,4,Excellent
+350,7685,5,5,Excellent
+351,9828,5,5,Average
+352,966,5,4,Excellent
+353,7095,5,5,Good
+354,5329,4,5,Good
+355,1057,4,5,Average
+356,9439,4,5,Very good
+357,9494,5,5,Could be better
+358,5663,5,5,Good
+359,8720,5,5,Average
+360,9280,5,4,Excellent
+361,6523,5,4,Could be better
+362,921,4,5,Good
+363,6455,5,5,Excellent
+364,3010,5,5,Excellent
+365,5939,5,5,Excellent
+366,7215,5,5,Could be better
+367,5796,5,5,Very good
+368,9821,5,4,Very good
+369,9933,5,5,Could be better
+370,9502,5,4,Good
+371,7212,5,4,Excellent
+372,3504,3,5,Good
+373,6151,4,4,Very good
+374,8163,3,4,Could be better
+375,4475,4,5,Average
+376,1941,5,5,Very good
+377,6171,5,5,Excellent
+378,6563,5,5,Could be better
+379,7203,5,5,Average
+380,7434,4,5,Very good
+381,6504,5,5,Very good
+382,588,4,4,Excellent
+383,5513,5,5,Good
+384,8180,4,5,Average
+385,3124,4,3,Excellent
+386,4964,5,5,Could be better
+387,4290,4,5,Very good
+388,7576,4,5,Good
+389,5717,5,5,Good
+390,5102,5,4,Good
+391,7662,5,4,Average
+392,9935,5,5,Excellent
+393,9326,5,5,Could be better
+394,6578,4,5,Excellent
+395,9762,4,5,Very good
+396,7282,5,5,Good
+397,5839,4,5,Very good
+398,4397,4,5,Good
+399,3193,5,5,Good
+400,3494,5,4,Excellent
+401,5680,4,5,Excellent
+402,705,4,5,Very good
+403,3787,4,5,Average
+404,2664,4,3,Good
+405,4349,5,5,Average
+406,7325,5,5,Very good
+407,7992,5,4,Very good
+408,6864,5,5,Excellent
+409,314,5,5,Very good
+410,8514,3,5,Excellent
+411,7050,5,5,Could be better
+412,7838,3,5,Average
+413,3942,5,4,Good
+414,3573,5,4,Excellent
+415,7874,4,5,Average
+416,7644,5,5,Could be better
+417,5085,4,5,Very good
+418,6310,5,5,Average
+419,2207,3,5,Good
+420,231,5,5,Could be better
+421,9888,4,5,Could be better
+422,4621,5,4,Very good
+423,1930,4,4,Very good
+424,428,5,4,Excellent
+425,914,4,4,Could be better
+426,2129,4,5,Very good
+427,8028,5,4,Average
+428,2518,4,5,Very good
+429,8538,4,5,Could be better
+430,8930,5,5,Excellent
+431,5207,5,4,Very good
+432,2269,5,5,Average
+433,655,3,5,Good
+434,5188,5,4,Good
+435,6331,3,5,Average
+436,5441,5,5,Very good
+437,6149,5,5,Very good
+438,8565,4,5,Good
+439,4226,5,5,Excellent
+440,8270,4,5,Good
+441,3700,5,4,Average
+442,6150,5,4,Excellent
+443,3645,4,4,Average
+444,2120,5,5,Good
+445,3754,5,5,Good
+446,8150,5,5,Excellent
+447,7221,5,5,Very good
+448,2022,4,5,Very good
+449,2042,4,5,Good
+450,4065,4,5,Very good
+451,9735,5,5,Average
+452,4937,4,5,Average
+453,4145,5,4,Very good
+454,879,5,5,Excellent
+455,1999,5,4,Average
+456,6886,5,5,Average
+457,830,4,5,Average
+458,8545,5,5,Average
+459,7507,5,5,Good
+460,8705,5,5,Average
+461,6072,5,5,Excellent
+462,9297,5,5,Could be better
+463,4767,5,4,Average
+464,1500,5,5,Excellent
+465,1788,5,5,Average
+466,9113,5,5,Excellent
+467,1040,5,5,Could be better
+468,49,5,5,Excellent
+469,2459,4,4,Very good
+470,3430,3,5,Average
+471,7780,3,5,Very good
+472,6153,4,3,Average
+473,1850,5,5,Average
+474,7167,4,4,Very good
+475,1387,4,5,Average
+476,5295,4,5,Excellent
+477,6599,5,5,Excellent
+478,450,5,3,Could be better
+479,1380,5,5,Very good
+480,3101,4,5,Could be better
+481,9738,5,5,Could be better
+482,60,5,5,Excellent
+483,6944,4,5,Could be better
+484,8130,5,5,Average
+485,5405,4,5,Very good
+486,7581,5,5,Could be better
+487,8239,5,5,Could be better
+488,4149,5,4,Very good
+489,2424,5,4,Very good
+490,281,3,5,Could be better
+491,241,5,5,Average
+492,4025,4,5,Good
+493,3176,5,5,Very good
+494,3819,4,4,Could be better
+495,5191,4,3,Average
+496,4495,5,5,Good
+497,512,5,5,Could be better
+498,2925,3,3,Good
+499,3094,3,4,Could be better
+500,2551,4,5,Average
+501,1650,4,5,Excellent
+502,3389,5,5,Average
+503,123,5,5,Average
+504,2939,4,3,Excellent
+505,5106,4,5,Average
+506,1876,5,4,Excellent
+507,1411,4,5,Very good
+508,4573,4,5,Good
+509,7656,3,5,Very good
+510,1421,5,5,Very good
+511,7502,5,5,Could be better
+512,7169,5,5,Good
+513,2100,3,4,Could be better
+514,334,4,5,Excellent
+515,4564,5,5,Average
+516,9211,5,5,Very good
+517,1313,4,5,Excellent
+518,5995,5,5,Very good
+519,1725,4,5,Could be better
+520,9012,5,4,Excellent
+521,6297,5,5,Very good
+522,6432,5,4,Very good
+523,1831,5,5,Very good
+524,8751,5,4,Very good
+525,6125,5,5,Excellent
+526,2746,4,5,Excellent
+527,2731,5,5,Good
+528,5735,5,4,Average
+529,6637,3,4,Excellent
+530,5623,4,5,Excellent
+531,1335,5,5,Excellent
+532,6980,5,5,Good
+533,495,4,5,Excellent
+534,80,4,4,Very good
+535,102,5,4,Could be better
+536,6091,5,5,Average
+537,1002,5,4,Very good
+538,1581,5,5,Excellent
+539,6222,5,5,Excellent
+540,4062,5,3,Excellent
+541,5413,5,5,Good
+542,2032,5,5,Average
+543,6912,4,5,Could be better
+544,578,5,5,Very good
+545,2775,4,3,Excellent
+546,7162,4,5,Could be better
+547,8279,5,5,Excellent
+548,3632,5,5,Excellent
+549,3900,4,5,Excellent
+550,3803,4,4,Good
+551,9462,3,4,Average
+552,9903,5,5,Excellent
+553,6656,5,4,Excellent
+554,32,5,5,Excellent
+555,7390,5,5,Excellent
+556,2931,4,3,Very good
+557,4878,5,5,Excellent
+558,8768,4,4,Average
+559,3724,5,5,Could be better
+560,1791,5,5,Good
+561,4355,5,5,Could be better
+562,1627,5,5,Very good
+563,2403,5,5,Excellent
+564,2559,5,4,Average
+565,4118,5,3,Good
+566,608,3,5,Good
+567,3737,5,4,Very good
+568,398,5,5,Good
+569,6145,5,5,Average
+570,9832,3,5,Could be better
+571,8489,5,4,Excellent
+572,4529,5,4,Could be better
+573,8982,5,3,Average
+574,7514,5,3,Could be better
+575,3118,3,5,Excellent
+576,3288,3,5,Very good
+577,1382,5,4,Good
+578,7541,5,4,Average
+579,9547,3,5,Could be better
+580,1913,5,5,Good
+581,3886,5,5,Excellent
+582,6135,5,4,Could be better
+583,9716,5,5,Average
+584,3249,4,4,Excellent
+585,4942,5,5,Average
+586,5213,5,5,Could be better
+587,2525,4,4,Could be better
+588,9810,5,3,Excellent
+589,1305,5,4,Average
+590,8422,3,5,Very good
+591,7020,5,3,Excellent
+592,9238,3,4,Good
+593,3784,4,5,Could be better
+594,961,5,5,Excellent
+595,2161,3,4,Very good
+596,9290,5,3,Could be better
+597,1832,5,5,Average
+598,1360,5,5,Good
+599,1996,5,4,Excellent
+600,4409,5,5,Could be better
+601,7022,4,5,Very good
+602,2010,5,5,Could be better
+603,3263,5,4,Excellent
+604,7313,5,4,Could be better
+605,3695,5,5,Excellent
+606,8748,5,5,Very good
+607,9237,5,5,Excellent
+608,5659,5,5,Good
+609,4590,5,5,Excellent
+610,3532,5,4,Very good
+611,4806,5,5,Good
+612,5961,4,5,Excellent
+613,9360,5,3,Could be better
+614,6832,5,4,Average
+615,3569,5,4,Excellent
+616,8581,5,4,Good
+617,1410,5,5,Excellent
+618,6054,5,4,Could be better
+619,9991,5,4,Average
+620,4854,5,5,Excellent
+621,3206,4,5,Could be better
+622,2977,5,5,Very good
+623,4679,5,5,Good
+624,3563,4,5,Good
+625,4266,5,4,Very good
+626,2821,5,5,Average
+627,8915,5,5,Average
+628,73,4,5,Good
+629,6884,4,5,Very good
+630,320,4,5,Good
+631,4331,5,5,Good
+632,2681,5,4,Average
+633,7952,4,5,Excellent
+634,30,5,5,Good
+635,1574,5,4,Good
+636,5171,5,3,Could be better
+637,3022,5,5,Very good
+638,3708,3,5,Very good
+639,6632,5,5,Average
+640,8903,5,5,Very good
+641,881,5,4,Good
+642,5050,5,5,Good
+643,6127,5,5,Very good
+644,4279,5,5,Average
+645,5913,5,4,Good
+646,415,4,4,Very good
+647,6816,4,4,Could be better
+648,1893,4,5,Could be better
+649,9477,5,5,Excellent
+650,6663,5,4,Good
+651,5226,5,5,Very good
+652,3668,5,5,Excellent
+653,9845,4,5,Average
+654,8541,5,5,Could be better
+655,7749,4,5,Average
+656,7357,4,5,Could be better
+657,6308,3,5,Good
+658,2327,3,4,Average
+659,4931,4,5,Average
+660,4894,4,5,Could be better
+661,8456,5,5,Average
+662,5352,5,5,Average
+663,7069,4,5,Could be better
+664,1253,4,5,Could be better
+665,1844,4,3,Average
+666,8831,5,5,Excellent
+667,3810,5,5,Average
+668,7991,5,4,Good
+669,3955,4,5,Good
+670,946,5,5,Excellent
+671,5886,5,5,Good
+672,8569,5,5,Average
+673,1915,5,4,Could be better
+674,2926,4,5,Good
+675,566,5,3,Good
+676,9542,5,5,Very good
+677,7506,4,5,Excellent
+678,4076,5,4,Good
+679,7785,5,4,Average
+680,4210,4,5,Good
+681,2838,5,5,Average
+682,4701,5,4,Excellent
+683,8941,5,5,Good
+684,5951,5,4,Excellent
+685,1577,5,5,Could be better
+686,2283,5,5,Could be better
+687,1338,4,5,Average
+688,3643,5,5,Good
+689,9752,4,5,Very good
+690,1534,4,3,Very good
+691,634,5,5,Excellent
+692,2108,5,5,Good
+693,258,5,5,Average
+694,3739,3,4,Could be better
+695,6228,5,4,Very good
+696,9406,5,5,Good
+697,5816,5,4,Excellent
+698,7441,5,4,Excellent
+699,5935,5,5,Excellent
+700,6123,5,5,Could be better
+701,2550,5,4,Could be better
+702,1348,4,5,Very good
+703,6465,5,5,Good
+704,6354,5,5,Average
+705,8533,4,5,Could be better
+706,5164,5,5,Good
+707,2828,5,5,Good
+708,457,4,5,Very good
+709,2234,3,4,Could be better
+710,1123,5,5,Good
+711,69,4,4,Good
+712,831,4,5,Average
+713,6824,4,5,Average
+714,229,5,5,Excellent
+715,9818,4,5,Excellent
+716,987,4,4,Good
+717,8140,5,5,Good
+718,5869,5,3,Very good
+719,8925,5,5,Average
+720,2509,3,4,Average
+721,6242,5,5,Very good
+722,959,5,5,Good
+723,128,3,5,Excellent
+724,8807,5,5,Very good
+725,6573,4,5,Could be better
+726,4470,3,4,Excellent
+727,2250,5,5,Good
+728,4665,5,5,Very good
+729,5998,3,4,Good
+730,8221,5,5,Very good
+731,2947,5,3,Good
+732,6934,5,5,Could be better
+733,2027,3,4,Very good
+734,8062,5,5,Very good
+735,149,5,5,Good
+736,5488,5,4,Very good
+737,2237,5,5,Average
+738,9983,5,5,Very good
+739,5141,4,4,Good
+740,178,5,5,Average
+741,8584,4,5,Very good
+742,8506,5,5,Average
+743,5370,3,5,Excellent
+744,4889,5,4,Average
+745,6019,5,4,Could be better
+746,8465,4,5,Average
+747,5210,4,5,Could be better
+748,6961,5,5,Very good
+749,7947,5,5,Very good
+750,7484,5,4,Good
+751,6490,4,5,Good
+752,1291,5,3,Very good
+753,9969,5,5,Excellent
+754,5182,5,5,Good
+755,9970,5,5,Could be better
+756,899,5,5,Could be better
+757,7794,5,5,Average
+758,6539,5,5,Very good
+759,1020,4,4,Excellent
+760,218,5,5,Good
+761,131,5,5,Average
+762,477,5,5,Excellent
+763,1447,4,4,Excellent
+764,2118,4,4,Good
+765,3256,5,5,Excellent
+766,1739,5,5,Could be better
+767,6494,5,5,Good
+768,3343,4,5,Could be better
+769,1595,5,4,Good
+770,8099,5,5,Could be better
+771,9770,5,5,Good
+772,7397,5,4,Very good
+773,2537,5,5,Could be better
+774,9272,5,5,Could be better
+775,8813,4,4,Very good
+776,3167,5,4,Average
+777,5372,5,5,Excellent
+778,8530,5,5,Good
+779,5824,3,3,Excellent
+780,6285,5,4,Excellent
+781,7352,4,5,Very good
+782,8174,5,5,Could be better
+783,4233,5,5,Very good
+784,9427,5,5,Very good
+785,8517,3,5,Very good
+786,2076,5,5,Excellent
+787,6488,5,5,Good
+788,9094,5,5,Excellent
+789,664,5,4,Very good
+790,5474,5,5,Excellent
+791,6214,5,4,Very good
+792,6926,4,5,Excellent
+793,5451,4,5,Excellent
+794,1357,3,3,Very good
+795,7196,5,5,Very good
+796,5428,5,5,Excellent
+797,5817,5,5,Very good
+798,3394,5,5,Average
+799,9747,4,5,Average
+800,1415,3,5,Very good
+801,3220,4,3,Good
+802,2624,3,5,Could be better
+803,7096,5,4,Average
+804,9989,5,5,Excellent
+805,5749,3,4,Average
+806,6434,4,3,Good
+807,8361,5,5,Very good
+808,3618,4,5,Excellent
+809,8636,5,5,Excellent
+810,7272,4,5,Excellent
+811,8969,5,4,Average
+812,8610,5,5,Good
+813,7271,4,5,Very good
+814,3871,5,5,Excellent
+815,9701,5,4,Excellent
+816,3893,5,5,Very good
+817,107,5,5,Good
+818,7028,4,5,Average
+819,5534,4,5,Very good
+820,1260,5,5,Very good
+821,5120,5,5,Excellent
+822,3064,4,5,Could be better
+823,9084,4,4,Excellent
+824,2714,5,5,Average
+825,9239,4,5,Average
+826,7211,5,4,Good
+827,2849,5,5,Very good
+828,9470,5,5,Very good
+829,6941,5,4,Very good
+830,233,3,5,Average
+831,9456,5,4,Average
+832,3024,5,4,Very good
+833,5497,4,5,Could be better
+834,5030,4,5,Excellent
+835,4320,5,5,Could be better
+836,2088,3,5,Good
+837,7741,5,4,Very good
+838,47,5,5,Could be better
+839,2446,5,5,Excellent
+840,4713,5,5,Good
+841,8384,5,5,Very good
+842,3729,5,5,Good
+843,2558,5,5,Good
+844,219,5,3,Could be better
+845,4886,3,5,Good
+846,7950,5,5,Excellent
+847,5381,5,5,Excellent
+848,8841,4,5,Excellent
+849,9585,5,5,Average
+850,6984,4,5,Good
+851,7344,4,5,Good
+852,4490,4,5,Average
+853,5997,5,5,Average
+854,5023,5,4,Average
+855,6673,4,5,Excellent
+856,8917,5,4,Very good
+857,8192,4,5,Average
+858,7501,3,5,Good
+859,1340,4,4,Good
+860,4450,5,5,Very good
+861,1080,4,4,Good
+862,4052,4,5,Excellent
+863,5634,5,4,Very good
+864,3899,5,4,Could be better
+865,7085,5,5,Very good
+866,4028,5,5,Average
+867,3854,5,4,Excellent
+868,1538,5,4,Excellent
+869,9855,5,5,Average
+870,1761,3,4,Very good
+871,41,5,5,Good
+872,4114,5,5,Good
+873,1181,5,5,Very good
+874,2099,4,5,Could be better
+875,7490,4,5,Could be better
+876,9263,5,5,Very good
+877,8901,5,3,Very good
+878,5755,5,4,Very good
+879,1381,5,5,Very good
+880,1667,5,5,Good
+881,3950,4,3,Could be better
+882,1298,5,5,Average
+883,1714,5,4,Could be better
+884,650,5,5,Excellent
+885,7885,5,5,Excellent
+886,568,5,5,Excellent
+887,2302,5,5,Excellent
+888,6710,4,5,Good
+889,5793,4,5,Good
+890,8858,5,5,Good
+891,199,5,5,Could be better
+892,8053,5,5,Average
+893,2202,4,5,Excellent
+894,8333,5,5,Very good
+895,115,5,5,Very good
+896,1378,5,5,Average
+897,5826,5,5,Good
+898,4544,5,4,Excellent
+899,7152,5,5,Very good
+900,7924,5,5,Average
+901,2376,5,5,Excellent
+902,8356,5,4,Good
+903,9621,5,4,Average
+904,7136,5,5,Excellent
+905,3471,5,5,Excellent
+906,8580,5,4,Excellent
+907,1933,4,5,Excellent
+908,5540,5,5,Excellent
+909,7837,4,5,Very good
+910,2048,4,5,Excellent
+911,9744,5,4,Average
+912,2152,5,3,Good
+913,5508,5,3,Could be better
+914,692,5,5,Very good
+915,6261,4,5,Very good
+916,8093,5,5,Could be better
+917,1242,5,5,Very good
+918,8455,3,5,Average
+919,5738,5,5,Average
+920,755,5,5,Very good
+921,7866,3,4,Excellent
+922,8922,5,4,Excellent
+923,1864,5,5,Good
+924,5989,5,4,Could be better
+925,4453,4,4,Could be better
+926,5473,5,5,Could be better
+927,4037,5,5,Excellent
+928,1794,5,5,Good
+929,639,4,5,Good
+930,9213,5,4,Average
+931,6489,5,5,Excellent
+932,5169,5,4,Very good
+933,7276,5,5,Good
+934,5842,4,5,Very good
+935,2483,4,5,Average
+936,1211,5,5,Very good
+937,6044,5,5,Good
+938,617,5,4,Excellent
+939,1116,4,5,Excellent
+940,4584,4,5,Good
+941,2976,5,5,Could be better
+942,8615,5,5,Average
+943,6684,5,5,Could be better
+944,4055,4,5,Good
+945,7881,4,5,Very good
+946,7011,5,5,Could be better
+947,8413,5,5,Very good
+948,6323,4,5,Very good
+949,1805,3,4,Average
+950,9086,5,5,Good
+951,2836,5,5,Good
+952,2247,5,5,Good
+953,9492,5,5,Very good
+954,3522,5,5,Could be better
+955,8728,4,5,Good
+956,5142,5,5,Good
+957,8165,4,4,Good
+958,6507,5,5,Could be better
+959,7638,5,5,Average
+960,9824,4,4,Average
+961,521,5,5,Good
+962,1723,5,5,Good
+963,207,5,4,Very good
+964,9756,5,5,Very good
+965,1505,4,5,Excellent
+966,3231,5,5,Very good
+967,6454,5,5,Could be better
+968,4330,4,3,Average
+969,4650,5,5,Very good
+970,4276,5,4,Average
+971,7051,5,5,Could be better
+972,4530,4,4,Good
+973,9581,3,5,Average
+974,691,5,3,Excellent
+975,5834,5,5,Average
+976,742,4,3,Average
+977,5274,5,5,Could be better
+978,8248,4,5,Good
+979,1559,5,4,Very good
+980,901,5,5,Good
+981,9839,3,5,Could be better
+982,2929,3,5,Good
+983,4973,4,4,Excellent
+984,1529,4,5,Excellent
+985,4635,5,4,Could be better
+986,1568,5,5,Good
+987,693,5,5,Excellent
+988,6619,5,5,Very good
+989,2754,3,4,Good
+990,7479,5,5,Could be better
+991,7889,5,5,Could be better
+992,2975,4,3,Excellent
+993,5838,4,5,Very good
+994,6046,4,5,Very good
+995,9174,3,5,Very good
+996,5661,5,4,Very good
+997,4361,4,5,Good
+998,5292,5,5,Very good
+999,6897,3,5,Very good
+1000,5406,4,5,Average
+1001,2382,5,5,Very good
+1002,7864,5,4,Could be better
+1003,2009,4,4,Very good
+1004,4130,4,5,Could be better
+1005,3439,3,3,Very good
+1006,6028,5,5,Excellent
+1007,2456,4,4,Very good
+1008,614,5,4,Good
+1009,5790,5,5,Excellent
+1010,6595,4,5,Average
+1011,2517,5,5,Average
+1012,1150,5,4,Very good
+1013,5136,5,4,Could be better
+1014,6659,5,5,Could be better
+1015,3448,5,5,Excellent
+1016,7595,5,5,Average
+1017,2307,4,5,Average
+1018,6415,5,5,Average
+1019,609,5,5,Could be better
+1020,5956,5,5,Excellent
+1021,1724,5,5,Good
+1022,8027,5,5,Excellent
+1023,5975,5,4,Could be better
+1024,2051,5,5,Excellent
+1025,323,5,5,Excellent
+1026,2090,5,5,Very good
+1027,7997,5,5,Excellent
+1028,1130,5,5,Good
+1029,985,5,4,Very good
+1030,3155,5,5,Good
+1031,3151,5,5,Could be better
+1032,4575,4,5,Could be better
+1033,7781,4,4,Could be better
+1034,553,4,5,Average
+1035,8419,4,5,Very good
+1036,8789,5,4,Very good
+1037,6943,5,5,Very good
+1038,299,5,4,Excellent
+1039,1900,4,5,Good
+1040,8835,5,5,Very good
+1041,5856,5,4,Average
+1042,1356,5,5,Good
+1043,7911,3,5,Average
+1044,9967,5,4,Excellent
+1045,6157,4,5,Excellent
+1046,4681,4,5,Could be better
+1047,6344,5,5,Good
+1048,7582,5,5,Average
+1049,4242,5,5,Excellent
+1050,6875,4,5,Very good
+1051,5077,4,5,Good
+1052,4682,4,5,Could be better
+1053,82,3,5,Good
+1054,5942,5,4,Excellent
+1055,9182,4,5,Average
+1056,4817,5,3,Good
+1057,134,5,5,Excellent
+1058,5855,5,5,Excellent
+1059,1246,5,5,Average
+1060,2305,5,5,Very good
+1061,6621,4,5,Could be better
+1062,1144,5,5,Good
+1063,2794,5,4,Average
+1064,206,5,4,Excellent
+1065,4890,4,5,Excellent
+1066,3905,5,5,Good
+1067,789,5,4,Good
+1068,7163,5,5,Good
+1069,3487,4,4,Could be better
+1070,5296,3,3,Very good
+1071,580,4,5,Very good
+1072,7025,4,4,Very good
+1073,3149,5,5,Could be better
+1074,764,5,3,Good
+1075,4955,5,5,Could be better
+1076,1426,5,4,Very good
+1077,5785,5,4,Excellent
+1078,1976,3,4,Average
+1079,2338,5,5,Could be better
+1080,7259,5,5,Good
+1081,1754,5,5,Average
+1082,808,5,4,Very good
+1083,9298,5,3,Average
+1084,3420,5,4,Good
+1085,7677,4,5,Average
+1086,7227,5,5,Could be better
+1087,976,3,4,Could be better
+1088,2223,5,4,Excellent
+1089,9420,4,5,Very good
+1090,4080,4,5,Average
+1091,8185,5,4,Very good
+1092,4732,5,5,Average
+1093,4790,5,5,Good
+1094,7138,4,5,Could be better
+1095,2472,5,5,Good
+1096,2162,5,4,Good
+1097,989,5,5,Very good
+1098,6757,4,4,Good
+1099,7181,5,5,Good
+1100,5575,4,5,Excellent
+1101,1700,3,4,Very good
+1102,2442,5,5,Good
+1103,1337,4,5,Very good
+1104,4382,4,3,Average
+1105,971,4,5,Average
+1106,452,5,5,Good
+1107,3048,5,4,Very good
+1108,1542,5,4,Good
+1109,9453,4,5,Very good
+1110,6326,5,5,Very good
+1111,1502,5,5,Good
+1112,7895,5,4,Excellent
+1113,6933,3,3,Excellent
+1114,727,5,5,Average
+1115,3660,5,5,Excellent
+1116,5342,4,5,Could be better
+1117,6273,5,5,Average
+1118,4773,5,5,Good
+1119,1734,5,5,Very good
+1120,6060,5,4,Good
+1121,1370,5,5,Excellent
+1122,2729,5,5,Very good
+1123,1625,5,4,Average
+1124,9634,3,5,Average
+1125,4366,4,5,Good
+1126,5844,3,4,Average
+1127,2725,5,3,Excellent
+1128,2373,4,4,Excellent
+1129,8921,4,5,Good
+1130,1971,4,5,Could be better
+1131,2102,4,5,Very good
+1132,5737,5,5,Good
+1133,8036,5,5,Very good
+1134,2730,4,4,Average
+1135,3657,4,5,Average
+1136,1098,5,4,Could be better
+1137,6107,4,5,Could be better
+1138,5918,5,5,Excellent
+1139,8141,5,5,Average
+1140,5015,5,5,Average
+1141,1692,4,5,Good
+1142,5991,5,4,Very good
+1143,3734,5,5,Average
+1144,9992,4,5,Good
+1145,3277,5,5,Excellent
+1146,492,5,4,Average
+1147,1694,4,3,Excellent
+1148,6761,5,5,Excellent
+1149,6709,5,5,Excellent
+1150,4310,4,4,Very good
+1151,4161,5,5,Very good
+1152,4142,4,5,Could be better
+1153,3325,5,5,Good
+1154,5239,5,5,Excellent
+1155,2736,5,5,Good
+1156,9590,5,4,Average
+1157,8618,5,5,Good
+1158,3362,5,5,Average
+1159,2136,3,4,Very good
+1160,9193,5,5,Good
+1161,5626,5,5,Average
+1162,3846,5,5,Could be better
+1163,4791,5,5,Excellent
+1164,5877,5,4,Very good
+1165,5475,5,5,Good
+1166,9779,3,5,Very good
+1167,3182,5,4,Excellent
+1168,2695,5,5,Could be better
+1169,7899,5,5,Could be better
+1170,7157,5,5,Good
+1171,5593,4,5,Good
+1172,5931,4,5,Very good
+1173,710,4,3,Could be better
+1174,6518,4,4,Excellent
+1175,3890,5,5,Average
+1176,7572,4,5,Average
+1177,223,5,5,Average
+1178,4412,4,5,Excellent
+1179,1858,5,5,Average
+1180,6265,4,4,Very good
+1181,8534,4,5,Average
+1182,9831,5,4,Excellent
+1183,3032,5,5,Could be better
+1184,9986,5,5,Average
+1185,4699,5,5,Average
+1186,3780,5,5,Average
+1187,8406,5,5,Average
+1188,5328,3,4,Could be better
+1189,8324,4,5,Very good
+1190,2969,5,5,Could be better
+1191,1353,5,5,Average
+1192,417,4,5,Average
+1193,9342,3,5,Excellent
+1194,7807,5,4,Could be better
+1195,1973,4,5,Good
+1196,1165,5,4,Excellent
+1197,7481,4,5,Average
+1198,2812,5,4,Very good
+1199,418,5,3,Excellent
+1200,3740,3,5,Excellent
+1201,4867,5,4,Could be better
+1202,5690,5,5,Excellent
+1203,9103,5,4,Excellent
+1204,6271,5,5,Good
+1205,1483,4,5,Good
+1206,8866,4,4,Very good
+1207,9200,3,4,Very good
+1208,9028,5,5,Could be better
+1209,5083,4,4,Average
+1210,8071,5,5,Could be better
+1211,8339,4,5,Could be better
+1212,269,5,5,Excellent
+1213,8387,4,5,Very good
+1214,965,5,3,Excellent
+1215,5036,5,5,Average
+1216,1037,5,5,Very good
+1217,125,5,3,Could be better
+1218,948,5,3,Good
+1219,6804,4,4,Very good
+1220,1865,5,5,Excellent
+1221,1540,5,5,Excellent
+1222,2169,4,5,Good
+1223,8001,5,5,Good
+1224,1517,4,5,Could be better
+1225,257,4,3,Very good
+1226,8566,5,5,Excellent
+1227,4208,4,5,Could be better
+1228,1436,5,5,Excellent
+1229,711,5,4,Excellent
+1230,3335,5,5,Could be better
+1231,3914,3,4,Average
+1232,2157,5,5,Good
+1233,3978,5,3,Average
+1234,2439,5,5,Good
+1235,4915,4,5,Very good
+1236,6509,5,5,Very good
+1237,4546,5,5,Average
+1238,9258,3,5,Good
+1239,8314,5,4,Could be better
+1240,6748,5,5,Average
+1241,6473,5,5,Could be better
+1242,9126,5,5,Good
+1243,8951,5,4,Good
+1244,2631,5,5,Good
+1245,1216,3,5,Very good
+1246,7034,5,4,Could be better
+1247,3259,5,4,Excellent
+1248,2768,4,5,Could be better
+1249,2549,4,4,Good
+1250,8889,3,3,Good
+1251,8799,4,4,Average
+1252,2796,5,5,Very good
+1253,4539,4,5,Good
+1254,4557,3,5,Could be better
+1255,9633,4,5,Very good
+1256,8273,5,5,Good
+1257,8513,5,5,Good
+1258,803,5,4,Good
+1259,7206,4,3,Excellent
+1260,9404,5,5,Very good
+1261,5029,5,4,Average
+1262,6259,4,5,Very good
+1263,621,5,5,Could be better
+1264,2998,5,5,Excellent
+1265,7717,3,5,Good
+1266,7188,4,4,Good
+1267,9448,4,5,Very good
+1268,6869,5,5,Very good
+1269,8975,3,5,Very good
+1270,1347,5,5,Average
+1271,5057,4,3,Good
+1272,370,5,5,Average
+1273,714,5,5,Excellent
+1274,3331,4,3,Average
+1275,8666,5,5,Excellent
+1276,3665,4,5,Could be better
+1277,6903,5,4,Excellent
+1278,3869,4,5,Could be better
+1279,8683,5,5,Very good
+1280,4179,5,4,Could be better
+1281,2101,5,5,Could be better
+1282,1851,4,5,Excellent
+1283,2232,4,4,Average
+1284,2674,5,5,Could be better
+1285,6239,5,4,Very good
+1286,3403,5,5,Very good
+1287,2144,4,5,Could be better
+1288,8114,5,5,Average
+1289,8920,5,5,Could be better
+1290,9918,4,5,Average
+1291,4610,4,5,Could be better
+1292,5047,5,5,Good
+1293,9416,5,4,Excellent
+1294,1840,5,5,Very good
+1295,7418,5,5,Good
+1296,1896,5,5,Excellent
+1297,909,5,5,Average
+1298,5800,5,5,Good
+1299,6049,4,5,Excellent
+1300,3639,5,5,Could be better
+1301,9344,5,4,Excellent
+1302,6821,5,5,Average
+1303,2332,5,4,Very good
+1304,3564,3,5,Average
+1305,2315,4,5,Average
+1306,1086,5,4,Could be better
+1307,5046,4,5,Good
+1308,2222,5,5,Good
+1309,712,5,4,Good
+1310,1333,4,3,Could be better
+1311,324,5,4,Could be better
+1312,8035,5,5,Could be better
+1313,383,5,5,Excellent
+1314,7886,3,4,Excellent
+1315,2437,4,5,Could be better
+1316,7125,5,5,Very good
+1317,4762,3,5,Excellent
+1318,139,5,5,Good
+1319,6607,5,3,Good
+1320,2453,5,3,Good
+1321,4663,5,5,Good
+1322,9339,5,3,Excellent
+1323,2033,5,5,Excellent
+1324,9487,5,5,Could be better
+1325,4893,5,3,Average
+1326,6482,5,5,Could be better
+1327,7342,4,4,Very good
+1328,8872,5,5,Excellent
+1329,447,5,5,Very good
+1330,8151,4,4,Good
+1331,3559,5,5,Could be better
+1332,2616,5,5,Good
+1333,878,4,5,Average
+1334,6188,5,3,Very good
+1335,4102,5,4,Excellent
+1336,9550,5,5,Very good
+1337,8735,5,5,Good
+1338,7179,4,5,Average
+1339,3404,5,5,Excellent
+1340,3323,5,5,Could be better
+1341,9321,5,5,Good
+1342,2164,5,5,Excellent
+1343,8815,5,5,Could be better
+1344,8187,3,4,Good
+1345,1549,4,5,Good
+1346,7043,5,5,Excellent
+1347,2534,5,5,Very good
+1348,9140,3,4,Excellent
+1349,7341,5,5,Average
+1350,2416,5,4,Average
+1351,4482,4,5,Could be better
+1352,9665,5,5,Could be better
+1353,8282,5,5,Could be better
+1354,120,5,5,Very good
+1355,7321,4,5,Good
+1356,3607,5,5,Excellent
+1357,4419,5,4,Good
+1358,3873,5,4,Could be better
+1359,7725,5,4,Good
+1360,543,4,5,Good
+1361,5655,5,4,Average
+1362,4966,4,5,Excellent
+1363,6747,5,5,Good
+1364,5437,5,5,Good
+1365,6203,5,5,Very good
+1366,2418,5,5,Average
+1367,7311,5,5,Could be better
+1368,4448,5,5,Very good
+1369,8234,5,4,Average
+1370,7806,5,4,Excellent
+1371,9417,5,5,Very good
+1372,3274,5,5,Very good
+1373,1510,5,4,Very good
+1374,4347,4,5,Excellent
+1375,6221,5,4,Good
+1376,9476,4,5,Could be better
+1377,8461,5,4,Good
+1378,9189,5,5,Could be better
+1379,8304,5,4,Average
+1380,2236,4,4,Very good
+1381,2709,5,4,Excellent
+1382,9942,5,5,Very good
+1383,2811,4,5,Could be better
+1384,6951,5,4,Very good
+1385,8493,5,5,Very good
+1386,6444,5,5,Excellent
+1387,8154,5,5,Very good
+1388,8238,5,5,Excellent
+1389,3375,5,5,Very good
+1390,485,3,4,Good
+1391,4582,5,5,Average
+1392,7230,5,5,Very good
+1393,2163,5,5,Average
+1394,4058,4,5,Excellent
+1395,6201,5,5,Very good
+1396,9763,5,5,Could be better
+1397,9160,5,5,Could be better
+1398,2303,4,5,Could be better
+1399,8057,4,3,Average
+1400,2807,5,5,Good
+1401,8425,5,5,Good
+1402,2501,5,5,Very good
+1403,4326,4,5,Good
+1404,1816,4,5,Very good
+1405,1059,5,3,Very good
+1406,4940,4,5,Excellent
+1407,9286,5,5,Average
+1408,3957,3,5,Very good
+1409,7643,4,5,Could be better
+1410,8200,4,5,Excellent
+1411,2423,5,5,Excellent
+1412,6424,5,5,Excellent
+1413,8760,5,3,Good
+1414,8743,5,5,Good
+1415,1960,5,4,Very good
+1416,1196,5,5,Average
+1417,416,4,5,Average
+1418,7798,5,5,Very good
+1419,7392,5,5,Very good
+1420,7730,5,5,Very good
+1421,9596,5,5,Average
+1422,3254,5,5,Good
+1423,2875,5,4,Could be better
+1424,6113,5,5,Excellent
+1425,5225,4,4,Could be better
+1426,303,5,5,Could be better
+1427,2249,4,5,Very good
+1428,6112,4,5,Average
+1429,5560,5,5,Could be better
+1430,1416,5,5,Average
+1431,1968,4,5,Very good
+1432,1466,5,5,Could be better
+1433,9038,4,5,Could be better
+1434,3572,4,5,Excellent
+1435,8659,5,4,Very good
+1436,8067,5,5,Average
+1437,2871,5,5,Very good
+1438,1977,5,3,Very good
+1439,2411,5,5,Could be better
+1440,5546,4,5,Good
+1441,9760,5,5,Very good
+1442,7223,5,4,Excellent
+1443,9929,4,4,Could be better
+1444,7664,5,5,Average
+1445,4666,5,4,Could be better
+1446,6633,5,5,Very good
+1447,6516,5,5,Could be better
+1448,8583,5,5,Could be better
+1449,4425,5,5,Good
+1450,6070,5,5,Good
+1451,2957,3,5,Good
+1452,345,5,4,Could be better
+1453,1,5,4,Good
+1454,1894,5,5,Very good
+1455,4403,5,5,Excellent
+1456,2479,5,5,Could be better
+1457,9157,5,5,Good
+1458,6506,4,5,Excellent
+1459,1093,5,4,Very good
+1460,21,5,4,Could be better
+1461,4766,5,5,Excellent
+1462,8821,5,5,Very good
+1463,3232,5,5,Excellent
+1464,9714,5,5,Could be better
+1465,12,5,5,Excellent
+1466,2567,5,5,Excellent
+1467,2739,3,5,Excellent
+1468,1354,5,4,Could be better
+1469,5914,5,5,Excellent
+1470,9389,5,5,Excellent
+1471,7925,5,5,Excellent
+1472,8386,4,5,Good
+1473,6357,5,5,Excellent
+1474,437,5,5,Good
+1475,167,5,5,Excellent
+1476,5154,4,5,Very good
+1477,3417,5,5,Good
+1478,1429,5,5,Excellent
+1479,7143,5,5,Excellent
+1480,1790,4,5,Could be better
+1481,7536,5,4,Good
+1482,1719,5,5,Good
+1483,806,5,4,Very good
+1484,1849,5,5,Could be better
+1485,9896,4,4,Could be better
+1486,4569,5,5,Could be better
+1487,4077,5,5,Excellent
+1488,9021,5,3,Very good
+1489,8898,5,5,Excellent
+1490,2629,4,5,Average
+1491,1837,5,5,Very good
+1492,8313,5,5,Could be better
+1493,6721,5,5,Excellent
+1494,1161,5,4,Good
+1495,9057,5,4,Good
+1496,9600,5,4,Very good
+1497,8623,4,5,Could be better
+1498,7213,5,5,Good
+1499,9853,5,4,Could be better
+1500,255,5,5,Very good
+1501,5698,5,5,Very good
+1502,4445,5,5,Could be better
+1503,540,4,5,Good
+1504,9731,4,5,Good
+1505,9026,4,5,Excellent
+1506,7831,5,4,Very good
+1507,561,5,5,Excellent
+1508,3473,5,5,Excellent
+1509,3296,4,5,Good
+1510,8579,4,3,Average
+1511,4339,5,5,Average
+1512,2614,4,5,Excellent
+1513,1452,4,4,Could be better
+1514,7047,5,4,Very good
+1515,9776,5,4,Could be better
+1516,7159,3,5,Average
+1517,5930,4,5,Very good
+1518,6649,4,5,Very good
+1519,2037,5,5,Could be better
+1520,1570,5,5,Excellent
+1521,3145,4,5,Very good
+1522,2961,5,5,Could be better
+1523,781,4,5,Very good
+1524,3195,4,5,Very good
+1525,6129,5,5,Excellent
+1526,1599,5,4,Very good
+1527,6676,5,5,Excellent
+1528,2997,5,5,Good
+1529,2880,5,5,Good
+1530,6411,4,5,Very good
+1531,6700,5,5,Could be better
+1532,4297,5,5,Could be better
+1533,4634,5,5,Average
+1534,7870,5,5,Average
+1535,1524,5,4,Average
+1536,7144,4,5,Could be better
+1537,7005,5,5,Very good
+1538,7856,5,5,Could be better
+1539,5470,5,4,Very good
+1540,6400,5,4,Excellent
+1541,3493,4,4,Could be better
+1542,5482,4,4,Could be better
+1543,9059,5,4,Average
+1544,4843,5,3,Could be better
+1545,4892,4,4,Good
+1546,6882,5,4,Average
+1547,9242,4,5,Excellent
+1548,1177,5,4,Excellent
+1549,1887,5,5,Excellent
+1550,9372,5,3,Could be better
+1551,4411,4,5,Good
+1552,7534,4,4,Average
+1553,4911,5,3,Average
+1554,5082,5,5,Average
+1555,4614,4,5,Good
+1556,2595,4,5,Average
+1557,5240,4,3,Could be better
+1558,4170,5,5,Excellent
+1559,6078,5,4,Good
+1560,3197,4,5,Very good
+1561,4499,5,5,Good
+1562,8309,3,4,Good
+1563,4027,5,5,Good
+1564,5954,4,5,Very good
+1565,5888,3,5,Could be better
+1566,3261,4,4,Good
+1567,8851,5,5,Good
+1568,3842,4,3,Could be better
+1569,8690,4,5,Average
+1570,331,5,5,Could be better
+1571,6997,4,5,Good
+1572,7263,5,5,Average
+1573,2421,5,5,Excellent
+1574,287,5,3,Excellent
+1575,347,3,4,Could be better
+1576,150,5,4,Excellent
+1577,5908,5,4,Could be better
+1578,1606,5,4,Could be better
+1579,6065,4,5,Average
+1580,9510,3,3,Average
+1581,1974,4,4,Average
+1582,2486,5,5,Good
+1583,7869,4,5,Could be better
+1584,391,5,5,Could be better
+1585,7370,5,5,Good
+1586,5008,3,5,Average
+1587,3927,4,5,Good
+1588,9418,5,5,Could be better
+1589,5572,4,3,Good
+1590,1590,5,4,Average
+1591,5103,3,4,Could be better
+1592,8663,5,4,Excellent
+1593,2312,5,4,Average
+1594,1874,5,4,Could be better
+1595,6760,5,4,Average
+1596,9809,4,4,Very good
+1597,489,5,4,Good
+1598,3324,4,4,Very good
+1599,6883,5,5,Excellent
+1600,974,5,5,Good
+1601,376,5,5,Could be better
+1602,9104,5,4,Good
+1603,2008,4,5,Average
+1604,7409,5,5,Could be better
+1605,244,4,4,Could be better
+1606,2830,4,5,Very good
+1607,1579,4,5,Good
+1608,5693,5,4,Could be better
+1609,3936,5,5,Excellent
+1610,2000,5,5,Could be better
+1611,4863,5,5,Excellent
+1612,5756,4,5,Very good
+1613,651,5,5,Good
+1614,7055,5,5,Very good
+1615,3786,4,5,Excellent
+1616,3227,5,5,Could be better
+1617,2003,5,4,Excellent
+1618,5150,5,5,Excellent
+1619,8778,4,4,Average
+1620,5885,5,4,Very good
+1621,9250,5,5,Average
+1622,867,4,5,Could be better
+1623,6568,5,5,Good
+1624,2220,4,4,Excellent
+1625,9695,5,4,Very good
+1626,4064,5,5,Good
+1627,5229,3,5,Average
+1628,7797,5,5,Average
+1629,8863,3,5,Could be better
+1630,4316,3,5,Could be better
+1631,7841,5,3,Average
+1632,1567,5,5,Good
+1633,9006,4,5,Good
+1634,5536,5,5,Very good
+1635,9022,4,5,Excellent
+1636,1975,5,5,Could be better
+1637,280,5,5,Could be better
+1638,5764,4,3,Excellent
+1639,6791,4,5,Very good
+1640,548,3,5,Good
+1641,657,5,4,Good
+1642,6661,5,5,Good
+1643,4607,5,4,Could be better
+1644,5582,3,5,Good
+1645,5411,5,5,Could be better
+1646,2059,5,5,Excellent
+1647,658,5,5,Average
+1648,7668,5,4,Could be better
+1649,7892,5,5,Excellent
+1650,2292,5,5,Very good
+1651,3654,5,5,Very good
+1652,7755,4,5,Good
+1653,6479,5,5,Excellent
+1654,2273,4,4,Very good
+1655,8882,4,4,Average
+1656,5712,5,5,Excellent
+1657,4439,5,5,Excellent
+1658,6446,5,5,Could be better
+1659,6420,4,5,Excellent
+1660,6662,5,5,Very good
+1661,448,5,5,Average
+1662,8848,4,5,Excellent
+1663,8408,5,3,Could be better
+1664,429,5,5,Average
+1665,6032,5,5,Average
+1666,9812,5,4,Average
+1667,5096,5,5,Very good
+1668,3209,5,4,Excellent
+1669,5940,5,4,Average
+1670,8764,5,5,Could be better
+1671,8811,5,5,Very good
+1672,10000,5,4,Average
+1673,4420,5,5,Good
+1674,5955,3,4,Very good
+1675,964,5,5,Very good
+1676,2034,5,5,Could be better
+1677,7788,5,5,Good
+1678,3712,4,5,Very good
+1679,2867,4,5,Very good
+1680,8627,5,5,Excellent
+1681,2990,4,5,Excellent
+1682,4029,4,5,Good
+1683,5259,5,5,Average
+1684,8684,5,4,Good
+1685,8430,5,5,Excellent
+1686,5603,5,5,Good
+1687,3892,5,4,Could be better
+1688,3758,5,4,Very good
+1689,9224,5,5,Average
+1690,337,5,5,Could be better
+1691,6317,5,5,Excellent
+1692,4321,4,5,Excellent
+1693,7472,5,5,Excellent
+1694,5162,4,5,Average
+1695,494,4,5,Could be better
+1696,5982,5,5,Excellent
+1697,6399,5,5,Very good
+1698,4903,5,5,Good
+1699,773,4,5,Average
+1700,66,5,5,Average
+1701,5089,5,3,Good
+1702,2139,5,5,Excellent
+1703,2064,5,4,Average
+1704,6403,5,4,Very good
+1705,6671,4,4,Good
+1706,6974,5,3,Could be better
+1707,8009,5,5,Excellent
+1708,5511,4,5,Average
+1709,5481,4,5,Could be better
+1710,9552,5,5,Good
+1711,5081,3,4,Good
+1712,7758,5,3,Average
+1713,9023,5,5,Very good
+1714,8592,5,5,Very good
+1715,4207,4,4,Average
+1716,2081,5,5,Very good
+1717,6351,4,4,Excellent
+1718,8215,4,5,Excellent
+1719,5679,3,5,Could be better
+1720,5394,5,5,Average
+1721,9232,5,5,Average
+1722,2763,5,4,Good
+1723,1695,5,5,Very good
+1724,555,5,4,Very good
+1725,8806,4,5,Excellent
+1726,1047,5,5,Could be better
+1727,9214,5,5,Could be better
+1728,532,4,5,Good
+1729,8377,5,5,Very good
+1730,859,5,5,Excellent
+1731,569,5,5,Average
+1732,8285,5,4,Very good
+1733,9170,5,4,Very good
+1734,565,5,4,Good
+1735,9777,5,5,Could be better
+1736,970,5,4,Good
+1737,6852,5,5,Very good
+1738,2951,4,5,Average
+1739,8173,4,5,Excellent
+1740,4717,4,5,Could be better
+1741,5964,5,5,Very good
+1742,6795,5,5,Average
+1743,5843,5,4,Very good
+1744,1374,3,4,Could be better
+1745,810,5,4,Average
+1746,3713,4,5,Could be better
+1747,1603,4,5,Average
+1748,272,5,4,Average
+1749,9889,4,4,Very good
+1750,8537,5,5,Excellent
+1751,154,5,4,Very good
+1752,75,5,5,Excellent
+1753,1956,5,4,Excellent
+1754,1454,4,5,Average
+1755,1912,4,5,Excellent
+1756,8346,5,5,Good
+1757,844,4,4,Excellent
+1758,6496,4,5,Very good
+1759,4097,5,5,Very good
+1760,7009,5,4,Average
+1761,6066,5,5,Good
+1762,8511,5,5,Could be better
+1763,2201,4,5,Could be better
+1764,6266,5,5,Could be better
+1765,3257,5,5,Average
+1766,5752,5,5,Average
+1767,9299,4,4,Could be better
+1768,7893,5,5,Very good
+1769,8402,5,4,Excellent
+1770,1954,4,5,Average
+1771,3592,5,5,Very good
+1772,4376,4,5,Average
+1773,5364,5,5,Excellent
+1774,7769,4,5,Could be better
+1775,7287,5,4,Excellent
+1776,8399,4,5,Excellent
+1777,9593,5,5,Average
+1778,7451,3,4,Very good
+1779,9670,5,5,Excellent
+1780,5048,4,5,Very good
+1781,7486,5,4,Good
+1782,913,5,5,Excellent
+1783,8014,5,4,Could be better
+1784,4794,5,4,Could be better
+1785,7547,5,5,Good
+1786,81,4,5,Good
+1787,3885,5,5,Good
+1788,4930,5,5,Good
+1789,8004,5,5,Average
+1790,6047,5,4,Excellent
+1791,683,5,5,Very good
+1792,6857,4,5,Very good
+1793,4653,5,5,Good
+1794,7734,5,5,Could be better
+1795,733,5,5,Excellent
+1796,4231,5,4,Average
+1797,8359,3,5,Could be better
+1798,8544,3,3,Very good
+1799,4262,3,5,Very good
+1800,829,4,4,Excellent
+1801,4278,5,3,Excellent
+1802,7448,5,5,Average
+1803,7631,3,5,Good
+1804,943,5,5,Average
+1805,5092,4,4,Very good
+1806,9158,5,4,Very good
+1807,4780,5,5,Average
+1808,7044,5,4,Could be better
+1809,7624,5,5,Good
+1810,420,5,5,Good
+1811,3838,5,5,Excellent
+1812,6461,5,5,Good
+1813,375,5,5,Excellent
+1814,2259,4,5,Good
+1815,3877,4,5,Good
+1816,8504,5,5,Very good
+1817,8707,5,4,Good
+1818,5927,4,5,Very good
+1819,8896,5,5,Excellent
+1820,5602,5,5,Average
+1821,5469,4,5,Could be better
+1822,9368,5,4,Average
+1823,3109,4,5,Very good
+1824,5742,3,5,Very good
+1825,7528,4,4,Good
+1826,1129,5,5,Very good
+1827,7746,5,3,Excellent
+1828,8482,4,5,Very good
+1829,2435,5,5,Average
+1830,6562,4,5,Good
+1831,3534,4,4,Excellent
+1832,5892,5,5,Excellent
+1833,481,5,5,Could be better
+1834,9613,5,5,Excellent
+1835,6686,5,5,Good
+1836,7660,5,4,Could be better
+1837,9520,5,4,Good
+1838,2912,3,4,Could be better
+1839,3171,5,5,Could be better
+1840,7894,5,4,Could be better
+1841,7362,5,5,Good
+1842,2820,5,5,Good
+1843,7086,5,5,Could be better
+1844,2016,4,5,Good
+1845,6601,4,5,Very good
+1846,4661,4,4,Very good
+1847,9576,3,4,Average
+1848,7279,3,3,Very good
+1849,7703,4,5,Could be better
+1850,7941,4,5,Average
+1851,8570,5,5,Good
+1852,1771,4,5,Average
+1853,1184,5,3,Could be better
+1854,9069,5,5,Could be better
+1855,2922,5,5,Excellent
+1856,2251,5,5,Very good
+1857,6691,5,5,Very good
+1858,3947,5,5,Average
+1859,3112,5,4,Average
+1860,5025,5,5,Very good
+1861,3036,5,5,Could be better
+1862,8718,5,5,Good
+1863,1250,5,5,Could be better
+1864,3433,5,5,Good
+1865,1854,5,5,Excellent
+1866,168,5,5,Average
+1867,623,4,5,Excellent
+1868,856,4,5,Could be better
+1869,5884,5,4,Average
+1870,380,5,5,Excellent
+1871,7540,4,4,Good
+1872,2913,5,5,Excellent
+1873,9784,5,5,Excellent
+1874,1219,5,5,Could be better
+1875,3102,5,5,Average
+1876,7327,5,5,Average
+1877,570,4,5,Excellent
+1878,1800,5,5,Excellent
+1879,1106,5,5,Could be better
+1880,8611,5,5,Good
+1881,9605,5,3,Could be better
+1882,4566,5,4,Good
+1883,1884,5,5,Excellent
+1884,8152,5,5,Excellent
+1885,3405,4,5,Average
+1886,1925,5,4,Excellent
+1887,1539,5,3,Very good
+1888,7118,5,5,Could be better
+1889,4022,4,5,Could be better
+1890,2885,3,5,Excellent
+1891,2981,3,5,Good
+1892,7803,5,4,Could be better
+1893,7014,5,4,Very good
+1894,3761,5,5,Very good
+1895,8725,5,5,Could be better
+1896,4381,5,5,Very good
+1897,7655,5,5,Could be better
+1898,363,5,3,Could be better
+1899,3140,4,4,Could be better
+1900,4738,5,3,Average
+1901,3872,5,5,Excellent
+1902,6784,4,4,Very good
+1903,5981,4,5,Very good
+1904,8652,5,5,Very good
+1905,6550,4,4,Could be better
+1906,3991,4,5,Could be better
+1907,8443,5,5,Excellent
+1908,1443,5,5,Average
+1909,7438,4,4,Could be better
+1910,2193,5,4,Could be better
+1911,2995,4,4,Good
+1912,3098,5,5,Very good
+1913,5650,4,5,Could be better
+1914,2198,4,4,Very good
+1915,7537,5,5,Excellent
+1916,7853,5,5,Excellent
+1917,9591,4,4,Average
+1918,746,5,5,Excellent
+1919,84,5,4,Average
+1920,9755,5,5,Average
+1921,1021,4,5,Average
+1922,7269,4,5,Could be better
+1923,8542,5,5,Average
+1924,3952,5,4,Good
+1925,5627,5,5,Could be better
+1926,6389,5,5,Good
+1927,6063,5,5,Good
+1928,6187,5,4,Could be better
+1929,5938,5,5,Excellent
+1930,5767,5,5,Good
+1931,5458,5,4,Good
+1932,2565,4,4,Average
+1933,1753,5,5,Average
+1934,4874,5,5,Good
+1935,5087,5,5,Average
+1936,1554,4,5,Average
+1937,5630,4,5,Very good
+1938,9175,5,5,Average
+1939,5232,3,5,Excellent
+1940,9458,5,5,Excellent
+1941,4111,5,4,Average
+1942,4754,4,5,Excellent
+1943,8497,5,4,Average
+1944,239,5,4,Could be better
+1945,2025,5,4,Very good
+1946,6410,5,5,Good
+1947,2876,5,5,Very good
+1948,9496,5,4,Average
+1949,546,4,5,Average
+1950,8600,5,3,Average
+1951,718,4,5,Could be better
+1952,1821,4,4,Excellent
+1953,8957,5,5,Could be better
+1954,5825,5,5,Average
+1955,3342,5,4,Very good
+1956,2275,5,5,Excellent
+1957,3369,4,4,Good
+1958,385,5,3,Very good
+1959,575,4,5,Average
+1960,6872,5,5,Could be better
+1961,2703,5,4,Very good
+1962,1472,5,5,Could be better
+1963,9392,4,4,Could be better
+1964,5638,5,5,Good
+1965,2200,5,4,Excellent
+1966,6300,4,4,Good
+1967,2786,5,5,Excellent
+1968,898,5,5,Very good
+1969,1745,5,5,Excellent
+1970,2489,4,5,Very good
+1971,847,5,5,Average
+1972,2383,5,5,Could be better
+1973,2851,5,5,Average
+1974,235,4,5,Good
+1975,1149,4,3,Excellent
+1976,1032,5,4,Excellent
+1977,6519,3,5,Good
+1978,2702,5,5,Could be better
+1979,6919,5,5,Average
+1980,3085,3,5,Average
+1981,3159,5,4,Could be better
+1982,2758,5,5,Could be better
+1983,3215,4,5,Average
+1984,5302,3,5,Average
+1985,3427,5,3,Could be better
+1986,7247,5,5,Excellent
+1987,687,5,5,Excellent
+1988,7750,5,5,Excellent
+1989,2317,5,5,Excellent
+1990,8020,5,5,Good
+1991,4302,3,5,Average
+1992,8011,5,5,Excellent
+1993,919,4,4,Good
+1994,8462,5,5,Good
+1995,9837,5,5,Good
+1996,723,5,5,Could be better
+1997,8436,5,5,Average
+1998,7557,5,5,Could be better
+1999,1789,3,5,Average
+2000,3612,5,5,Average
+2001,8358,5,4,Could be better
+2002,2256,5,5,Excellent
+2003,9410,3,5,Good
+2004,1180,5,5,Very good
+2005,7852,5,5,Could be better
+2006,6026,4,3,Good
+2007,1870,5,4,Good
+2008,3334,5,5,Excellent
+2009,8494,4,5,Average
+2010,5517,5,4,Very good
+2011,4848,4,4,Good
+2012,7450,5,5,Excellent
+2013,3067,5,5,Good
+2014,5761,3,5,Very good
+2015,9064,5,5,Good
+2016,1202,3,4,Excellent
+2017,3906,5,5,Excellent
+2018,3478,3,5,Could be better
+2019,4869,4,3,Average
+2020,26,4,5,Average
+2021,9056,5,5,Excellent
+2022,7485,5,5,Excellent
+2023,9890,4,4,Excellent
+2024,3675,4,4,Good
+2025,408,5,5,Excellent
+2026,3835,5,4,Very good
+2027,8473,5,3,Excellent
+2028,1527,5,5,Could be better
+2029,8902,3,5,Could be better
+2030,2748,5,5,Excellent
+2031,9499,3,4,Excellent
+2032,6359,5,3,Excellent
+2033,3477,4,5,Could be better
+2034,9949,5,5,Could be better
+2035,1775,5,5,Average
+2036,537,5,5,Good
+2037,1592,5,5,Very good
+2038,2428,5,5,Average
+2039,8904,5,5,Excellent
+2040,2942,5,4,Could be better
+2041,3706,4,5,Average
+2042,7773,4,4,Very good
+2043,8334,5,5,Good
+2044,9924,5,5,Very good
+2045,1536,5,5,Very good
+2046,4891,5,4,Very good
+2047,7827,5,5,Could be better
+2048,6052,5,5,Could be better
+2049,2698,3,3,Good
+2050,2374,3,5,Average
+2051,7844,5,5,Could be better
+2052,2406,5,5,Very good
+2053,3084,5,5,Excellent
+2054,8034,5,5,Could be better
+2055,7119,5,4,Excellent
+2056,8702,5,4,Could be better
+2057,7295,3,5,Average
+2058,503,5,5,Excellent
+2059,6392,4,4,Very good
+2060,1346,5,3,Good
+2061,7995,5,5,Good
+2062,6834,5,5,Excellent
+2063,6793,4,5,Very good
+2064,3943,5,3,Very good
+2065,1210,5,5,Average
+2066,7021,4,5,Average
+2067,895,5,5,Excellent
+2068,2451,4,4,Average
+2069,6339,5,3,Excellent
+2070,9725,5,5,Could be better
+2071,5529,5,5,Very good
+2072,8470,4,5,Could be better
+2073,63,5,4,Good
+2074,3613,4,5,Excellent
+2075,2757,3,5,Good
+2076,8836,5,5,Very good
+2077,9436,5,5,Average
+2078,6213,5,5,Excellent
+2079,4301,4,5,Excellent
+2080,2180,5,5,Very good
+2081,9822,5,5,Average
+2082,3636,5,5,Average
+2083,88,5,3,Excellent
+2084,4236,5,5,Very good
+2085,4988,3,5,Average
+2086,9723,3,5,Good
+2087,298,5,5,Excellent
+2088,6808,4,3,Average
+2089,8738,5,5,Average
+2090,7054,4,5,Excellent
+2091,4789,5,5,Very good
+2092,1257,5,5,Could be better
+2093,2330,4,5,Average
+2094,9120,4,5,Excellent
+2095,2740,5,4,Good
+2096,8979,3,4,Average
+2097,7113,4,5,Very good
+2098,6364,4,5,Good
+2099,6464,5,5,Average
+2100,2408,4,4,Very good
+2101,9162,4,5,Very good
+2102,5186,5,5,Good
+2103,9500,4,5,Very good
+2104,3469,5,5,Could be better
+2105,329,4,5,Very good
+2106,3574,3,5,Good
+2107,6501,5,5,Excellent
+2108,2311,3,5,Very good
+2109,5699,5,4,Could be better
+2110,5073,5,5,Average
+2111,5218,5,5,Good
+2112,2910,3,3,Good
+2113,5972,3,5,Excellent
+2114,2466,5,5,Good
+2115,7733,5,5,Could be better
+2116,8885,5,5,Good
+2117,3567,5,5,Could be better
+2118,6610,4,5,Average
+2119,5724,5,5,Good
+2120,109,4,5,Excellent
+2121,9557,5,4,Very good
+2122,5254,5,5,Average
+2123,4977,4,5,Could be better
+2124,6223,5,4,Very good
+2125,3188,5,5,Average
+2126,3718,5,4,Average
+2127,2877,4,5,Average
+2128,7062,5,5,Average
+2129,6814,5,3,Could be better
+2130,6468,5,5,Excellent
+2131,6274,5,5,Good
+2132,315,5,5,Good
+2133,1017,5,5,Good
+2134,1763,5,5,Very good
+2135,4223,5,5,Good
+2136,1267,4,3,Excellent
+2137,1055,5,4,Average
+2138,2080,3,4,Could be better
+2139,4129,5,5,Good
+2140,5851,5,5,Could be better
+2141,2104,5,4,Very good
+2142,3447,5,4,Good
+2143,5205,5,5,Excellent
+2144,2325,5,5,Could be better
+2145,2710,5,5,Excellent
+2146,9553,5,4,Average
+2147,1766,3,5,Very good
+2148,6626,5,5,Very good
+2149,4503,5,5,Very good
+2150,7307,5,5,Excellent
+2151,2987,5,5,Excellent
+2152,3889,5,5,Average
+2153,5649,3,5,Could be better
+2154,4659,3,4,Very good
+2155,7301,5,5,Average
+2156,4513,4,5,Could be better
+2157,8731,4,5,Average
+2158,45,5,5,Could be better
+2159,5858,4,5,Could be better
+2160,5235,5,5,Could be better
+2161,1431,5,5,Average
+2162,170,5,4,Excellent
+2163,5294,5,4,Could be better
+2164,7306,4,5,Good
+2165,7068,4,4,Excellent
+2166,6116,5,4,Average
+2167,6371,5,5,Good
+2168,2021,5,4,Good
+2169,5053,5,5,Could be better
+2170,771,4,5,Good
+2171,6280,5,4,Good
+2172,1846,5,5,Could be better
+2173,4493,5,5,Excellent
+2174,5064,5,5,Good
+2175,5814,5,5,Could be better
+2176,4489,4,5,Good
+2177,4720,5,5,Good
+2178,4377,5,4,Good
+2179,3830,5,5,Good
+2180,1054,5,5,Very good
+2181,6854,5,4,Excellent
+2182,1244,5,5,Good
+2183,7923,4,5,Excellent
+2184,8326,3,5,Good
+2185,1056,5,3,Good
+2186,1087,4,5,Good
+2187,3337,4,5,Excellent
+2188,9296,5,4,Average
+2189,1616,5,5,Very good
+2190,1605,5,5,Could be better
+2191,6554,4,4,Average
+2192,5058,3,5,Average
+2193,5110,4,5,Excellent
+2194,9444,3,5,Average
+2195,3383,4,5,Average
+2196,8970,5,3,Good
+2197,9947,5,5,Very good
+2198,9651,5,5,Very good
+2199,2147,5,5,Excellent
+2200,8540,4,5,Very good
+2201,586,5,5,Average
+2202,8146,5,4,Average
+2203,550,5,5,Very good
+2204,1600,5,5,Good
+2205,6924,5,5,Excellent
+2206,4429,4,4,Good
+2207,9320,4,5,Very good
+2208,3929,5,5,Excellent
+2209,145,5,4,Average
+2210,6136,5,5,Excellent
+2211,3848,4,5,Could be better
+2212,2054,5,5,Very good
+2213,2846,5,5,Excellent
+2214,5125,3,5,Average
+2215,7395,3,5,Could be better
+2216,183,4,5,Could be better
+2217,9727,5,3,Excellent
+2218,5664,5,5,Excellent
+2219,1711,5,4,Excellent
+2220,9010,5,5,Excellent
+2221,5493,5,5,Could be better
+2222,4308,5,5,Average
+2223,9294,3,5,Very good
+2224,7376,3,5,Average
+2225,2510,5,5,Very good
+2226,8881,5,5,Could be better
+2227,4454,4,4,Very good
+2228,3328,5,5,Average
+2229,1052,3,5,Could be better
+2230,2647,4,4,Good
+2231,6244,4,5,Could be better
+2232,600,4,4,Very good
+2233,2539,5,5,Excellent
+2234,4474,4,5,Very good
+2235,1038,5,3,Could be better
+2236,4275,5,5,Could be better
+2237,1406,5,5,Excellent
+2238,192,5,5,Excellent
+2239,1746,5,5,Average
+2240,5157,5,5,Good
+2241,5644,5,5,Good
+2242,2706,4,5,Average
+2243,7786,4,5,Excellent
+2244,8700,5,5,Could be better
+2245,3624,5,5,Average
+2246,5608,4,5,Very good
+2247,5952,5,5,Excellent
+2248,3449,5,5,Very good
+2249,1307,4,3,Average
+2250,5973,5,5,Could be better
+2251,3584,5,4,Very good
+2252,720,5,5,Very good
+2253,9584,5,4,Very good
+2254,1935,4,4,Average
+2255,7154,3,5,Excellent
+2256,1662,5,5,Excellent
+2257,1838,5,3,Could be better
+2258,8837,5,5,Very good
+2259,9141,5,3,Could be better
+2260,1919,3,5,Very good
+2261,7820,5,5,Could be better
+2262,8775,5,5,Could be better
+2263,7137,3,4,Average
+2264,8621,4,4,Very good
+2265,9099,5,4,Good
+2266,7678,5,5,Average
+2267,1274,5,5,Very good
+2268,8498,5,5,Good
+2269,6276,5,5,Could be better
+2270,8845,5,3,Very good
+2271,1656,4,5,Could be better
+2272,3884,4,5,Very good
+2273,348,5,5,Good
+2274,846,5,4,Could be better
+2275,3186,3,4,Very good
+2276,3483,5,5,Very good
+2277,8147,5,4,Very good
+2278,9109,4,5,Good
+2279,759,4,5,Good
+2280,4571,4,5,Could be better
+2281,3322,5,5,Could be better
+2282,7183,5,4,Average
+2283,5492,5,4,Very good
+2284,5341,4,4,Excellent
+2285,6440,5,4,Average
+2286,6651,4,5,Could be better
+2287,8624,5,5,Could be better
+2288,8622,5,5,Average
+2289,7192,5,5,Very good
+2290,9381,5,3,Very good
+2291,874,5,5,Could be better
+2292,5145,5,4,Could be better
+2293,6736,4,4,Excellent
+2294,5656,5,5,Average
+2295,4541,5,5,Good
+2296,6447,5,5,Could be better
+2297,8685,5,4,Excellent
+2298,9125,4,5,Could be better
+2299,4807,3,5,Good
+2300,8024,5,4,Average
+2301,5011,4,5,Excellent
+2302,3330,3,4,Could be better
+2303,3104,5,5,Could be better
+2304,2094,5,5,Very good
+2305,5326,5,5,Good
+2306,3115,3,4,Average
+2307,8935,4,5,Could be better
+2308,6609,5,5,Could be better
+2309,3214,5,5,Average
+2310,4662,4,5,Excellent
+2311,782,5,5,Average
+2312,4394,5,5,Average
+2313,6174,5,5,Average
+2314,1916,5,5,Could be better
+2315,7375,5,4,Good
+2316,7401,4,4,Excellent
+2317,8243,3,5,Very good
+2318,5700,5,5,Could be better
+2319,9927,4,5,Very good
+2320,6330,5,5,Very good
+2321,2783,4,5,Excellent
+2322,8061,4,5,Very good
+2323,9564,5,5,Could be better
+2324,2692,5,4,Very good
+2325,7661,4,5,Very good
+2326,8095,5,5,Very good
+2327,8899,5,5,Could be better
+2328,9247,4,5,Average
+2329,753,4,5,Could be better
+2330,4143,5,5,Very good
+2331,9676,5,5,Very good
+2332,4550,4,5,Average
+2333,3425,5,5,Could be better
+2334,8082,5,5,Could be better
+2335,7104,5,5,Could be better
+2336,4036,5,4,Very good
+2337,4957,4,5,Excellent
+2338,3031,5,3,Very good
+2339,5424,5,5,Good
+2340,9614,5,5,Average
+2341,7060,5,3,Good
+2342,445,4,5,Good
+2343,9625,5,5,Excellent
+2344,8106,4,5,Average
+2345,3158,5,5,Average
+2346,9375,5,5,Good
+2347,9551,5,4,Could be better
+2348,9475,5,5,Good
+2349,4858,5,5,Excellent
+2350,9208,5,5,Excellent
+2351,127,5,5,Average
+2352,4598,5,5,Average
+2353,5283,4,5,Excellent
+2354,7464,5,5,Could be better
+2355,4086,5,5,Excellent
+2356,2738,5,5,Excellent
+2357,8274,5,4,Could be better
+2358,7606,5,5,Excellent
+2359,8867,5,5,Very good
+2360,3680,5,5,Good
+2361,1228,4,5,Could be better
+2362,3763,5,5,Excellent
+2363,3876,5,5,Excellent
+2364,5305,4,5,Excellent
+2365,9143,5,5,Very good
+2366,9074,4,5,Good
+2367,5812,3,5,Excellent
+2368,3492,4,5,Excellent
+2369,9745,5,5,Good
+2370,9168,4,5,Very good
+2371,9765,5,4,Could be better
+2372,7346,5,3,Excellent
+2373,5968,5,4,Excellent
+2374,6680,5,4,Average
+2375,7172,5,4,Very good
+2376,7031,4,5,Excellent
+2377,7116,5,5,Could be better
+2378,7594,4,5,Average
+2379,4000,4,5,Very good
+2380,6733,5,4,Average
+2381,9395,4,5,Excellent
+2382,3526,5,5,Average
+2383,5257,5,5,Could be better
+2384,2211,5,5,Good
+2385,5792,4,5,Very good
+2386,5883,5,4,Very good
+2387,1557,5,4,Could be better
+2388,5378,5,5,Average
+2389,9781,5,5,Good
+2390,7620,5,5,Excellent
+2391,9778,4,5,Average
+2392,201,3,5,Very good
+2393,1188,5,5,Very good
+2394,1704,4,5,Very good
+2395,7920,5,5,Very good
+2396,7185,5,4,Good
+2397,8827,5,5,Very good
+2398,6622,3,5,Good
+2399,1823,5,4,Very good
+2400,237,5,5,Could be better
+2401,4213,4,4,Excellent
+2402,3937,4,3,Could be better
+2403,8051,4,5,Very good
+2404,612,5,4,Good
+2405,1255,3,5,Average
+2406,271,5,5,Good
+2407,2546,5,5,Excellent
+2408,1168,4,5,Good
+2409,7592,4,5,Average
+2410,5297,4,5,Average
+2411,9682,5,5,Excellent
+2412,2290,5,4,Excellent
+2413,7939,5,4,Average
+2414,2970,5,5,Excellent
+2415,1588,5,3,Excellent
+2416,5355,5,4,Very good
+2417,8414,5,5,Average
+2418,5382,5,5,Very good
+2419,1635,5,5,Average
+2420,4545,4,5,Very good
+2421,3268,5,4,Excellent
+2422,6892,5,5,Good
+2423,9330,4,4,Excellent
+2424,5293,5,5,Average
+2425,379,3,4,Could be better
+2426,5419,4,5,Good
+2427,5183,5,5,Excellent
+2428,8551,4,5,Could be better
+2429,5567,5,5,Excellent
+2430,353,5,5,Good
+2431,2642,4,5,Very good
+2432,5298,5,5,Very good
+2433,6608,5,5,Could be better
+2434,6803,4,3,Average
+2435,3646,5,5,Average
+2436,1424,5,5,Good
+2437,8108,4,3,Excellent
+2438,9648,5,4,Very good
+2439,7934,5,5,Could be better
+2440,8484,4,5,Good
+2441,3332,5,5,Very good
+2442,5707,4,3,Excellent
+2443,6674,4,5,Excellent
+2444,9993,5,3,Average
+2445,4269,5,5,Could be better
+2446,3614,5,5,Average
+2447,7109,4,5,Excellent
+2448,4908,5,4,Could be better
+2449,792,5,5,Could be better
+2450,3926,5,5,Good
+2451,6891,5,3,Very good
+2452,4126,5,5,Very good
+2453,5601,5,5,Excellent
+2454,5861,5,5,Could be better
+2455,2260,5,5,Very good
+2456,9031,5,3,Very good
+2457,4101,5,5,Could be better
+2458,6256,3,5,Excellent
+2459,4291,5,5,Excellent
+2460,4585,4,4,Good
+2461,2782,4,5,Average
+2462,1751,4,5,Very good
+2463,9656,5,5,Excellent
+2464,7526,5,5,Average
+2465,3286,5,5,Average
+2466,1235,5,5,Could be better
+2467,6248,4,5,Excellent
+2468,1964,5,5,Excellent
+2469,8142,5,5,Very good
+2470,9945,5,3,Good
+2471,3752,4,5,Could be better
+2472,1474,5,5,Very good
+2473,5672,3,4,Very good
+2474,9517,5,3,Excellent
+2475,9629,5,3,Good
+2476,3794,5,5,Average
+2477,6522,4,5,Very good
+2478,3731,5,4,Average
+2479,541,5,5,Could be better
+2480,5924,5,5,Good
+2481,3139,5,4,Could be better
+2482,731,5,5,Excellent
+2483,1604,5,3,Excellent
+2484,190,5,5,Could be better
+2485,1942,4,5,Very good
+2486,5104,5,5,Very good
+2487,3985,5,5,Good
+2488,2597,5,4,Excellent
+2489,1569,5,5,Good
+2490,7931,5,3,Excellent
+2491,6754,4,4,Very good
+2492,2270,3,5,Good
+2493,646,3,4,Good
+2494,9204,5,5,Very good
+2495,9773,4,4,Good
+2496,5242,5,4,Good
+2497,932,3,4,Average
+2498,7283,5,5,Average
+2499,7262,5,5,Good
+2500,1951,5,5,Good
+2501,3687,4,3,Average
+2502,1982,5,5,Average
+2503,6397,4,5,Could be better
+2504,4193,5,5,Could be better
+2505,9134,5,4,Could be better
+2506,5665,5,5,Could be better
+2507,8052,3,4,Good
+2508,152,3,5,Average
+2509,2268,4,5,Very good
+2510,7033,5,5,Average
+2511,1760,5,5,Could be better
+2512,5671,5,5,Very good
+2513,5554,5,4,Very good
+2514,9664,5,4,Excellent
+2515,2560,5,4,Excellent
+2516,433,5,5,Good
+2517,7056,5,4,Could be better
+2518,4440,5,3,Excellent
+2519,3678,5,5,Could be better
+2520,3585,5,5,Good
+2521,4056,5,5,Could be better
+2522,935,5,5,Good
+2523,991,4,4,Very good
+2524,5426,5,5,Excellent
+2525,6337,4,5,Good
+2526,5860,5,5,Could be better
+2527,396,4,5,Good
+2528,1668,5,5,Average
+2529,4786,5,5,Could be better
+2530,4556,5,5,Very good
+2531,7787,5,5,Excellent
+2532,4023,5,3,Excellent
+2533,9073,5,3,Excellent
+2534,2313,5,5,Could be better
+2535,5139,5,4,Average
+2536,4476,5,5,Could be better
+2537,7059,5,5,Average
+2538,2659,4,5,Excellent
+2539,3826,5,5,Average
+2540,5117,5,5,Average
+2541,105,5,3,Good
+2542,6528,5,5,Very good
+2543,4944,5,5,Good
+2544,8157,4,5,Average
+2545,8826,4,5,Very good
+2546,1646,5,4,Very good
+2547,2158,4,5,Excellent
+2548,7400,4,3,Average
+2549,4919,5,5,Average
+2550,5320,5,5,Could be better
+2551,7420,5,5,Good
+2552,2797,5,5,Average
+2553,9511,5,5,Could be better
+2554,3276,5,4,Good
+2555,2194,3,5,Average
+2556,1434,3,4,Very good
+2557,7542,4,3,Excellent
+2558,9638,5,5,Very good
+2559,8223,5,4,Could be better
+2560,2116,5,5,Could be better
+2561,9438,5,5,Average
+2562,2436,5,5,Could be better
+2563,5386,5,5,Very good
+2564,7309,4,5,Average
+2565,2095,5,5,Good
+2566,1269,5,5,Average
+2567,7318,4,5,Could be better
+2568,7123,4,5,Could be better
+2569,4067,5,4,Average
+2570,1107,5,5,Could be better
+2571,4586,5,5,Could be better
+2572,8022,5,4,Could be better
+2573,2936,5,5,Very good
+2574,3088,5,5,Good
+2575,4822,5,5,Good
+2576,2370,4,5,Average
+2577,3371,4,5,Very good
+2578,68,5,5,Excellent
+2579,5223,5,5,Good
+2580,1759,4,5,Could be better
+2581,9307,5,5,Very good
+2582,8886,3,5,Could be better
+2583,579,5,3,Could be better
+2584,2909,5,5,Good
+2585,2255,5,5,Average
+2586,1100,5,5,Could be better
+2587,4820,5,5,Could be better
+2588,3789,5,5,Very good
+2589,3150,5,5,Good
+2590,875,4,4,Could be better
+2591,4157,5,5,Average
+2592,5646,5,5,Good
+2593,1689,5,4,Could be better
+2594,8064,4,5,Very good
+2595,7165,4,5,Good
+2596,5687,5,5,Average
+2597,9338,4,4,Could be better
+2598,8477,5,4,Excellent
+2599,5983,5,5,Very good
+2600,1462,5,5,Very good
+2601,1008,5,5,Good
+2602,9449,5,5,Could be better
+2603,2882,4,4,Very good
+2604,2878,4,5,Could be better
+2605,2780,4,5,Could be better
+2606,7061,5,4,Average
+2607,4619,5,5,Very good
+2608,3747,4,5,Good
+2609,1783,5,4,Very good
+2610,1917,5,5,Could be better
+2611,2394,4,4,Good
+2612,2548,5,3,Excellent
+2613,3578,5,5,Good
+2614,6000,5,5,Excellent
+2615,7993,5,4,Good
+2616,4726,5,5,Excellent
+2617,632,5,4,Very good
+2618,2894,5,3,Excellent
+2619,8697,5,5,Excellent
+2620,3779,5,5,Good
+2621,6457,5,4,Excellent
+2622,7681,3,5,Good
+2623,46,5,5,Good
+2624,2432,5,5,Average
+2625,7260,5,5,Could be better
+2626,5214,4,5,Very good
+2627,3801,4,5,Average
+2628,4155,5,4,Excellent
+2629,6476,5,4,Good
+2630,8582,5,5,Very good
+2631,5216,5,5,Could be better
+2632,825,5,5,Excellent
+2633,7130,4,4,Could be better
+2634,4570,3,5,Very good
+2635,1420,5,5,Could be better
+2636,3384,5,5,Average
+2637,1126,5,5,Average
+2638,5585,5,4,Excellent
+2639,1176,5,5,Good
+2640,9112,4,5,Excellent
+2641,153,5,4,Very good
+2642,9602,4,3,Good
+2643,5611,5,4,Very good
+2644,3984,5,5,Very good
+2645,3653,3,5,Very good
+2646,8416,5,4,Average
+2647,3519,5,5,Excellent
+2648,7675,4,5,Could be better
+2649,2372,4,5,Good
+2650,7364,5,5,Very good
+2651,3757,5,5,Could be better
+2652,1016,5,5,Could be better
+2653,9758,5,5,Good
+2654,5273,4,5,Excellent
+2655,7384,5,5,Excellent
+2656,5060,5,5,Good
+2657,6893,5,5,Excellent
+2658,2364,4,5,Good
+2659,3386,4,4,Good
+2660,7503,4,3,Average
+2661,1433,5,5,Good
+2662,9715,5,5,Good
+2663,9490,4,3,Excellent
+2664,4133,3,4,Excellent
+2665,6085,4,5,Could be better
+2666,8661,5,5,Could be better
+2667,3502,5,4,Average
+2668,2142,5,4,Good
+2669,8197,5,4,Very good
+2670,9161,4,5,Could be better
+2671,3005,5,5,Good
+2672,3110,5,5,Excellent
+2673,7673,4,4,Good
+2674,3437,4,5,Good
+2675,3679,4,5,Excellent
+2676,6942,5,5,Could be better
+2677,6529,5,5,Very good
+2678,3948,5,5,Very good
+2679,6487,5,5,Average
+2680,5206,5,4,Excellent
+2681,232,4,5,Could be better
+2682,9039,4,5,Excellent
+2683,5945,5,5,Average
+2684,4084,5,4,Very good
+2685,1582,4,5,Could be better
+2686,2842,5,5,Could be better
+2687,5553,5,5,Excellent
+2688,5201,4,5,Good
+2689,7716,4,5,Could be better
+2690,6374,5,5,Very good
+2691,9946,3,5,Average
+2692,4417,5,5,Good
+2693,2286,4,5,Could be better
+2694,1082,5,5,Good
+2695,1220,4,5,Excellent
+2696,5588,4,3,Average
+2697,3213,5,4,Excellent
+2698,811,5,4,Excellent
+2699,3673,4,5,Excellent
+2700,5891,5,5,Excellent
+2701,1201,5,5,Average
+2702,382,5,5,Average
+2703,1377,4,5,Average
+2704,9100,3,3,Excellent
+2705,5456,5,5,Excellent
+2706,4561,3,4,Good
+2707,1224,4,5,Good
+2708,7954,4,4,Average
+2709,8317,4,4,Good
+2710,18,5,5,Average
+2711,1468,5,5,Excellent
+2712,7293,5,4,Excellent
+2713,9780,4,4,Could be better
+2714,4710,5,5,Could be better
+2715,5910,4,4,Average
+2716,9364,5,5,Average
+2717,1722,4,5,Could be better
+2718,1013,3,4,Very good
+2719,9769,5,5,Good
+2720,9149,5,5,Could be better
+2721,4415,5,5,Good
+2722,4577,4,4,Very good
+2723,5016,3,5,Good
+2724,845,5,4,Very good
+2725,3201,5,5,Good
+2726,3913,5,5,Good
+2727,6035,5,5,Could be better
+2728,5788,4,5,Could be better
+2729,3812,4,4,Average
+2730,9749,4,4,Average
+2731,6349,5,5,Average
+2732,8699,5,5,Average
+2733,3796,5,5,Excellent
+2734,7296,4,4,Could be better
+2735,7593,4,5,Could be better
+2736,9181,5,5,Excellent
+2737,6964,5,4,Good
+2738,739,5,5,Good
+2739,1891,5,5,Could be better
+2740,5181,5,4,Very good
+2741,4936,5,3,Good
+2742,5371,4,3,Very good
+2743,3997,5,5,Could be better
+2744,2257,5,5,Good
+2745,3551,5,4,Very good
+2746,2068,5,4,Could be better
+2747,9549,5,5,Very good
+2748,371,5,5,Could be better
+2749,2248,5,5,Could be better
+2750,6278,4,5,Average
+2751,8852,4,4,Average
+2752,4201,4,5,Could be better
+2753,6849,5,5,Could be better
+2754,5978,4,5,Could be better
+2755,9424,4,3,Excellent
+2756,9523,4,4,Could be better
+2757,2181,3,5,Excellent
+2758,9750,5,5,Good
+2759,1744,4,3,Very good
+2760,6970,5,4,Could be better
+2761,3553,5,5,Average
+2762,9003,5,5,Good
+2763,9751,5,4,Average
+2764,4929,5,5,Very good
+2765,5606,3,5,Good
+2766,2920,5,4,Average
+2767,9340,4,5,Good
+2768,8371,5,5,Good
+2769,9538,5,5,Could be better
+2770,8244,4,5,Average
+2771,3934,5,5,Average
+2772,5515,5,5,Average
+2773,2035,5,5,Good
+2774,7647,5,3,Excellent
+2775,5823,5,4,Very good
+2776,8800,5,5,Average
+2777,3850,3,5,Good
+2778,2822,5,5,Excellent
+2779,4711,4,4,Could be better
+2780,1611,3,5,Good
+2781,9852,4,4,Good
+2782,1643,5,4,Average
+2783,2916,5,5,Excellent
+2784,2533,5,5,Average
+2785,9799,5,5,Excellent
+2786,157,5,4,Average
+2787,8502,5,5,Excellent
+2788,3245,5,4,Average
+2789,7331,5,5,Good
+2790,7131,4,5,Could be better
+2791,3294,5,4,Excellent
+2792,4158,5,5,Very good
+2793,659,5,3,Could be better
+2794,5484,4,5,Very good
+2795,7795,5,5,Very good
+2796,4304,4,5,Excellent
+2797,3961,5,5,Could be better
+2798,4952,5,5,Average
+2799,5321,5,5,Average
+2800,5863,5,5,Average
+2801,9402,4,5,Average
+2802,451,5,5,Very good
+2803,9336,5,4,Excellent
+2804,5439,4,5,Good
+2805,5618,5,5,Average
+2806,3238,4,5,Good
+2807,3390,4,4,Average
+2808,8633,5,5,Good
+2809,1464,4,5,Very good
+2810,7079,3,5,Average
+2811,386,5,4,Excellent
+2812,5246,5,5,Good
+2813,8265,4,5,Excellent
+2814,9468,4,4,Good
+2815,4154,5,4,Could be better
+2816,7636,4,5,Average
+2817,8166,4,4,Average
+2818,9592,3,4,Very good
+2819,9653,5,5,Good
+2820,300,5,5,Average
+2821,111,4,4,Excellent
+2822,7324,5,5,Excellent
+2823,6956,5,5,Average
+2824,5098,5,4,Good
+2825,6451,5,5,Good
+2826,2721,4,5,Could be better
+2827,7873,4,5,Could be better
+2828,6024,5,4,Good
+2829,9536,5,5,Excellent
+2830,7234,3,5,Excellent
+2831,2098,4,5,Average
+2832,784,5,4,Excellent
+2833,9984,5,5,Good
+2834,1432,5,5,Could be better
+2835,7236,5,5,Good
+2836,3392,5,5,Very good
+2837,9521,5,5,Very good
+2838,9823,5,5,Very good
+2839,9485,5,5,Very good
+2840,263,4,5,Could be better
+2841,3082,4,3,Average
+2842,9317,3,5,Average
+2843,5773,5,4,Excellent
+2844,1092,5,5,Very good
+2845,7406,5,5,Very good
+2846,9920,4,4,Excellent
+2847,1610,4,5,Good
+2848,7605,3,4,Very good
+2849,2092,4,4,Could be better
+2850,6295,3,5,Excellent
+2851,5905,5,5,Average
+2852,5541,5,5,Could be better
+2853,3539,5,4,Could be better
+2854,8665,5,5,Very good
+2855,7689,4,5,Excellent
+2856,8496,4,5,Average
+2857,7498,4,3,Average
+2858,3911,5,5,Good
+2859,8005,5,5,Excellent
+2860,7642,5,5,Could be better
+2861,6716,4,3,Very good
+2862,4673,5,5,Could be better
+2863,8691,5,4,Excellent
+2864,849,5,5,Good
+2865,1026,3,5,Average
+2866,8983,5,5,Very good
+2867,9380,5,5,Average
+2868,9301,4,5,Good
+2869,3310,4,4,Could be better
+2870,4823,5,4,Average
+2871,1770,5,3,Excellent
+2872,7347,5,5,Excellent
+2873,3035,4,5,Good
+2874,6799,3,5,Average
+2875,3829,3,3,Could be better
+2876,3595,5,4,Very good
+2877,9702,5,4,Very good
+2878,7351,5,5,Could be better
+2879,7607,4,5,Average
+2880,8757,3,4,Very good
+2881,8366,5,5,Good
+2882,5041,5,5,Very good
+2883,3329,4,5,Very good
+2884,7914,5,5,Very good
+2885,4989,4,5,Good
+2886,5099,5,3,Excellent
+2887,8552,5,5,Good
+2888,2299,4,5,Good
+2889,7977,5,4,Excellent
+2890,1045,5,5,Average
+2891,1122,5,5,Could be better
+2892,5732,5,4,Good
+2893,1286,5,5,Good
+2894,6740,5,4,Could be better
+2895,5718,5,4,Good
+2896,7082,5,4,Could be better
+2897,284,3,5,Very good
+2898,1680,4,3,Good
+2899,751,5,5,Very good
+2900,3388,4,5,Good
+2901,62,5,4,Very good
+2902,1615,5,4,Excellent
+2903,7064,5,5,Excellent
+2904,6978,5,5,Could be better
+2905,4357,5,5,Good
+2906,9660,5,4,Good
+2907,2452,3,5,Very good
+2908,6092,5,5,Could be better
+2909,8777,4,5,Good
+2910,6707,5,5,Could be better
+2911,8284,5,5,Good
+2912,1401,5,4,Average
+2913,929,4,4,Good
+2914,3055,5,5,Excellent
+2915,1966,5,5,Good
+2916,865,5,4,Could be better
+2917,5779,4,5,Could be better
+2918,6043,5,5,Average
+2919,8000,5,5,Excellent
+2920,5818,5,5,Very good
+2921,1170,3,5,Good
+2922,8046,5,4,Good
+2923,3451,4,5,Very good
+2924,3745,4,5,Average
+2925,4572,5,5,Average
+2926,1993,5,5,Good
+2927,6660,4,4,Excellent
+2928,8382,5,5,Good
+2929,7982,4,5,Could be better
+2930,5209,5,5,Very good
+2931,7229,5,4,Excellent
+2932,4574,5,4,Excellent
+2933,8233,3,4,Average
+2934,7641,5,5,Could be better
+2935,2426,5,5,Average
+2936,3062,4,5,Good
+2937,2285,5,5,Could be better
+2938,7278,5,4,Good
+2939,4809,3,5,Good
+2940,2571,5,5,Good
+2941,688,5,5,Average
+2942,8340,5,5,Average
+2943,7559,5,5,Very good
+2944,5760,5,5,Could be better
+2945,3733,4,5,Excellent
+2946,116,5,5,Average
+2947,8421,5,5,Average
+2948,3995,4,5,Could be better
+2949,2793,4,5,Good
+2950,944,4,5,Very good
+2951,3025,4,5,Could be better
+2952,7280,3,4,Good
+2953,2884,5,4,Good
+2954,4591,4,4,Average
+2955,4432,4,4,Good
+2956,9422,5,5,Excellent
+2957,8351,4,3,Good
+2958,5774,5,5,Very good
+2959,3909,5,3,Average
+2960,7672,5,5,Very good
+2961,8120,5,5,Could be better
+2962,3501,5,3,Could be better
+2963,1639,3,5,Average
+2964,2722,3,4,Could be better
+2965,7337,5,5,Could be better
+2966,5512,4,3,Very good
+2967,1171,3,5,Average
+2968,557,4,4,Average
+2969,8320,4,5,Excellent
+2970,4856,5,4,Good
+2971,7832,5,5,Very good
+2972,9061,5,5,Good
+2973,1602,4,3,Could be better
+2974,9603,5,4,Could be better
+2975,9684,5,4,Average
+2976,9240,4,5,Excellent
+2977,6620,4,5,Average
+2978,7564,5,5,Could be better
+2979,2105,5,4,Excellent
+2980,8947,5,5,Average
+2981,5021,5,4,Excellent
+2982,5275,5,5,Excellent
+2983,1435,4,5,Could be better
+2984,3518,5,5,Average
+2985,2685,4,5,Very good
+2986,9046,4,4,Excellent
+2987,7782,5,5,Excellent
+2988,4959,5,5,Could be better
+2989,3963,5,4,Excellent
+2990,8454,4,5,Average
+2991,3345,5,4,Very good
+2992,2310,5,4,Very good
+2993,7261,3,5,Good
+2994,4802,5,4,Good
+2995,684,5,5,Excellent
+2996,4958,5,5,Could be better
+2997,248,5,5,Excellent
+2998,4270,4,3,Very good
+2999,1479,5,5,Could be better
+3000,5013,4,5,Very good
+3001,4166,4,5,Good
+3002,6470,4,5,Excellent
+3003,392,5,4,Very good
+3004,4340,5,4,Could be better
+3005,1686,4,5,Very good
+3006,104,5,4,Very good
+3007,4344,5,5,Very good
+3008,7709,5,5,Very good
+3009,3482,3,4,Very good
+3010,4125,4,5,Average
+3011,4452,5,5,Could be better
+3012,1084,5,3,Good
+3013,4851,4,3,Average
+3014,1903,5,5,Very good
+3015,4887,4,5,Excellent
+3016,6118,5,5,Excellent
+3017,312,3,5,Good
+3018,130,5,5,Average
+3019,3860,5,5,Average
+3020,8673,5,5,Good
+3021,7600,5,5,Average
+3022,6889,5,5,Good
+3023,4772,5,5,Could be better
+3024,8609,4,4,Good
+3025,7921,4,5,Could be better
+3026,5280,4,4,Average
+3027,6305,4,5,Could be better
+3028,1304,5,5,Good
+3029,6701,5,5,Excellent
+3030,9572,3,4,Very good
+3031,3069,5,5,Good
+3032,5617,5,5,Very good
+3033,4378,5,5,Could be better
+3034,8255,5,5,Excellent
+3035,4010,5,3,Good
+3036,1995,4,5,Could be better
+3037,3107,5,4,Average
+3038,6074,5,5,Average
+3039,533,5,5,Good
+3040,9349,4,5,Average
+3041,9579,5,5,Average
+3042,3627,5,5,Could be better
+3043,9230,5,5,Very good
+3044,7363,5,5,Could be better
+3045,5559,5,5,Could be better
+3046,7688,4,4,Excellent
+3047,5830,5,5,Excellent
+3048,9973,5,5,Good
+3049,9129,5,5,Excellent
+3050,7635,5,5,Very good
+3051,5881,5,5,Good
+3052,821,5,5,Average
+3053,3920,5,5,Average
+3054,648,5,4,Could be better
+3055,4555,4,5,Could be better
+3056,3183,5,4,Good
+3057,5648,3,5,Good
+3058,826,5,5,Could be better
+3059,931,5,5,Could be better
+3060,372,5,5,Good
+3061,977,5,4,Very good
+3062,4005,5,5,Excellent
+3063,6873,4,5,Excellent
+3064,5457,4,5,Average
+3065,5944,5,4,Good
+3066,6003,4,5,Good
+3067,582,3,4,Very good
+3068,769,5,4,Excellent
+3069,4395,5,5,Very good
+3070,1397,5,4,Very good
+3071,2520,5,5,Excellent
+3072,2134,5,5,Excellent
+3073,4833,4,4,Very good
+3074,6606,4,5,Could be better
+3075,3495,5,5,Could be better
+3076,2199,5,5,Average
+3077,9982,4,4,Excellent
+3078,7590,4,5,Good
+3079,8518,5,5,Very good
+3080,3805,5,5,Could be better
+3081,8307,5,5,Could be better
+3082,4259,5,5,Excellent
+3083,4631,5,5,Very good
+3084,2745,5,3,Average
+3085,8606,5,5,Good
+3086,122,4,4,Could be better
+3087,2983,5,4,Good
+3088,3470,4,5,Good
+3089,8311,4,5,Average
+3090,4268,5,5,Good
+3091,3355,5,5,Excellent
+3092,4487,5,4,Average
+3093,3967,5,5,Very good
+3094,1342,5,4,Good
+3095,7994,5,5,Average
+3096,3727,4,5,Excellent
+3097,5645,5,5,Excellent
+3098,4252,5,4,Good
+3099,2770,5,5,Good
+3100,6053,3,5,Very good
+3101,8864,4,5,Excellent
+3102,6283,3,5,Very good
+3103,1578,4,5,Average
+3104,2619,4,5,Average
+3105,804,3,3,Good
+3106,9101,5,4,Very good
+3107,735,5,4,Could be better
+3108,5976,5,5,Could be better
+3109,2380,5,4,Excellent
+3110,1738,5,4,Could be better
+3111,4715,4,5,Good
+3112,9501,5,3,Good
+3113,2715,5,5,Excellent
+3114,5129,5,5,Could be better
+3115,8218,4,5,Very good
+3116,5412,5,5,Very good
+3117,2185,4,5,Very good
+3118,963,3,4,Good
+3119,6859,5,5,Could be better
+3120,4444,5,5,Average
+3121,2826,5,5,Very good
+3122,254,4,5,Could be better
+3123,1514,4,5,Good
+3124,8210,5,5,Could be better
+3125,8596,5,5,Average
+3126,1044,4,4,Average
+3127,6139,5,5,Excellent
+3128,3038,4,5,Good
+3129,5196,5,4,Could be better
+3130,5014,5,5,Very good
+3131,9063,5,5,Could be better
+3132,6493,5,5,Average
+3133,2679,5,4,Excellent
+3134,3762,4,5,Average
+3135,4352,4,5,Good
+3136,7726,4,5,Good
+3137,833,5,5,Very good
+3138,8861,5,5,Average
+3139,7512,5,5,Could be better
+3140,9186,5,5,Good
+3141,4595,4,5,Excellent
+3142,6968,5,5,Very good
+3143,166,5,5,Could be better
+3144,2296,4,4,Could be better
+3145,3864,4,4,Excellent
+3146,9289,3,4,Could be better
+3147,5184,4,5,Very good
+3148,8033,4,5,Average
+3149,3939,5,5,Good
+3150,2760,5,4,Very good
+3151,5681,4,4,Very good
+3152,6111,5,5,Good
+3153,182,4,5,Could be better
+3154,8855,5,4,Average
+3155,5443,5,4,Good
+3156,5318,4,5,Very good
+3157,4877,5,5,Excellent
+3158,3308,5,5,Excellent
+3159,87,5,5,Very good
+3160,6559,5,5,Excellent
+3161,8726,5,5,Very good
+3162,5390,4,5,Excellent
+3163,2128,5,4,Good
+3164,3190,5,5,Good
+3165,876,5,5,Good
+3166,5610,5,5,Could be better
+3167,958,5,5,Could be better
+3168,1591,5,5,Could be better
+3169,2802,4,5,Excellent
+3170,7560,5,4,Average
+3171,6858,5,4,Excellent
+3172,6677,5,5,Very good
+3173,3755,5,5,Could be better
+3174,736,5,5,Could be better
+3175,2425,5,3,Good
+3176,9041,5,5,Good
+3177,3359,4,5,Excellent
+3178,2219,5,5,Good
+3179,8312,5,5,Average
+3180,3676,4,5,Average
+3181,1815,4,5,Very good
+3182,7533,5,4,Very good
+3183,7529,5,5,Average
+3184,9310,5,5,Excellent
+3185,4521,5,5,Excellent
+3186,9484,5,5,Very good
+3187,637,4,5,Very good
+3188,641,5,5,Average
+3189,892,5,5,Excellent
+3190,7578,5,5,Excellent
+3191,777,4,5,Could be better
+3192,2478,5,5,Excellent
+3193,6901,5,5,Could be better
+3194,6098,5,4,Excellent
+3195,9090,4,5,Good
+3196,7108,5,5,Excellent
+3197,8464,4,4,Could be better
+3198,5449,4,5,Could be better
+3199,9207,5,5,Excellent
+3200,3057,5,4,Good
+3201,1558,5,4,Could be better
+3202,355,5,5,Very good
+3203,7201,5,5,Very good
+3204,5787,5,5,Could be better
+3205,1772,5,5,Could be better
+3206,5260,4,5,Could be better
+3207,1988,5,5,Could be better
+3208,9369,5,5,Could be better
+3209,4761,5,3,Excellent
+3210,9856,5,3,Excellent
+3211,6478,5,4,Average
+3212,5056,3,4,Average
+3213,9397,5,5,Could be better
+3214,1742,5,5,Could be better
+3215,4480,5,5,Good
+3216,1225,5,5,Excellent
+3217,7872,5,4,Good
+3218,2911,3,4,Could be better
+3219,7876,4,4,Excellent
+3220,1041,4,4,Average
+3221,8656,4,5,Average
+3222,3033,5,4,Very good
+3223,101,4,5,Good
+3224,7334,4,5,Average
+3225,7126,4,5,Excellent
+3226,3598,5,5,Could be better
+3227,2079,4,5,Could be better
+3228,5233,5,5,Very good
+3229,7158,5,4,Excellent
+3230,6508,5,5,Excellent
+3231,1963,4,5,Excellent
+3232,4996,5,4,Could be better
+3233,200,5,5,Good
+3234,3626,5,5,Average
+3235,5509,5,5,Average
+3236,2701,4,5,Very good
+3237,9121,4,4,Could be better
+3238,2921,4,3,Good
+3239,4799,5,5,Could be better
+3240,4724,4,4,Good
+3241,9789,5,4,Average
+3242,4468,4,5,Very good
+3243,1124,5,5,Very good
+3244,8563,4,5,Very good
+3245,6231,4,5,Very good
+3246,4287,4,4,Average
+3247,6014,4,5,Could be better
+3248,9036,5,5,Could be better
+3249,475,5,5,Excellent
+3250,1869,4,5,Very good
+3251,9065,4,4,Very good
+3252,7508,5,4,Average
+3253,2298,4,5,Average
+3254,6109,4,5,Very good
+3255,5160,5,3,Excellent
+3256,2349,4,5,Could be better
+3257,7415,4,3,Average
+3258,1096,5,4,Could be better
+3259,3500,5,4,Good
+3260,1560,5,5,Good
+3261,227,5,4,Good
+3262,5556,5,4,Excellent
+3263,9400,5,4,Could be better
+3264,799,5,5,Could be better
+3265,2708,5,4,Average
+3266,9185,5,4,Good
+3267,5170,5,4,Excellent
+3268,117,5,5,Average
+3269,8450,4,5,Excellent
+3270,4159,4,3,Could be better
+3271,1065,4,5,Good
+3272,1343,5,4,Average
+3273,4984,4,5,Could be better
+3274,388,5,4,Very good
+3275,5584,3,5,Average
+3276,1920,5,5,Very good
+3277,367,3,4,Average
+3278,2623,3,4,Could be better
+3279,5446,4,5,Very good
+3280,6920,3,4,Could be better
+3281,7933,4,5,Could be better
+3282,5143,5,5,Could be better
+3283,2340,4,3,Very good
+3284,1659,5,4,Average
+3285,6846,5,5,Good
+3286,4968,4,5,Average
+3287,4285,5,4,Could be better
+3288,7446,5,5,Good
+3289,6345,5,5,Good
+3290,4085,5,5,Good
+3291,1070,5,5,Average
+3292,2992,5,5,Could be better
+3293,2601,4,4,Could be better
+3294,9635,5,5,Good
+3295,3423,5,4,Average
+3296,5173,5,5,Very good
+3297,9119,5,4,Very good
+3298,2980,4,5,Excellent
+3299,6894,5,4,Good
+3300,5043,5,5,Average
+3301,138,4,4,Average
+3302,8237,5,3,Very good
+3303,962,5,5,Very good
+3304,9244,5,5,Could be better
+3305,624,5,5,Good
+3306,6644,4,5,Very good
+3307,9699,4,3,Excellent
+3308,7083,3,4,Average
+3309,1522,4,5,Could be better
+3310,8401,3,5,Average
+3311,6485,5,5,Very good
+3312,1875,5,5,Average
+3313,3111,5,5,Could be better
+3314,8746,5,4,Good
+3315,522,5,5,Excellent
+3316,9842,5,5,Could be better
+3317,2834,5,5,Very good
+3318,1230,5,5,Excellent
+3319,8792,5,4,Good
+3320,2678,4,4,Could be better
+3321,5116,5,5,Good
+3322,7027,4,5,Very good
+3323,862,4,5,Very good
+3324,282,4,5,Good
+3325,2547,4,5,Good
+3326,7216,5,5,Average
+3327,7250,5,5,Average
+3328,2854,5,5,Very good
+3329,3409,5,5,Average
+3330,2149,5,5,Could be better
+3331,6867,5,4,Good
+3332,6855,3,5,Very good
+3333,6653,5,5,Excellent
+3334,2771,5,5,Good
+3335,1009,4,4,Could be better
+3336,3142,4,4,Average
+3337,3980,4,5,Could be better
+3338,5573,5,5,Could be better
+3339,7187,5,5,Good
+3340,7006,5,5,Average
+3341,8550,5,3,Very good
+3342,1944,5,4,Good
+3343,4088,5,5,Good
+3344,6965,5,5,Average
+3345,4504,3,3,Good
+3346,4380,5,5,Average
+3347,7496,5,5,Average
+3348,9471,5,4,Good
+3349,670,5,5,Good
+3350,6960,4,3,Good
+3351,7602,4,5,Very good
+3352,7178,5,4,Could be better
+3353,6880,5,5,Average
+3354,9728,5,5,Average
+3355,5653,5,5,Good
+3356,1845,4,4,Very good
+3357,737,5,5,Very good
+3358,468,5,4,Could be better
+3359,7731,4,4,Very good
+3360,8629,5,4,Very good
+3361,6536,4,4,Could be better
+3362,6338,5,5,Average
+3363,4020,5,5,Could be better
+3364,4764,5,5,Good
+3365,981,4,4,Excellent
+3366,6585,5,4,Could be better
+3367,9394,5,4,Good
+3368,8122,4,5,Very good
+3369,6556,4,5,Average
+3370,278,3,5,Good
+3371,4611,5,5,Very good
+3372,7264,5,5,Could be better
+3373,4500,5,5,Could be better
+3374,6076,5,5,Good
+3375,9096,4,5,Very good
+3376,9883,5,5,Average
+3377,1921,4,5,Could be better
+3378,2902,5,5,Excellent
+3379,936,5,5,Could be better
+3380,5715,5,5,Very good
+3381,70,5,5,Could be better
+3382,7835,5,5,Excellent
+3383,7449,3,5,Excellent
+3384,4061,5,4,Good
+3385,1159,5,3,Good
+3386,9283,5,5,Good
+3387,7555,4,3,Could be better
+3388,3748,4,5,Average
+3389,6922,4,5,Average
+3390,9045,5,5,Average
+3391,669,5,3,Could be better
+3392,4110,5,5,Average
+3393,3820,5,5,Average
+3394,5367,5,5,Excellent
+3395,187,4,3,Excellent
+3396,9895,5,5,Very good
+3397,4722,5,3,Excellent
+3398,4902,5,5,Could be better
+3399,4146,4,5,Average
+3400,5317,5,5,Very good
+3401,156,3,5,Good
+3402,4144,5,5,Could be better
+3403,601,5,5,Could be better
+3404,6178,4,5,Could be better
+3405,1613,5,5,Excellent
+3406,4216,4,5,Excellent
+3407,766,3,5,Excellent
+3408,6077,4,3,Good
+3409,583,5,5,Very good
+3410,7516,5,5,Very good
+3411,4256,5,5,Excellent
+3412,5079,5,5,Excellent
+3413,5868,5,4,Good
+3414,404,5,5,Average
+3415,6050,5,5,Very good
+3416,7424,5,5,Could be better
+3417,6059,5,3,Average
+3418,9047,5,5,Very good
+3419,6756,3,5,Good
+3420,584,5,3,Very good
+3421,4105,5,5,Average
+3422,7634,5,5,Could be better
+3423,8075,5,5,Average
+3424,1162,4,5,Average
+3425,3577,5,3,Excellent
+3426,851,4,4,Very good
+3427,1967,3,4,Excellent
+3428,4885,5,4,Good
+3429,5706,5,5,Good
+3430,9351,5,3,Very good
+3431,1302,4,4,Excellent
+3432,506,5,5,Excellent
+3433,4413,5,5,Excellent
+3434,3012,5,5,Average
+3435,1924,5,4,Excellent
+3436,2895,3,5,Average
+3437,9005,5,5,Excellent
+3438,9017,5,5,Very good
+3439,8362,4,3,Excellent
+3440,4787,5,5,Very good
+3441,8451,5,5,Could be better
+3442,3853,5,5,Average
+3443,4387,4,4,Could be better
+3444,3589,4,5,Very good
+3445,2493,5,5,Good
+3446,979,4,5,Very good
+3447,908,5,5,Good
+3448,9029,5,5,Could be better
+3449,1688,5,5,Good
+3450,8843,5,5,Good
+3451,3723,5,4,Average
+3452,8383,5,4,Average
+3453,8549,4,5,Very good
+3454,2474,4,5,Could be better
+3455,6911,3,4,Good
+3456,6962,5,5,Excellent
+3457,478,5,5,Average
+3458,2513,5,4,Could be better
+3459,1513,4,5,Good
+3460,9577,5,5,Very good
+3461,6368,4,5,Excellent
+3462,5197,5,3,Average
+3463,5351,4,5,Average
+3464,3904,3,4,Excellent
+3465,9838,4,5,Good
+3466,247,5,5,Very good
+3467,8829,4,5,Very good
+3468,5539,4,5,Average
+3469,225,5,4,Average
+3470,2468,5,5,Good
+3471,1439,5,3,Good
+3472,6658,5,5,Excellent
+3473,4414,4,5,Excellent
+3474,4657,5,5,Average
+3475,2962,4,5,Average
+3476,8730,5,5,Good
+3477,9717,5,4,Average
+3478,6667,3,5,Average
+3479,6117,5,5,Good
+3480,1530,5,5,Good
+3481,7122,4,5,Average
+3482,5819,5,5,Excellent
+3483,8708,5,4,Could be better
+3484,9623,4,5,Could be better
+3485,7100,5,5,Could be better
+3486,2151,5,4,Good
+3487,660,5,5,Good
+3488,217,4,5,Average
+3489,7404,4,4,Good
+3490,8916,5,4,Average
+3491,4982,5,5,Very good
+3492,9775,5,5,Excellent
+3493,4244,5,4,Average
+3494,6765,5,5,Very good
+3495,4516,4,5,Good
+3496,5307,5,5,Could be better
+3497,146,4,4,Very good
+3498,4239,5,4,Very good
+3499,1459,5,5,Good
+3500,6079,4,5,Could be better
+3501,5147,4,3,Excellent
+3502,1448,5,5,Good
+3503,6168,4,5,Very good
+3504,2266,5,5,Could be better
+3505,8946,5,3,Excellent
+3506,5647,5,5,Average
+3507,7819,5,4,Average
+3508,6928,3,5,Excellent
+3509,3774,5,4,Could be better
+3510,6624,5,5,Excellent
+3511,2148,4,5,Very good
+3512,202,5,4,Could be better
+3513,5506,5,4,Could be better
+3514,3208,4,5,Very good
+3515,2060,5,5,Average
+3516,8431,5,5,Good
+3517,3298,4,5,Could be better
+3518,9786,5,4,Very good
+3519,5577,5,5,Could be better
+3520,5468,3,5,Excellent
+3521,7356,5,4,Very good
+3522,9655,4,4,Very good
+3523,8753,4,5,Excellent
+3524,2850,4,5,Could be better
+3525,5566,5,5,Could be better
+3526,6042,5,5,Could be better
+3527,5595,4,5,Average
+3528,3870,5,5,Could be better
+3529,2358,5,5,Average
+3530,7719,3,5,Average
+3531,5751,4,5,Could be better
+3532,8364,4,4,Excellent
+3533,8083,3,5,Very good
+3534,399,4,5,Excellent
+3535,274,5,5,Excellent
+3536,9461,5,4,Very good
+3537,8202,5,5,Good
+3538,5487,5,4,Good
+3539,9216,4,5,Could be better
+3540,4464,5,5,Excellent
+3541,643,5,4,Very good
+3542,7189,5,5,Excellent
+3543,4225,4,4,Excellent
+3544,266,3,5,Excellent
+3545,1871,5,5,Very good
+3546,1491,4,4,Average
+3547,3340,5,5,Excellent
+3548,1134,4,4,Excellent
+3549,3562,5,4,Excellent
+3550,393,5,4,Average
+3551,2392,4,5,Excellent
+3552,9826,3,3,Good
+3553,5686,5,5,Good
+3554,2576,5,4,Very good
+3555,4203,4,5,Could be better
+3556,3617,3,5,Could be better
+3557,6011,5,4,Excellent
+3558,1998,4,3,Good
+3559,4031,5,3,Average
+3560,1099,4,4,Good
+3561,2575,5,5,Good
+3562,6899,5,5,Excellent
+3563,6742,5,5,Could be better
+3564,2216,5,3,Excellent
+3565,497,5,5,Could be better
+3566,2002,5,4,Could be better
+3567,273,5,5,Excellent
+3568,4389,4,4,Excellent
+3569,8025,4,4,Could be better
+3570,2540,4,5,Could be better
+3571,9407,4,5,Very good
+3572,3147,5,4,Could be better
+3573,3533,5,4,Excellent
+3574,7812,4,4,Excellent
+3575,9083,5,5,Very good
+3576,1758,5,5,Could be better
+3577,6282,5,5,Good
+3578,8808,5,4,Average
+3579,7666,5,5,Average
+3580,877,5,5,Excellent
+3581,234,5,4,Average
+3582,9508,5,5,Very good
+3583,4897,5,5,Good
+3584,9233,4,5,Could be better
+3585,5993,4,5,Good
+3586,360,3,5,Average
+3587,4674,4,5,Average
+3588,4306,4,5,Good
+3589,4220,4,4,Average
+3590,9697,5,4,Good
+3591,3204,4,5,Average
+3592,373,5,4,Very good
+3593,3990,3,5,Very good
+3594,6546,5,4,Good
+3595,7535,5,5,Excellent
+3596,1289,4,5,Very good
+3597,4198,3,5,Very good
+3598,2889,5,5,Good
+3599,9327,5,5,Very good
+3600,58,5,5,Very good
+3601,9451,5,5,Could be better
+3602,6918,4,5,Very good
+3603,7906,5,5,Could be better
+3604,3568,5,4,Could be better
+3605,8016,5,3,Average
+3606,6618,4,5,Average
+3607,351,5,5,Good
+3608,5267,4,5,Very good
+3609,3736,5,5,Could be better
+3610,8182,5,4,Average
+3611,6469,5,5,Average
+3612,9225,5,5,Could be better
+3613,7208,4,5,Excellent
+3614,4935,5,5,Could be better
+3615,8445,4,5,Average
+3616,155,5,4,Excellent
+3617,4171,3,5,Very good
+3618,1813,4,5,Could be better
+3619,3365,5,4,Average
+3620,286,5,5,Excellent
+3621,9412,5,5,Very good
+3622,6034,3,5,Very good
+3623,5859,5,5,Good
+3624,6596,5,4,Average
+3625,119,4,5,Average
+3626,1139,5,5,Very good
+3627,9257,4,5,Very good
+3628,6270,5,5,Good
+3629,599,5,5,Could be better
+3630,8818,3,4,Excellent
+3631,715,4,5,Average
+3632,9663,4,5,Excellent
+3633,3066,5,5,Very good
+3634,8424,5,5,Good
+3635,5230,4,4,Good
+3636,2905,4,5,Average
+3637,9408,5,5,Good
+3638,5708,4,5,Good
+3639,3163,5,5,Average
+3640,3011,4,5,Good
+3641,8409,4,4,Could be better
+3642,2772,5,3,Very good
+3643,7778,5,5,Excellent
+3644,5524,5,4,Average
+3645,8849,4,5,Good
+3646,841,5,4,Very good
+3647,9396,5,5,Excellent
+3648,916,4,5,Very good
+3649,8561,5,5,Good
+3650,6603,5,5,Very good
+3651,5462,5,5,Could be better
+3652,8203,5,4,Good
+3653,3975,5,5,Very good
+3654,6734,5,5,Average
+3655,4343,5,5,Average
+3656,1855,4,3,Good
+3657,1596,5,5,Very good
+3658,7652,5,5,Average
+3659,2494,4,4,Could be better
+3660,147,5,5,Very good
+3661,1390,4,5,Good
+3662,406,5,4,Could be better
+3663,1681,4,5,Average
+3664,1862,5,5,Very good
+3665,5571,5,4,Excellent
+3666,9658,5,5,Excellent
+3667,4060,5,5,Average
+3668,5765,5,5,Good
+3669,8091,5,5,Could be better
+3670,3902,5,3,Excellent
+3671,8295,5,5,Average
+3672,1449,4,5,Could be better
+3673,5483,5,5,Good
+3674,7374,3,4,Excellent
+3675,6160,5,5,Could be better
+3676,9998,5,5,Excellent
+3677,6732,5,5,Good
+3678,883,5,5,Could be better
+3679,7339,5,5,Very good
+3680,6462,4,5,Very good
+3681,3579,4,4,Excellent
+3682,5873,5,4,Average
+3683,9111,4,5,Good
+3684,4759,5,5,Excellent
+3685,7554,5,5,Good
+3686,7792,5,5,Very good
+3687,3164,5,4,Excellent
+3688,6729,5,4,Excellent
+3689,421,5,5,Very good
+3690,3435,3,5,Average
+3691,8380,5,5,Excellent
+3692,2810,4,5,Could be better
+3693,6535,4,5,Average
+3694,5923,5,5,Good
+3695,8672,5,5,Very good
+3696,4305,5,4,Average
+3697,7882,5,5,Could be better
+3698,5377,3,5,Could be better
+3699,3602,4,5,Excellent
+3700,6836,3,5,Could be better
+3701,5194,4,5,Could be better
+3702,2168,4,4,Good
+3703,8972,5,5,Good
+3704,449,4,5,Could be better
+3705,9876,4,5,Excellent
+3706,4184,5,5,Could be better
+3707,5490,4,5,Very good
+3708,6379,5,5,Average
+3709,2111,4,5,Very good
+3710,6152,5,5,Good
+3711,4986,4,4,Good
+3712,7231,4,5,Very good
+3713,3061,5,4,Good
+3714,1137,4,5,Excellent
+3715,5879,3,4,Average
+3716,2860,4,4,Very good
+3717,8347,5,4,Could be better
+3718,2861,5,5,Average
+3719,4314,5,5,Very good
+3720,5111,4,5,Could be better
+3721,4625,4,5,Average
+3722,7847,5,5,Excellent
+3723,6728,5,5,Excellent
+3724,2742,5,5,Very good
+3725,6325,5,5,Excellent
+3726,184,5,5,Good
+3727,7845,5,5,Average
+3728,121,5,5,Good
+3729,7556,5,4,Good
+3730,2429,5,4,Excellent
+3731,3620,5,5,Average
+3732,4742,3,5,Could be better
+3733,8727,3,5,Average
+3734,7897,5,5,Excellent
+3735,3419,5,4,Could be better
+3736,9341,4,5,Very good
+3737,9156,5,5,Very good
+3738,3732,5,5,Excellent
+3739,7639,4,5,Good
+3740,642,5,5,Good
+3741,2613,5,4,Very good
+3742,6906,4,5,Could be better
+3743,3267,5,5,Average
+3744,6008,5,5,Average
+3745,4998,5,5,Good
+3746,7737,4,5,Excellent
+3747,7381,4,5,Good
+3748,1658,5,5,Excellent
+3749,5581,4,5,Could be better
+3750,9607,5,5,Excellent
+3751,3750,5,5,Excellent
+3752,7723,5,4,Could be better
+3753,8280,5,5,Could be better
+3754,800,5,4,Good
+3755,8573,5,5,Good
+3756,4433,4,5,Could be better
+3757,5551,5,5,Good
+3758,8625,5,5,Excellent
+3759,5545,5,5,Excellent
+3760,5459,4,5,Excellent
+3761,7754,5,3,Could be better
+3762,5966,3,4,Good
+3763,1843,4,5,Very good
+3764,2840,4,5,Very good
+3765,2593,5,4,Could be better
+3766,7477,5,5,Very good
+3767,1135,5,4,Excellent
+3768,3049,5,5,Could be better
+3769,2599,5,4,Good
+3770,4006,5,5,Very good
+3771,9379,4,5,Could be better
+3772,7393,4,4,Very good
+3773,459,5,4,Very good
+3774,1528,4,5,Could be better
+3775,7617,5,5,Excellent
+3776,3977,5,5,Average
+3777,4927,5,5,Excellent
+3778,4099,5,5,Excellent
+3779,4873,5,4,Very good
+3780,6304,5,4,Very good
+3781,6322,5,5,Could be better
+3782,3373,4,5,Excellent
+3783,9860,5,5,Very good
+3784,2449,5,5,Excellent
+3785,748,5,5,Could be better
+3786,2999,3,5,Average
+3787,5408,5,5,Average
+3788,9335,5,3,Could be better
+3789,5000,4,5,Could be better
+3790,2189,5,5,Average
+3791,1127,5,4,Good
+3792,6800,5,5,Could be better
+3793,8306,4,4,Good
+3794,3073,5,5,Average
+3795,3071,5,3,Could be better
+3796,4899,5,5,Excellent
+3797,6988,4,5,Could be better
+3798,7081,5,5,Good
+3799,4288,4,5,Excellent
+3800,7753,4,5,Could be better
+3801,4524,5,5,Very good
+3802,6753,3,5,Very good
+3803,1467,5,3,Could be better
+3804,2005,4,5,Average
+3805,5694,4,4,Good
+3806,7705,3,5,Average
+3807,9195,4,5,Average
+3808,7784,4,3,Average
+3809,6141,5,5,Excellent
+3810,6779,3,4,Could be better
+3811,9079,5,5,Good
+3812,4725,4,5,Very good
+3813,6383,5,5,Excellent
+3814,6720,5,5,Very good
+3815,6553,5,4,Good
+3816,9795,4,5,Excellent
+3817,4360,5,4,Very good
+3818,7408,4,5,Excellent
+3819,3233,4,5,Could be better
+3820,8859,5,5,Good
+3821,7842,5,4,Good
+3822,8884,5,5,Good
+3823,8670,5,5,Average
+3824,8893,5,5,Average
+3825,9840,5,5,Very good
+3826,4922,4,5,Good
+3827,6642,5,4,Good
+3828,7553,5,5,Excellent
+3829,6422,5,5,Average
+3830,9518,5,4,Excellent
+3831,5327,5,5,Average
+3832,5906,5,3,Excellent
+3833,7445,5,5,Excellent
+3834,6679,5,5,Could be better
+3835,9575,5,5,Excellent
+3836,4736,5,4,Could be better
+3837,2658,5,3,Good
+3838,2293,5,5,Excellent
+3839,5399,4,5,Could be better
+3840,4299,5,5,Excellent
+3841,6143,5,5,Could be better
+3842,3279,4,4,Could be better
+3843,7613,4,5,Excellent
+3844,5599,5,5,Average
+3845,2072,5,5,Could be better
+3846,2226,4,5,Could be better
+3847,4535,5,5,Average
+3848,7833,5,5,Excellent
+3849,5149,5,5,Good
+3850,3378,5,5,Good
+3851,5109,5,5,Average
+3852,8681,5,5,Good
+3853,638,5,4,Could be better
+3854,8427,5,4,Excellent
+3855,4505,5,4,Good
+3856,3765,5,4,Good
+3857,1314,4,5,Very good
+3858,7505,4,5,Excellent
+3859,4442,5,4,Very good
+3860,3236,4,5,Very good
+3861,5100,5,3,Could be better
+3862,6328,4,5,Excellent
+3863,2993,5,4,Good
+3864,4416,4,4,Could be better
+3865,8459,3,5,Average
+3866,3301,4,5,Good
+3867,1847,5,5,Excellent
+3868,4013,5,5,Average
+3869,40,5,5,Average
+3870,8909,5,5,Excellent
+3871,3106,5,5,Very good
+3872,4245,5,5,Average
+3873,4603,3,5,Very good
+3874,1463,5,4,Average
+3875,5960,5,5,Very good
+3876,2020,5,3,Excellent
+3877,8559,5,4,Good
+3878,7487,4,4,Could be better
+3879,5234,4,4,Excellent
+3880,4999,4,3,Good
+3881,4167,5,5,Very good
+3882,4407,4,5,Very good
+3883,562,5,5,Average
+3884,1270,5,5,Could be better
+3885,3438,5,5,Average
+3886,2390,5,5,Could be better
+3887,8475,4,4,Very good
+3888,6807,5,5,Excellent
+3889,9479,5,4,Good
+3890,1480,5,4,Excellent
+3891,8660,5,4,Average
+3892,7437,5,5,Very good
+3893,5928,5,5,Excellent
+3894,3260,3,5,Good
+3895,9595,5,5,Average
+3896,1445,5,4,Good
+3897,4254,5,5,Average
+3898,6917,5,4,Could be better
+3899,6877,4,4,Very good
+3900,7186,5,5,Could be better
+3901,7431,4,5,Average
+3902,9540,4,5,Excellent
+3903,253,5,5,Excellent
+3904,796,5,5,Very good
+3905,832,3,5,Good
+3906,9504,5,5,Excellent
+3907,4265,5,4,Very good
+3908,4041,5,5,Average
+3909,1927,5,5,Good
+3910,4615,5,5,Very good
+3911,3590,3,5,Average
+3912,8207,4,4,Average
+3913,8467,5,5,Good
+3914,6751,5,4,Good
+3915,426,5,4,Excellent
+3916,2847,4,3,Excellent
+3917,6591,5,3,Very good
+3918,7218,5,4,Could be better
+3919,3460,3,4,Very good
+3920,4281,5,5,Very good
+3921,4803,5,5,Very good
+3922,1262,5,3,Excellent
+3923,628,3,5,Excellent
+3924,3120,5,5,Excellent
+3925,3368,4,4,Good
+3926,930,5,5,Could be better
+3927,2017,5,5,Could be better
+3928,2667,5,5,Excellent
+3929,8966,5,5,Could be better
+3930,5034,5,4,Excellent
+3931,3625,4,5,Could be better
+3932,3317,4,5,Very good
+3933,6717,5,5,Could be better
+3934,48,5,5,Could be better
+3935,858,5,5,Average
+3936,7879,4,4,Average
+3937,6350,5,5,Average
+3938,8066,5,4,Very good
+3939,8267,5,4,Good
+3940,1885,5,5,Could be better
+3941,2196,5,5,Very good
+3942,3610,5,5,Good
+3943,4918,3,4,Excellent
+3944,5272,5,4,Very good
+3945,9740,4,5,Average
+3946,2206,5,4,Excellent
+3947,4866,4,5,Average
+3948,4613,5,5,Could be better
+3949,4993,4,5,Average
+3950,2585,3,5,Average
+3951,7966,5,5,Good
+3952,8049,4,4,Very good
+3953,6095,5,5,Excellent
+3954,5835,4,5,Good
+3955,4859,5,4,Could be better
+3956,9266,5,5,Could be better
+3957,4187,5,5,Good
+3958,164,5,5,Could be better
+3959,6369,4,5,Excellent
+3960,5042,5,5,Very good
+3961,2943,4,4,Excellent
+3962,3760,4,3,Very good
+3963,5625,5,5,Average
+3964,1826,4,5,Could be better
+3965,956,5,5,Very good
+3966,3170,5,4,Could be better
+3967,221,5,4,Average
+3968,699,4,4,Very good
+3969,5261,5,5,Excellent
+3970,1152,3,5,Very good
+3971,6122,5,5,Good
+3972,9092,5,5,Very good
+3973,7522,4,5,Excellent
+3974,7770,5,4,Average
+3975,5350,5,5,Good
+3976,5657,5,4,Very good
+3977,869,5,5,Could be better
+3978,4160,5,5,Excellent
+3979,516,5,5,Very good
+3980,3771,5,5,Could be better
+3981,7908,4,5,Very good
+3982,8417,4,5,Average
+3983,4963,5,5,Could be better
+3984,2343,5,5,Good
+3985,6972,5,4,Excellent
+3986,9679,5,5,Average
+3987,8564,5,5,Very good
+3988,7791,5,5,Excellent
+3989,6009,5,5,Good
+3990,2718,4,5,Average
+3991,5022,5,5,Excellent
+3992,6021,5,4,Very good
+3993,9910,5,3,Very good
+3994,8444,5,5,Could be better
+3995,2719,4,5,Very good
+3996,8491,5,5,Excellent
+3997,5748,5,5,Excellent
+3998,6147,5,5,Very good
+3999,2014,5,5,Excellent
+4000,6048,4,5,Excellent
+4001,5266,5,5,Average
+4002,4311,5,5,Good
+4003,5971,5,4,Very good
+4004,458,5,5,Excellent
+4005,7411,4,5,Excellent
+4006,1908,5,5,Average
+4007,7774,5,5,Average
+4008,3278,5,4,Could be better
+4009,8877,5,5,Good
+4010,4175,5,4,Could be better
+4011,9754,5,5,Very good
+4012,3065,5,5,Could be better
+4013,1376,5,5,Excellent
+4014,3989,5,5,Could be better
+4015,3003,3,5,Could be better
+4016,8847,5,5,Good
+4017,4322,3,4,Very good
+4018,6484,5,5,Excellent
+4019,2263,5,5,Average
+4020,6587,4,5,Average
+4021,6235,5,5,Very good
+4022,2289,4,5,Could be better
+4023,1572,5,5,Average
+4024,2430,5,5,Excellent
+4025,3455,5,5,Excellent
+4026,9980,5,5,Good
+4027,2610,5,4,Could be better
+4028,2598,3,4,Could be better
+4029,8118,4,5,Very good
+4030,5031,4,5,Average
+4031,1932,4,4,Average
+4032,4200,5,5,Good
+4033,423,4,5,Average
+4034,839,5,5,Excellent
+4035,4642,5,5,Very good
+4036,3813,5,5,Average
+4037,2693,4,5,Excellent
+4038,1476,5,5,Could be better
+4039,515,5,5,Average
+4040,3605,5,5,Good
+4041,7120,5,5,Excellent
+4042,1351,5,4,Could be better
+4043,5780,5,5,Could be better
+4044,7035,5,5,Good
+4045,8394,5,5,Excellent
+4046,1645,4,5,Good
+4047,8817,4,5,Very good
+4048,8352,5,3,Good
+4049,6427,5,5,Good
+4050,7204,3,4,Good
+4051,1981,4,5,Could be better
+4052,6725,5,5,Excellent
+4053,1798,5,5,Excellent
+4054,7316,4,5,Could be better
+4055,1336,3,5,Good
+4056,3344,5,5,Average
+4057,3776,4,4,Very good
+4058,7683,5,5,Excellent
+4059,9153,4,4,Good
+4060,5263,5,3,Very good
+4061,1185,5,3,Average
+4062,3698,5,5,Average
+4063,9879,5,4,Could be better
+4064,2167,4,5,Average
+4065,2258,5,5,Excellent
+4066,3928,4,5,Good
+4067,7040,4,4,Very good
+4068,690,5,5,Average
+4069,2246,5,5,Average
+4070,2115,5,5,Could be better
+4071,9768,4,3,Average
+4072,559,3,5,Average
+4073,4549,4,5,Could be better
+4074,2333,4,5,Average
+4075,6390,4,5,Good
+4076,5101,3,4,Good
+4077,4652,5,4,Very good
+4078,5279,5,4,Average
+4079,6272,3,4,Good
+4080,6541,5,5,Could be better
+4081,307,5,5,Good
+4082,6370,4,5,Excellent
+4083,4905,5,5,Good
+4084,6315,5,5,Could be better
+4085,2869,4,4,Could be better
+4086,6714,5,5,Could be better
+4087,5766,4,5,Good
+4088,7983,3,5,Could be better
+4089,4910,5,5,Excellent
+4090,6193,4,5,Average
+4091,7371,5,5,Could be better
+4092,8937,5,4,Very good
+4093,2530,5,5,Could be better
+4094,8591,5,5,Very good
+4095,8897,5,5,Very good
+4096,9323,5,4,Average
+4097,8390,5,5,Average
+4098,4514,5,5,Good
+4099,3461,4,5,Excellent
+4100,8474,5,4,Very good
+4101,2874,5,5,Very good
+4102,1450,5,5,Very good
+4103,8256,4,5,Good
+4104,1068,5,4,Good
+4105,7707,3,4,Average
+4106,8888,4,5,Could be better
+4107,1160,5,4,Excellent
+4108,3146,5,4,Very good
+4109,1067,5,5,Good
+4110,4421,5,5,Average
+4111,3028,4,3,Good
+4112,8220,5,5,Average
+4113,4106,4,5,Average
+4114,7394,5,5,Average
+4115,7354,4,5,Could be better
+4116,1651,4,5,Could be better
+4117,9222,5,5,Could be better
+4118,7225,5,4,Good
+4119,8228,5,5,Average
+4120,1608,4,5,Average
+4121,8723,5,5,Excellent
+4122,76,5,5,Could be better
+4123,6018,5,5,Excellent
+4124,7076,4,5,Could be better
+4125,209,5,5,Average
+4126,8854,5,5,Very good
+4127,2065,5,5,Good
+4128,2067,5,5,Very good
+4129,8012,5,4,Could be better
+4130,5433,5,4,Could be better
+4131,8717,4,5,Could be better
+4132,4985,5,3,Excellent
+4133,6068,5,5,Average
+4134,3658,5,5,Could be better
+4135,567,5,5,Excellent
+4136,6699,5,5,Good
+4137,5012,5,5,Excellent
+4138,2066,5,5,Excellent
+4139,3594,5,5,Very good
+4140,8135,5,5,Could be better
+4141,8516,5,4,Excellent
+4142,8856,5,4,Excellent
+4143,1263,5,5,Could be better
+4144,1620,4,5,Could be better
+4145,3825,5,5,Could be better
+4146,3029,4,5,Could be better
+4147,9657,5,5,Could be better
+4148,8555,5,5,Excellent
+4149,1952,5,5,Average
+4150,3123,5,4,Excellent
+4151,8890,5,5,Excellent
+4152,6588,5,5,Average
+4153,9568,5,5,Excellent
+4154,2707,5,4,Average
+4155,2609,4,5,Excellent
+4156,8292,4,4,Average
+4157,7300,4,5,Could be better
+4158,243,3,5,Good
+4159,5670,4,5,Average
+4160,4719,4,5,Very good
+4161,4435,3,5,Could be better
+4162,5919,5,5,Good
+4163,1802,5,5,Good
+4164,8460,5,5,Very good
+4165,536,5,5,Could be better
+4166,4324,3,5,Very good
+4167,4651,4,5,Very good
+4168,9365,5,5,Good
+4169,7294,5,4,Could be better
+4170,6404,4,3,Very good
+4171,333,4,5,Very good
+4172,5820,3,5,Excellent
+4173,9807,5,5,Average
+4174,2888,5,5,Excellent
+4175,2282,5,5,Very good
+4176,7164,5,5,Could be better
+4177,2045,5,5,Good
+4178,39,5,5,Average
+4179,7907,5,5,Excellent
+4180,1427,5,4,Good
+4181,3489,5,5,Average
+4182,7480,3,5,Average
+4183,4401,4,4,Could be better
+4184,4597,5,5,Average
+4185,3674,5,5,Average
+4186,2988,5,4,Good
+4187,7987,5,5,Average
+4188,9491,5,5,Could be better
+4189,5356,4,5,Average
+4190,1710,3,5,Average
+4191,900,5,5,Good
+4192,5498,5,4,Good
+4193,4853,5,5,Very good
+4194,1607,5,4,Could be better
+4195,2591,3,5,Very good
+4196,358,5,5,Average
+4197,5831,5,5,Good
+4198,8302,5,5,Good
+4199,8900,5,5,Very good
+4200,8410,5,5,Very good
+4201,9415,4,5,Could be better
+4202,9956,5,5,Average
+4203,5797,4,3,Very good
+4204,1493,5,4,Very good
+4205,3581,5,5,Excellent
+4206,7317,4,5,Average
+4207,6324,5,4,Good
+4208,1221,5,5,Very good
+4209,8055,5,5,Average
+4210,5084,4,5,Very good
+4211,3079,4,5,Could be better
+4212,159,5,5,Good
+4213,7008,4,5,Could be better
+4214,9950,5,5,Average
+4215,4048,4,4,Excellent
+4216,7174,5,5,Excellent
+4217,8662,5,4,Very good
+4218,3644,4,4,Very good
+4219,4938,5,4,Could be better
+4220,8345,5,5,Excellent
+4221,8070,5,5,Very good
+4222,4913,5,5,Good
+4223,4567,5,3,Average
+4224,4941,5,4,Good
+4225,7549,5,5,Good
+4226,2528,5,5,Good
+4227,5875,5,5,Very good
+4228,4510,5,5,Good
+4229,2093,5,5,Good
+4230,7771,5,5,Excellent
+4231,2833,4,5,Average
+4232,6579,5,5,Good
+4233,722,5,4,Could be better
+4234,7453,4,5,Could be better
+4235,1585,5,5,Average
+4236,5799,4,5,Very good
+4237,9939,4,4,Could be better
+4238,1972,5,5,Could be better
+4239,4946,5,5,Average
+4240,4821,4,5,Average
+4241,7240,4,5,Could be better
+4242,4162,5,5,Very good
+4243,4686,4,5,Excellent
+4244,6848,5,5,Average
+4245,6851,5,4,Could be better
+4246,346,5,3,Very good
+4247,1498,4,5,Very good
+4248,4100,5,5,Excellent
+4249,7121,5,5,Good
+4250,9184,5,5,Good
+4251,2476,4,5,Average
+4252,6004,4,4,Excellent
+4253,8546,5,5,Could be better
+4254,848,4,5,Good
+4255,7098,5,5,Good
+4256,6438,5,4,Average
+4257,1301,4,5,Could be better
+4258,3666,5,5,Excellent
+4259,8515,5,4,Could be better
+4260,1618,5,4,Could be better
+4261,8348,5,4,Could be better
+4262,6645,4,5,Excellent
+4263,7654,4,4,Good
+4264,2823,4,4,Very good
+4265,1489,5,4,Good
+4266,1701,5,4,Good
+4267,2112,5,4,Excellent
+4268,6467,4,4,Good
+4269,1984,5,5,Good
+4270,464,5,5,Could be better
+4271,186,4,4,Very good
+4272,387,4,4,Excellent
+4273,2024,5,5,Average
+4274,496,5,5,Excellent
+4275,6930,5,5,Could be better
+4276,5743,4,4,Good
+4277,7957,5,4,Very good
+4278,7273,5,4,Average
+4279,9817,5,5,Average
+4280,8084,5,3,Good
+4281,6909,3,3,Good
+4282,8603,5,5,Could be better
+4283,3525,5,5,Very good
+4284,2505,5,5,Average
+4285,9516,5,4,Average
+4286,9007,5,5,Excellent
+4287,9053,4,5,Average
+4288,5374,5,5,Could be better
+4289,7965,4,5,Average
+4290,4920,4,5,Good
+4291,8558,5,4,Average
+4292,5758,4,4,Average
+4293,5359,5,5,Could be better
+4294,5385,5,4,Could be better
+4295,1034,5,4,Average
+4296,3114,5,4,Very good
+4297,1019,5,4,Average
+4298,4095,5,5,Average
+4299,169,3,5,Excellent
+4300,2804,4,5,Average
+4301,7232,5,5,Excellent
+4302,7177,5,5,Good
+4303,1183,4,5,Very good
+4304,2984,5,5,Could be better
+4305,9354,4,5,Excellent
+4306,4692,5,5,Could be better
+4307,1642,5,5,Could be better
+4308,1546,3,4,Excellent
+4309,4714,5,4,Average
+4310,573,5,3,Could be better
+4311,8272,5,5,Average
+4312,1824,3,4,Could be better
+4313,1904,5,5,Excellent
+4314,6169,5,5,Very good
+4315,1379,5,5,Very good
+4316,4253,5,5,Average
+4317,7684,4,4,Could be better
+4318,4781,3,4,Could be better
+4319,4861,5,4,Excellent
+4320,1208,5,4,Could be better
+4321,7099,5,5,Average
+4322,2369,5,5,Could be better
+4323,8984,4,4,Good
+4324,5448,5,5,Excellent
+4325,9169,5,3,Very good
+4326,8048,5,5,Very good
+4327,6666,5,5,Good
+4328,2604,5,5,Average
+4329,7598,5,5,Excellent
+4330,6822,5,5,Good
+4331,9578,5,4,Average
+4332,3372,5,4,Could be better
+4333,4238,5,4,Could be better
+4334,7577,4,4,Excellent
+4335,6669,5,5,Very good
+4336,10,5,5,Very good
+4337,3863,5,5,Excellent
+4338,4356,5,5,Good
+4339,2521,4,5,Good
+4340,6108,4,5,Excellent
+4341,9199,5,5,Excellent
+4342,8472,5,5,Average
+4343,7691,4,5,Excellent
+4344,8599,4,5,Good
+4345,9191,5,5,Could be better
+4346,4066,5,4,Very good
+4347,6820,5,5,Excellent
+4348,2899,5,5,Good
+4349,1922,5,5,Average
+4350,7429,4,5,Good
+4351,2447,4,4,Could be better
+4352,4446,4,4,Could be better
+4353,6233,4,4,Average
+4354,4788,4,5,Average
+4355,2615,5,5,Very good
+4356,5192,4,4,Good
+4357,7877,5,4,Could be better
+4358,7151,5,5,Very good
+4359,7704,4,5,Excellent
+4360,3441,5,4,Could be better
+4361,1484,4,5,Could be better
+4362,6041,5,5,Excellent
+4363,9062,4,5,Very good
+4364,6137,5,5,Average
+4365,5578,4,4,Very good
+4366,9256,4,5,Could be better
+4367,5347,4,3,Could be better
+4368,1617,4,4,Average
+4369,9673,5,4,Excellent
+4370,8999,5,5,Could be better
+4371,2949,4,5,Good
+4372,6802,5,5,Could be better
+4373,8770,5,5,Average
+4374,5281,5,5,Good
+4375,5821,5,3,Could be better
+4376,8519,4,5,Good
+4377,500,5,5,Could be better
+4378,2113,5,4,Very good
+4379,4627,4,5,Average
+4380,3517,5,5,Average
+4381,5937,4,5,Excellent
+4382,9683,5,5,Could be better
+4383,8772,4,5,Average
+4384,4135,4,5,Very good
+4385,5558,5,5,Could be better
+4386,1182,5,5,Good
+4387,7649,5,5,Excellent
+4388,2415,5,5,Very good
+4389,2385,5,4,Could be better
+4390,3230,5,5,Good
+4391,8196,5,5,Could be better
+4392,8176,5,4,Good
+4393,6340,5,5,Could be better
+4394,5175,5,5,Could be better
+4395,3498,5,4,Could be better
+4396,8229,5,5,Good
+4397,427,5,5,Excellent
+4398,5876,5,4,Could be better
+4399,6681,5,5,Good
+4400,3177,4,5,Excellent
+4401,2291,5,4,Very good
+4402,8873,4,5,Could be better
+4403,6567,4,5,Average
+4404,3481,3,5,Good
+4405,8452,5,4,Very good
+4406,9922,5,5,Very good
+4407,6993,5,5,Average
+4408,7358,5,5,Good
+4409,8368,4,5,Excellent
+4410,7658,5,5,Average
+4411,9513,3,5,Average
+4412,9999,5,5,Very good
+4413,224,5,4,Average
+4414,4309,4,5,Could be better
+4415,5822,5,5,Good
+4416,4368,5,5,Average
+4417,4296,4,5,Excellent
+4418,5996,5,5,Could be better
+4419,6226,5,5,Good
+4420,7843,5,5,Good
+4421,4408,5,5,Excellent
+4422,31,5,5,Excellent
+4423,4770,5,5,Could be better
+4424,7563,4,5,Could be better
+4425,5288,5,4,Excellent
+4426,4684,5,5,Could be better
+4427,7918,5,5,Average
+4428,2808,4,5,Excellent
+4429,1765,5,5,Very good
+4430,6064,5,5,Average
+4431,4035,3,5,Average
+4432,236,5,4,Average
+4433,9264,5,5,Average
+4434,7910,5,4,Good
+4435,2339,5,4,Average
+4436,6477,5,3,Excellent
+4437,2324,5,5,Excellent
+4438,3136,4,5,Average
+4439,9909,5,5,Good
+4440,9675,3,5,Average
+4441,8647,4,5,Average
+4442,7887,5,5,Good
+4443,6678,4,5,Average
+4444,1525,5,5,Very good
+4445,1593,5,5,Excellent
+4446,1728,5,4,Good
+4447,7228,4,5,Good
+4448,1902,4,5,Excellent
+4449,8038,4,5,Could be better
+4450,7663,4,3,Very good
+4451,2130,5,5,Could be better
+4452,2765,4,5,Could be better
+4453,8073,5,5,Average
+4454,5660,3,4,Excellent
+4455,942,5,4,Average
+4456,5632,5,4,Very good
+4457,2512,4,3,Average
+4458,4901,4,5,Excellent
+4459,9324,5,3,Good
+4460,8638,4,5,Average
+4461,7149,5,5,Excellent
+4462,1456,5,4,Good
+4463,9016,5,4,Good
+4464,3887,5,4,Good
+4465,3090,5,5,Good
+4466,1556,5,4,Excellent
+4467,2600,5,4,Excellent
+4468,250,5,5,Very good
+4469,7990,4,5,Average
+4470,747,3,5,Average
+4471,999,5,5,Good
+4472,3091,5,5,Average
+4473,9904,5,4,Excellent
+4474,2389,5,5,Could be better
+4475,8381,5,4,Could be better
+4476,5516,3,3,Very good
+4477,4834,5,5,Average
+4478,6435,5,5,Excellent
+4479,6861,5,5,Very good
+4480,2688,5,5,Good
+4481,2458,4,5,Average
+4482,7366,4,5,Excellent
+4483,4723,5,5,Good
+4484,3072,3,5,Could be better
+4485,1889,3,5,Excellent
+4486,441,5,5,Average
+4487,8840,5,5,Good
+4488,3269,5,4,Excellent
+4489,939,5,5,Very good
+4490,1266,5,5,Could be better
+4491,7067,5,4,Average
+4492,4542,5,5,Average
+4493,6560,4,5,Very good
+4494,9582,5,5,Excellent
+4495,5091,5,5,Excellent
+4496,1696,5,4,Could be better
+4497,9179,4,5,Excellent
+4498,854,4,5,Excellent
+4499,1945,5,5,Could be better
+4500,9277,5,5,Average
+4501,7322,4,5,Very good
+4502,2994,5,5,Average
+4503,9275,5,4,Good
+4504,9308,5,5,Could be better
+4505,1422,5,5,Excellent
+4506,9426,4,5,Excellent
+4507,4147,4,5,Average
+4508,9473,5,5,Very good
+4509,8923,5,5,Good
+4510,97,4,3,Excellent
+4511,7948,5,5,Good
+4512,2934,5,4,Could be better
+4513,7075,4,5,Good
+4514,6164,5,5,Average
+4515,7884,5,4,Very good
+4516,4458,4,5,Very good
+4517,3058,4,5,Excellent
+4518,7193,5,5,Very good
+4519,6698,5,5,Excellent
+4520,3253,5,5,Excellent
+4521,3527,5,5,Good
+4522,8528,5,5,Excellent
+4523,9122,5,5,Good
+4524,1501,5,5,Good
+4525,9481,5,5,Good
+4526,5943,5,5,Average
+4527,8589,4,4,Could be better
+4528,6206,5,4,Excellent
+4529,4896,5,5,Excellent
+4530,2864,5,5,Could be better
+4531,3013,5,5,Average
+4532,7170,5,4,Good
+4533,6631,4,4,Average
+4534,8804,5,4,Average
+4535,5276,5,5,Excellent
+4536,2552,4,5,Average
+4537,7826,4,5,Excellent
+4538,9228,5,5,Excellent
+4539,5643,5,5,Good
+4540,551,4,5,Average
+4541,8676,5,5,Very good
+4542,2471,5,5,Could be better
+4543,9078,4,5,Very good
+4544,5059,4,5,Excellent
+4545,4667,4,5,Good
+4546,1094,5,5,Good
+4547,7513,5,5,Very good
+4548,189,3,4,Average
+4549,8269,4,5,Excellent
+4550,1797,3,4,Excellent
+4551,4747,4,5,Excellent
+4552,7777,3,5,Average
+4553,9797,5,4,Average
+4554,4921,5,5,Very good
+4555,1494,5,4,Excellent
+4556,2919,5,5,Could be better
+4557,2308,4,5,Excellent
+4558,5088,5,5,Good
+4559,8201,4,4,Average
+4560,595,4,3,Average
+4561,9144,5,5,Average
+4562,1229,5,5,Very good
+4563,4782,5,5,Very good
+4564,1741,4,5,Average
+4565,7959,4,4,Excellent
+4566,2083,5,5,Average
+4567,2892,5,5,Could be better
+4568,828,5,4,Could be better
+4569,9637,3,4,Excellent
+4570,4949,5,4,Excellent
+4571,6566,5,5,Could be better
+4572,6923,4,5,Good
+4573,8953,5,4,Could be better
+4574,1400,4,5,Excellent
+4575,205,5,4,Very good
+4576,2966,4,5,Could be better
+4577,6385,4,5,Good
+4578,1428,5,5,Could be better
+4579,3802,5,5,Very good
+4580,8468,5,5,Very good
+4581,5669,5,5,Excellent
+4582,1209,5,5,Average
+4583,3764,4,4,Very good
+4584,6449,4,4,Very good
+4585,9171,5,5,Very good
+4586,4211,5,5,Very good
+4587,9087,5,5,Very good
+4588,7430,3,5,Average
+4589,7335,5,5,Could be better
+4590,8874,5,5,Could be better
+4591,9388,5,5,Very good
+4592,9315,5,5,Excellent
+4593,2197,4,5,Average
+4594,9401,4,4,Very good
+4595,9944,4,5,Very good
+4596,9833,4,4,Good
+4597,4950,4,4,Average
+4598,9115,4,5,Could be better
+4599,9102,5,5,Average
+4600,1280,5,5,Could be better
+4601,2354,4,5,Could be better
+4602,8816,4,5,Good
+4603,757,5,5,Very good
+4604,9530,4,5,Average
+4605,6954,5,5,Could be better
+4606,9110,3,4,Good
+4607,9937,4,3,Excellent
+4608,9331,5,4,Excellent
+4609,7936,5,5,Excellent
+4610,4594,5,3,Very good
+4611,1819,4,5,Good
+4612,344,5,5,Very good
+4613,4581,5,5,Very good
+4614,6264,5,4,Could be better
+4615,9132,4,5,Very good
+4616,7078,5,3,Average
+4617,4991,5,5,Excellent
+4618,8319,4,5,Good
+4619,3096,4,5,Excellent
+4620,7235,5,3,Very good
+4621,4795,4,4,Very good
+4622,321,5,4,Good
+4623,2074,5,5,Very good
+4624,9713,5,5,Good
+4625,6775,5,4,Could be better
+4626,1198,5,5,Average
+4627,7686,5,5,Excellent
+4628,9843,4,5,Very good
+4629,863,5,5,Good
+4630,4649,5,5,Average
+4631,2477,4,5,Could be better
+4632,7041,4,5,Good
+4633,5114,5,5,Excellent
+4634,3491,5,5,Good
+4635,3350,5,5,Average
+4636,2301,3,5,Average
+4637,3907,5,4,Very good
+4638,2982,5,5,Very good
+4639,5984,5,5,Average
+4640,4769,5,5,Average
+4641,889,5,4,Excellent
+4642,790,4,5,Average
+4643,4150,5,4,Good
+4644,2930,5,3,Excellent
+4645,9573,4,5,Good
+4646,7612,5,4,Average
+4647,2460,4,5,Good
+4648,9858,5,5,Good
+4649,335,4,5,Very good
+4650,3782,5,5,Very good
+4651,3647,5,5,Could be better
+4652,4329,4,5,Very good
+4653,4551,5,5,Could be better
+4654,5887,5,5,Average
+4655,2952,5,3,Very good
+4656,8463,5,5,Could be better
+4657,631,5,4,Excellent
+4658,2852,5,5,Could be better
+4659,6207,5,5,Excellent
+4660,3302,4,3,Excellent
+4661,11,5,5,Excellent
+4662,4721,5,4,Excellent
+4663,8488,5,5,Good
+4664,5691,5,5,Excellent
+4665,3131,4,5,Good
+4666,2342,5,3,Good
+4667,2940,4,5,Good
+4668,1320,5,4,Very good
+4669,6786,5,5,Could be better
+4670,1396,5,4,Could be better
+4671,2579,5,5,Average
+4672,5131,4,5,Good
+4673,7124,5,5,Excellent
+4674,8732,5,5,Average
+4675,4994,5,4,Could be better
+4676,8932,5,5,Could be better
+4677,3953,3,5,Excellent
+4678,1015,5,5,Could be better
+4679,9694,5,5,Could be better
+4680,2261,5,5,Very good
+4681,3609,4,5,Good
+4682,1430,4,5,Could be better
+4683,6921,5,5,Excellent
+4684,8466,5,4,Very good
+4685,9563,4,4,Excellent
+4686,8112,5,4,Average
+4687,3374,4,4,Excellent
+4688,8204,4,5,Good
+4689,2960,4,3,Could be better
+4690,2231,5,5,Average
+4691,788,4,4,Average
+4692,6017,5,4,Could be better
+4693,443,5,3,Average
+4694,7310,5,5,Excellent
+4695,7800,5,4,Very good
+4696,4849,4,5,Good
+4697,8744,4,5,Good
+4698,4168,5,4,Average
+4699,135,5,3,Average
+4700,6388,5,5,Good
+4701,2001,5,5,Very good
+4702,4630,4,5,Excellent
+4703,4712,4,3,Very good
+4704,7956,5,5,Very good
+4705,6949,5,3,Excellent
+4706,1979,5,5,Good
+4707,8822,4,5,Average
+4708,5963,5,5,Excellent
+4709,5514,3,4,Good
+4710,4740,5,5,Good
+4711,2705,5,5,Average
+4712,741,5,5,Good
+4713,9097,5,4,Could be better
+4714,7589,4,5,Average
+4715,8321,5,5,Average
+4716,3974,4,5,Excellent
+4717,6348,4,5,Very good
+4718,8521,5,4,Very good
+4719,6498,5,4,Average
+4720,6713,4,3,Could be better
+4721,5789,3,5,Very good
+4722,480,5,5,Good
+4723,2514,5,5,Average
+4724,7090,5,5,Could be better
+4725,8645,5,5,Excellent
+4726,4741,5,4,Excellent
+4727,4716,5,3,Excellent
+4728,3052,5,3,Very good
+4729,5500,5,5,Good
+4730,6511,5,5,Could be better
+4731,9025,3,4,Very good
+4732,4829,5,5,Very good
+4733,8825,5,5,Average
+4734,7359,5,5,Could be better
+4735,6953,5,5,Very good
+4736,1537,5,4,Excellent
+4737,6532,4,5,Average
+4738,1853,3,3,Excellent
+4739,8987,5,5,Very good
+4740,8823,5,4,Average
+4741,6771,5,3,Excellent
+4742,1140,3,3,Could be better
+4743,2968,5,5,Excellent
+4744,3424,4,4,Very good
+4745,9027,5,5,Very good
+4746,1095,5,5,Good
+4747,750,5,5,Average
+4748,265,4,5,Very good
+4749,2127,5,5,Could be better
+4750,2608,5,5,Average
+4751,4221,5,5,Good
+4752,6180,4,4,Average
+4753,1178,5,5,Very good
+4754,816,5,5,Excellent
+4755,7112,4,5,Average
+4756,6433,5,4,Good
+4757,2561,5,5,Very good
+4758,213,5,4,Very good
+4759,6844,4,5,Could be better
+4760,9934,5,5,Could be better
+4761,6381,4,5,Very good
+4762,6075,5,4,Good
+4763,1142,5,5,Excellent
+4764,1867,5,5,Good
+4765,5986,5,4,Could be better
+4766,8437,5,3,Could be better
+4767,7176,5,5,Average
+4768,6372,5,5,Very good
+4769,3696,4,5,Very good
+4770,2409,4,5,Good
+4771,3443,5,4,Average
+4772,4384,5,4,Excellent
+4773,9176,5,5,Very good
+4774,9565,5,5,Good
+4775,6641,5,3,Very good
+4776,6100,4,4,Very good
+4777,4319,5,5,Excellent
+4778,8188,5,4,Excellent
+4779,7539,5,4,Good
+4780,6990,5,5,Good
+4781,2711,4,5,Good
+4782,2596,5,4,Good
+4783,9535,3,4,Could be better
+4784,709,5,5,Could be better
+4785,1892,4,5,Good
+4786,6945,5,5,Average
+4787,3377,4,5,Very good
+4788,2463,5,5,Excellent
+4789,7883,5,5,Average
+4790,3571,5,5,Very good
+4791,2441,5,5,Could be better
+4792,9649,5,5,Could be better
+4793,2712,5,5,Very good
+4794,8716,5,5,Excellent
+4795,8997,5,5,Excellent
+4796,1091,4,5,Very good
+4797,4491,5,5,Average
+4798,6056,3,5,Average
+4799,7953,4,5,Good
+4800,2803,5,5,Could be better
+4801,8658,5,5,Good
+4802,8523,5,3,Good
+4803,517,3,5,Excellent
+4804,2603,5,5,Very good
+4805,9589,4,5,Very good
+4806,1674,5,5,Excellent
+4807,7949,5,4,Good
+4808,7315,5,5,Excellent
+4809,5496,5,4,Excellent
+4810,2378,5,4,Could be better
+4811,1332,5,5,Good
+4812,1730,5,5,Good
+4813,6208,5,5,Average
+4814,616,5,5,Good
+4815,3633,5,5,Could be better
+4816,7525,5,4,Average
+4817,2138,5,3,Could be better
+4818,9271,4,5,Good
+4819,9414,5,4,Very good
+4820,3271,5,4,Excellent
+4821,1584,4,5,Excellent
+4822,6521,5,4,Excellent
+4823,7697,5,5,Very good
+4824,8214,5,5,Good
+4825,1133,3,5,Average
+4826,3855,5,4,Could be better
+4827,702,5,3,Excellent
+4828,1487,5,5,Excellent
+4829,9674,5,5,Good
+4830,7888,5,4,Excellent
+4831,4391,3,5,Good
+4832,7200,5,4,Average
+4833,3841,5,5,Very good
+4834,5361,5,5,Could be better
+4835,4232,5,3,Good
+4836,8485,5,5,Good
+4837,9875,5,4,Excellent
+4838,3338,5,5,Could be better
+4839,3637,4,5,Could be better
+4840,7760,5,5,Excellent
+4841,8678,5,4,Excellent
+4842,7458,4,5,Excellent
+4843,4628,5,5,Average
+4844,8601,5,5,Could be better
+4845,8094,5,5,Good
+4846,8520,5,4,Could be better
+4847,3406,5,5,Average
+4848,8006,4,4,Good
+4849,6387,5,4,Could be better
+4850,1417,5,4,Very good
+4851,5528,5,5,Could be better
+4852,2700,5,4,Very good
+4853,3166,4,4,Good
+4854,2617,4,5,Good
+4855,7690,5,5,Good
+4856,297,5,5,Could be better
+4857,1325,5,5,Could be better
+4858,2502,5,4,Excellent
+4859,8131,5,5,Good
+4860,1830,5,5,Good
+4861,2813,5,5,Average
+4862,903,5,4,Good
+4863,1477,4,5,Average
+4864,5033,5,5,Excellent
+4865,2297,4,5,Could be better
+4866,6393,4,4,Very good
+4867,3411,5,4,Good
+4868,4511,5,4,Excellent
+4869,1352,5,5,Could be better
+4870,2918,5,5,Excellent
+4871,8646,4,5,Excellent
+4872,9886,4,5,Good
+4873,405,4,5,Good
+4874,3431,4,5,Average
+4875,2948,4,4,Very good
+4876,8793,4,5,Average
+4877,3293,5,5,Good
+4878,2789,5,5,Average
+4879,4070,4,5,Average
+4880,8331,5,5,Could be better
+4881,5127,4,5,Excellent
+4882,1863,5,5,Average
+4883,9015,5,5,Good
+4884,3262,4,5,Excellent
+4885,6443,5,5,Could be better
+4886,7398,5,4,Average
+4887,581,5,5,Could be better
+4888,6320,3,4,Good
+4889,1675,5,4,Average
+4890,4816,5,5,Excellent
+4891,469,5,4,Could be better
+4892,8050,5,4,Good
+4893,7968,5,5,Very good
+4894,3178,4,5,Very good
+4895,37,5,4,Average
+4896,2677,5,4,Very good
+4897,2140,5,5,Could be better
+4898,910,5,5,Average
+4899,7245,3,4,Good
+4900,3554,5,5,Average
+4901,1796,5,4,Excellent
+4902,8476,5,5,Good
+4903,3191,5,5,Could be better
+4904,4855,5,5,Good
+4905,3007,5,4,Could be better
+4906,598,5,5,Could be better
+4907,5397,5,3,Could be better
+4908,5268,5,5,Could be better
+4909,1936,4,3,Very good
+4910,4752,4,5,Good
+4911,366,4,5,Good
+4912,5882,5,4,Excellent
+4913,5565,5,5,Average
+4914,6275,5,5,Good
+4915,4568,5,5,Could be better
+4916,7048,5,3,Excellent
+4917,3336,5,5,Good
+4918,1785,4,4,Could be better
+4919,9030,5,5,Excellent
+4920,9332,3,5,Very good
+4921,770,5,5,Average
+4922,5624,4,5,Very good
+4923,8128,5,5,Could be better
+4924,6132,4,4,Good
+4925,9926,5,4,Very good
+4926,9413,5,5,Good
+4927,6545,5,4,Excellent
+4928,4488,5,5,Average
+4929,6405,5,5,Very good
+4930,3875,5,5,Very good
+4931,8907,5,5,Good
+4932,9804,5,5,Good
+4933,3290,4,4,Could be better
+4934,9018,3,5,Average
+4935,7330,4,5,Very good
+4936,5249,4,5,Excellent
+4937,5153,5,5,Could be better
+4938,9642,5,5,Excellent
+4939,884,5,4,Excellent
+4940,6828,4,5,Excellent
+4941,4206,4,5,Very good
+4942,7743,5,4,Excellent
+4943,5271,5,3,Good
+4944,3670,4,5,Could be better
+4945,4778,5,5,Average
+4946,6376,4,5,Excellent
+4947,8787,4,5,Very good
+4948,5215,4,5,Very good
+4949,2881,4,5,Excellent
+4950,7305,3,3,Average
+4951,3001,5,4,Very good
+4952,6293,4,5,Excellent
+4953,676,4,4,Excellent
+4954,677,5,4,Good
+4955,9562,4,5,Very good
+4956,8044,4,3,Excellent
+4957,8039,4,5,Average
+4958,7558,5,5,Good
+4959,1014,5,5,Good
+4960,7822,5,5,Average
+4961,6792,5,4,Good
+4962,843,5,5,Average
+4963,7462,5,5,Very good
+4964,2835,4,4,Good
+4965,479,5,5,Could be better
+4966,6581,5,3,Very good
+4967,5438,5,5,Good
+4968,491,3,5,Very good
+4969,7049,5,5,Very good
+4970,2859,5,5,Average
+4971,7626,5,5,Could be better
+4972,2096,5,5,Excellent
+4973,8989,4,5,Excellent
+4974,4689,5,4,Average
+4975,1248,3,5,Average
+4976,9014,5,5,Average
+4977,9373,4,5,Could be better
+4978,7633,5,5,Could be better
+4979,466,5,5,Excellent
+4980,4961,5,5,Very good
+4981,6711,4,4,Very good
+4982,1630,5,5,Could be better
+4983,6995,5,5,Could be better
+4984,4774,4,3,Very good
+4985,8458,4,5,Good
+4986,3319,4,5,Very good
+4987,4431,5,5,Excellent
+4988,2632,3,5,Average
+4989,1001,5,5,Average
+4990,9183,4,5,Average
+4991,4602,5,5,Excellent
+4992,9455,5,5,Excellent
+4993,9142,5,5,Excellent
+4994,7653,5,5,Very good
+4995,5850,5,4,Could be better
+4996,2166,4,3,Could be better
+4997,474,5,5,Good
+4998,6593,5,3,Good
+4999,6492,4,3,Excellent
+5000,5592,3,5,Average
+5001,197,5,5,Could be better
+5002,8812,4,5,Good
+5003,4004,4,5,Could be better
+5004,7891,5,5,Very good
+5005,529,5,5,Could be better
+5006,9226,4,5,Could be better
+5007,4471,5,5,Average
+5008,5396,5,4,Very good
+5009,4616,5,5,Good
+5010,4246,5,5,Average
+5011,6375,5,5,Very good
+5012,1344,5,5,Very good
+5013,6574,5,4,Average
+5014,1119,5,5,Average
+5015,5072,5,5,Excellent
+5016,113,5,5,Could be better
+5017,2907,5,4,Average
+5018,7412,5,5,Excellent
+5019,9135,5,5,Excellent
+5020,9187,5,5,Could be better
+5021,7740,5,4,Good
+5022,7045,5,5,Good
+5023,1023,4,5,Could be better
+5024,2946,5,5,Excellent
+5025,5285,5,5,Good
+5026,5035,5,4,Good
+5027,6538,5,3,Very good
+5028,8327,3,5,Very good
+5029,4687,5,5,Good
+5030,7495,5,4,Average
+5031,552,5,5,Could be better
+5032,509,3,4,Excellent
+5033,7470,4,3,Good
+5034,9431,5,4,Good
+5035,5417,5,5,Could be better
+5036,3462,5,5,Excellent
+5037,9586,5,4,Excellent
+5038,6774,5,5,Excellent
+5039,4515,5,5,Good
+5040,1906,4,5,Excellent
+5041,7825,5,4,Good
+5042,6769,5,4,Excellent
+5043,6654,5,4,Excellent
+5044,4956,5,4,Could be better
+5045,8754,5,4,Good
+5046,7744,5,4,Very good
+5047,9505,5,5,Very good
+5048,6088,5,5,Very good
+5049,7766,5,5,Excellent
+5050,3045,5,5,Good
+5051,9880,5,5,Excellent
+5052,3152,5,5,Very good
+5053,6780,5,3,Very good
+5054,9172,5,5,Good
+5055,8871,5,4,Could be better
+5056,603,4,4,Very good
+5057,214,5,4,Could be better
+5058,8668,4,5,Could be better
+5059,8971,4,5,Could be better
+5060,9567,3,4,Very good
+5061,9916,4,5,Excellent
+5062,2602,5,5,Could be better
+5063,3999,5,3,Average
+5064,1173,5,5,Very good
+5065,7828,5,3,Excellent
+5066,6238,4,5,Good
+5067,2963,5,4,Could be better
+5068,5791,4,5,Excellent
+5069,5941,5,5,Very good
+5070,4800,5,3,Average
+5071,9316,5,5,Good
+5072,2279,5,5,Average
+5073,2015,4,5,Excellent
+5074,3931,5,5,Very good
+5075,7562,5,4,Very good
+5076,2646,4,3,Average
+5077,993,4,5,Excellent
+5078,1970,5,3,Very good
+5079,9706,5,5,Very good
+5080,5833,3,5,Excellent
+5081,5445,5,5,Excellent
+5082,9318,5,5,Very good
+5083,8616,5,5,Could be better
+5084,4272,4,5,Good
+5085,1069,5,5,Average
+5086,1829,5,4,Very good
+5087,1803,5,5,Could be better
+5088,2774,4,5,Could be better
+5089,2124,5,5,Excellent
+5090,9598,4,5,Good
+5091,518,5,5,Very good
+5092,1151,5,5,Average
+5093,4605,4,5,Average
+5094,8948,5,4,Could be better
+5095,1547,4,5,Could be better
+5096,5479,5,4,Could be better
+5097,8162,5,5,Very good
+5098,2753,4,5,Average
+5099,6564,5,5,Could be better
+5100,592,5,5,Average
+5101,2532,5,5,Average
+5102,891,5,5,Average
+5103,7901,5,5,Good
+5104,9640,5,3,Very good
+5105,2536,4,5,Very good
+5106,3510,5,4,Very good
+5107,8343,5,4,Very good
+5108,5619,5,5,Very good
+5109,8695,5,5,Excellent
+5110,2440,5,5,Good
+5111,7546,5,4,Good
+5112,9857,5,5,Could be better
+5113,3225,4,5,Excellent
+5114,3940,5,5,Excellent
+5115,4648,5,5,Good
+5116,1101,5,5,Very good
+5117,704,4,5,Could be better
+5118,4811,4,4,Average
+5119,5402,4,4,Excellent
+5120,4753,5,4,Excellent
+5121,7981,5,4,Very good
+5122,8189,4,4,Excellent
+5123,9231,5,5,Good
+5124,3843,5,5,Excellent
+5125,3272,5,4,Average
+5126,1372,5,3,Average
+5127,2545,3,5,Good
+5128,3273,4,5,Could be better
+5129,7368,4,5,Very good
+5130,311,5,5,Could be better
+5131,6343,5,4,Good
+5132,1488,5,5,Could be better
+5133,8287,4,5,Excellent
+5134,5499,4,4,Average
+5135,9720,5,5,Very good
+5136,7530,5,5,Good
+5137,7714,5,5,Excellent
+5138,3861,5,5,Could be better
+5139,7916,4,4,Very good
+5140,7694,3,4,Average
+5141,8640,5,4,Could be better
+5142,7457,5,5,Very good
+5143,5061,5,4,Excellent
+5144,4072,5,5,Average
+5145,8933,5,4,Could be better
+5146,5258,5,5,Could be better
+5147,8604,5,5,Good
+5148,4191,4,5,Good
+5149,2365,5,5,Excellent
+5150,765,5,5,Good
+5151,3531,5,4,Good
+5152,5338,5,4,Very good
+5153,725,5,5,Excellent
+5154,7836,4,4,Excellent
+5155,8883,5,5,Very good
+5156,318,5,4,Good
+5157,5736,4,5,Could be better
+5158,6948,5,5,Average
+5159,525,5,4,Excellent
+5160,1882,4,4,Average
+5161,341,5,5,Very good
+5162,6723,5,4,Good
+5163,9284,4,5,Good
+5164,2187,4,3,Average
+5165,2228,5,5,Average
+5166,6362,4,5,Good
+5167,3229,5,4,Good
+5168,6738,5,5,Excellent
+5169,438,5,5,Very good
+5170,6998,5,5,Excellent
+5171,2082,5,4,Average
+5172,5907,5,4,Good
+5173,4813,4,5,Average
+5174,9902,4,5,Average
+5175,3600,5,5,Average
+5176,1985,5,3,Very good
+5177,7454,5,4,Excellent
+5178,9460,5,5,Excellent
+5179,9254,4,4,Excellent
+5180,8079,3,4,Excellent
+5181,2281,5,5,Very good
+5182,9863,5,5,Good
+5183,5212,4,5,Excellent
+5184,7903,5,4,Very good
+5185,8103,5,5,Average
+5186,9343,5,4,Could be better
+5187,472,5,4,Could be better
+5188,9891,4,5,Very good
+5189,9009,4,5,Very good
+5190,6089,5,5,Good
+5191,5744,4,4,Could be better
+5192,7969,5,4,Good
+5193,9227,5,5,Average
+5194,3312,5,5,Average
+5195,7013,5,5,Excellent
+5196,9164,5,5,Excellent
+5197,9273,5,5,Very good
+5198,3998,4,3,Excellent
+5199,9206,3,5,Good
+5200,2720,4,4,Good
+5201,819,5,5,Excellent
+5202,3224,5,4,Could be better
+5203,3450,5,4,Very good
+5204,7255,5,5,Could be better
+5205,5695,5,5,Good
+5206,7355,5,5,Good
+5207,7117,3,4,Could be better
+5208,3018,5,5,Very good
+5209,7679,5,5,Average
+5210,4672,4,4,Excellent
+5211,5017,5,5,Very good
+5212,6805,5,4,Good
+5213,5435,4,4,Average
+5214,1949,5,5,Excellent
+5215,3097,4,4,Excellent
+5216,5002,5,5,Very good
+5217,1612,5,5,Excellent
+5218,3446,3,5,Good
+5219,3642,5,5,Very good
+5220,9139,5,4,Average
+5221,9877,5,5,Could be better
+5222,5357,5,5,Excellent
+5223,8338,5,5,Excellent
+5224,3973,5,5,Very good
+5225,8560,5,5,Very good
+5226,9892,5,5,Very good
+5227,2245,4,4,Good
+5228,3648,3,5,Very good
+5229,7640,5,5,Excellent
+5230,6881,5,5,Very good
+5231,3199,4,5,Could be better
+5232,3315,5,3,Average
+5233,9962,5,5,Could be better
+5234,8755,5,4,Good
+5235,7739,5,5,Very good
+5236,915,5,5,Very good
+5237,3951,5,5,Could be better
+5238,8547,5,5,Very good
+5239,6704,5,5,Could be better
+5240,8644,5,5,Good
+5241,106,3,4,Excellent
+5242,5750,5,5,Average
+5243,6241,4,5,Very good
+5244,9347,5,5,Good
+5245,6594,5,5,Could be better
+5246,1563,4,4,Good
+5247,3367,5,4,Excellent
+5248,1478,4,4,Very good
+5249,1624,4,4,Could be better
+5250,8974,5,5,Good
+5251,8262,3,4,Could be better
+5252,7515,3,5,Very good
+5253,4345,5,4,Very good
+5254,6584,5,4,Could be better
+5255,5177,5,5,Good
+5256,2050,5,4,Average
+5257,5044,5,5,Good
+5258,4818,5,4,Very good
+5259,5633,5,5,Very good
+5260,1750,5,5,Very good
+5261,9971,5,5,Good
+5262,7618,5,4,Could be better
+5263,571,5,4,Average
+5264,1441,5,5,Average
+5265,3416,5,5,Good
+5266,7074,4,4,Very good
+5267,840,5,5,Excellent
+5268,2012,4,4,Could be better
+5269,7621,5,5,Excellent
+5270,7645,5,5,Could be better
+5271,3692,5,5,Average
+5272,4528,5,5,Very good
+5273,9361,5,4,Excellent
+5274,814,4,5,Average
+5275,6144,5,5,Could be better
+5276,1633,4,5,Excellent
+5277,6862,5,5,Very good
+5278,627,5,5,Could be better
+5279,2061,5,3,Excellent
+5280,6030,3,5,Excellent
+5281,1909,5,3,Good
+5282,3944,5,3,Good
+5283,6471,5,5,Excellent
+5284,7699,5,4,Excellent
+5285,4251,5,4,Very good
+5286,4760,5,5,Very good
+5287,5348,4,5,Very good
+5288,7073,5,5,Could be better
+5289,6391,4,4,Could be better
+5290,4183,5,5,Could be better
+5291,1404,4,5,Average
+5292,6210,5,5,Could be better
+5293,3407,5,5,Very good
+5294,2150,4,4,Could be better
+5295,3127,3,5,Very good
+5296,6565,5,5,Very good
+5297,8448,5,5,Good
+5298,9269,4,5,Very good
+5299,4016,4,5,Excellent
+5300,5140,4,5,Excellent
+5301,8967,4,5,Excellent
+5302,9480,4,5,Could be better
+5303,7128,5,5,Very good
+5304,7926,5,5,Average
+5305,6831,5,4,Very good
+5306,1834,5,5,Average
+5307,2388,4,5,Could be better
+5308,2321,5,3,Good
+5309,5112,4,3,Good
+5310,1923,5,5,Very good
+5311,7256,4,4,Could be better
+5312,52,5,5,Very good
+5313,7802,5,4,Average
+5314,576,4,5,Very good
+5315,3050,5,3,Good
+5316,4718,3,5,Excellent
+5317,7868,5,4,Could be better
+5318,4123,5,5,Average
+5319,1677,5,5,Excellent
+5320,7423,4,5,Good
+5321,5747,4,5,Good
+5322,4423,5,5,Very good
+5323,2762,4,4,Could be better
+5324,3413,5,5,Very good
+5325,5187,5,5,Could be better
+5326,9641,5,5,Could be better
+5327,2178,4,4,Good
+5328,7284,5,4,Excellent
+5329,6809,4,5,Very good
+5330,2190,5,5,Could be better
+5331,9988,5,4,Good
+5332,7964,5,4,Average
+5333,4693,5,5,Good
+5334,484,5,5,Very good
+5335,7693,5,5,Average
+5336,6299,4,5,Excellent
+5337,9464,4,5,Good
+5338,188,5,5,Very good
+5339,6302,5,4,Could be better
+5340,5711,5,4,Very good
+5341,9829,5,4,Good
+5342,8224,5,5,Very good
+5343,924,4,5,Good
+5344,6770,4,5,Excellent
+5345,4134,5,5,Excellent
+5346,8853,5,5,Good
+5347,5727,4,4,Average
+5348,9955,3,5,Excellent
+5349,526,5,3,Could be better
+5350,33,5,5,Very good
+5351,1309,5,4,Average
+5352,6439,5,5,Very good
+5353,3108,4,5,Could be better
+5354,3291,3,5,Average
+5355,3086,5,4,Excellent
+5356,8032,4,3,Good
+5357,61,4,5,Average
+5358,3662,5,5,Average
+5359,4367,5,5,Good
+5360,3922,5,3,Very good
+5361,4359,5,5,Average
+5362,5688,5,5,Very good
+5363,6782,4,5,Could be better
+5364,17,5,5,Good
+5365,6134,5,5,Good
+5366,1544,5,5,Average
+5367,2529,5,5,Could be better
+5368,3234,4,5,Average
+5369,3710,5,5,Could be better
+5370,4992,5,5,Could be better
+5371,1339,5,4,Very good
+5372,4972,5,5,Excellent
+5373,3874,4,3,Very good
+5374,1247,5,5,Average
+5375,3743,4,5,Excellent
+5376,3910,5,4,Good
+5377,4327,5,5,Could be better
+5378,7089,5,5,Good
+5379,950,5,4,Could be better
+5380,5689,4,5,Good
+5381,1879,5,5,Good
+5382,3725,4,4,Good
+5383,5151,4,5,Excellent
+5384,1189,3,5,Could be better
+5385,9201,5,4,Could be better
+5386,7805,5,4,Good
+5387,5277,3,4,Could be better
+5388,9229,4,4,Very good
+5389,7815,5,4,Excellent
+5390,3586,4,5,Excellent
+5391,2109,5,5,Very good
+5392,7928,3,5,Excellent
+5393,1071,5,4,Very good
+5394,1784,5,5,Very good
+5395,4796,3,5,Average
+5396,9001,5,3,Very good
+5397,1113,5,3,Excellent
+5398,1303,4,5,Excellent
+5399,7442,5,3,Good
+5400,5310,5,4,Could be better
+5401,2123,4,5,Average
+5402,2159,3,5,Very good
+5403,5921,5,5,Average
+5404,4115,5,5,Could be better
+5405,7629,4,5,Average
+5406,1756,3,4,Average
+5407,7811,3,5,Could be better
+5408,4192,5,5,Good
+5409,7063,5,5,Could be better
+5410,7695,5,5,Could be better
+5411,6165,5,5,Could be better
+5412,7818,4,5,Average
+5413,4194,4,5,Very good
+5414,8190,4,4,Excellent
+5415,911,4,4,Very good
+5416,6598,5,5,Very good
+5417,7970,5,5,Average
+5418,4271,5,5,Average
+5419,4746,5,5,Could be better
+5420,3105,5,5,Could be better
+5421,9533,5,5,Average
+5422,1731,3,5,Good
+5423,9300,5,5,Average
+5424,6977,5,5,Very good
+5425,8205,5,4,Could be better
+5426,6333,5,5,Average
+5427,5739,5,5,Very good
+5428,8373,4,5,Average
+5429,1282,4,5,Very good
+5430,9450,5,5,Could be better
+5431,9081,5,5,Could be better
+5432,8614,4,5,Average
+5433,8300,5,5,Good
+5434,5228,4,5,Very good
+5435,4507,5,5,Good
+5436,3198,4,3,Average
+5437,6764,5,5,Average
+5438,5001,3,5,Good
+5439,1576,5,5,Average
+5440,5395,5,3,Average
+5441,1980,4,5,Very good
+5442,8316,5,4,Good
+5443,2323,5,5,Average
+5444,1326,5,5,Could be better
+5445,175,5,5,Good
+5446,1778,4,5,Very good
+5447,7700,4,5,Excellent
+5448,5778,3,3,Good
+5449,1163,4,5,Very good
+5450,3611,4,4,Excellent
+5451,8415,4,5,Good
+5452,5692,4,4,Good
+5453,9509,5,3,Excellent
+5454,6989,4,3,Good
+5455,9743,5,4,Average
+5456,4214,5,5,Good
+5457,8499,5,5,Good
+5458,1586,5,5,Very good
+5459,4995,5,5,Good
+5460,9350,5,5,Very good
+5461,5248,5,4,Very good
+5462,8568,4,5,Could be better
+5463,7603,5,5,Could be better
+5464,1622,4,5,Good
+5465,2958,5,5,Could be better
+5466,3550,4,5,Average
+5467,357,4,5,Excellent
+5468,5917,4,5,Average
+5469,1350,4,5,Very good
+5470,1609,5,5,Could be better
+5471,1316,3,4,Excellent
+5472,9107,5,5,Excellent
+5473,6689,5,4,Good
+5474,4945,5,4,Could be better
+5475,3275,5,5,Good
+5476,5544,5,5,Average
+5477,1383,5,5,Good
+5478,7432,5,4,Excellent
+5479,365,5,5,Very good
+5480,1359,5,4,Could be better
+5481,1717,5,5,Could be better
+5482,1256,4,4,Average
+5483,3074,5,5,Average
+5484,7978,4,5,Could be better
+5485,2515,5,5,Excellent
+5486,8824,4,5,Good
+5487,1664,5,5,Could be better
+5488,801,5,4,Could be better
+5489,7277,5,4,Average
+5490,2254,4,5,Good
+5491,1812,4,4,Could be better
+5492,8145,5,5,Could be better
+5493,2053,5,4,Average
+5494,2143,4,4,Average
+5495,4608,5,4,Average
+5496,3042,4,5,Excellent
+5497,2853,3,5,Excellent
+5498,9941,5,5,Could be better
+5499,4122,5,4,Good
+5500,4141,5,5,Very good
+5501,1706,5,5,Excellent
+5502,744,5,5,Could be better
+5503,3051,4,4,Excellent
+5504,1670,4,5,Average
+5505,8138,4,4,Excellent
+5506,6396,5,5,Could be better
+5507,8294,5,4,Good
+5508,2581,5,5,Good
+5509,3418,4,5,Good
+5510,349,3,4,Could be better
+5511,813,4,5,Good
+5512,9571,3,5,Very good
+5513,3996,5,5,Excellent
+5514,4485,4,4,Could be better
+5515,8752,5,5,Excellent
+5516,5684,4,3,Excellent
+5517,5195,5,4,Excellent
+5518,9467,4,4,Could be better
+5519,2648,5,4,Average
+5520,5631,4,4,Good
+5521,9987,5,5,Good
+5522,2732,5,5,Excellent
+5523,43,5,5,Very good
+5524,2640,5,5,Average
+5525,5074,4,5,Excellent
+5526,9050,5,5,Very good
+5527,4169,5,5,Very good
+5528,9313,4,5,Excellent
+5529,4928,5,4,Average
+5530,176,5,4,Average
+5531,7425,4,3,Excellent
+5532,9815,4,5,Average
+5533,5933,4,5,Very good
+5534,20,4,4,Excellent
+5535,8594,4,5,Very good
+5536,5786,5,5,Average
+5537,1987,5,5,Excellent
+5538,3056,4,4,Could be better
+5539,5992,5,4,Could be better
+5540,3960,3,5,Very good
+5541,5174,5,4,Good
+5542,3027,5,5,Average
+5543,487,5,5,Very good
+5544,7302,5,4,Excellent
+5545,8608,5,5,Very good
+5546,1218,5,4,Very good
+5547,9556,5,3,Good
+5548,5904,5,4,Very good
+5549,2773,5,4,Good
+5550,4633,5,5,Could be better
+5551,7905,5,4,Good
+5552,9085,5,4,Could be better
+5553,8426,3,3,Excellent
+5554,4678,5,4,Average
+5555,686,5,5,Good
+5556,4798,5,5,Could be better
+5557,7816,4,5,Excellent
+5558,6099,5,5,Very good
+5559,1657,5,4,Good
+5560,5526,5,5,Very good
+5561,1818,3,5,Good
+5562,6258,5,4,Very good
+5563,5178,5,4,Average
+5564,5678,5,5,Average
+5565,2320,4,5,Could be better
+5566,3862,3,5,Good
+5567,1881,5,5,Very good
+5568,7493,4,5,Very good
+5569,9732,4,5,Could be better
+5570,4924,4,5,Could be better
+5571,1663,5,5,Excellent
+5572,6062,5,5,Average
+5573,2213,5,4,Very good
+5574,1239,3,5,Could be better
+5575,9632,4,4,Excellent
+5576,7988,4,5,Very good
+5577,8862,5,4,Good
+5578,9178,4,4,Very good
+5579,523,5,5,Excellent
+5580,2684,5,5,Excellent
+5581,9489,3,5,Average
+5582,2564,5,4,Very good
+5583,208,5,4,Good
+5584,5024,3,5,Good
+5585,7038,5,5,Good
+5586,1175,4,5,Excellent
+5587,454,4,3,Average
+5588,6874,5,5,Average
+5589,5862,5,5,Very good
+5590,5330,5,5,Good
+5591,973,4,5,Average
+5592,3852,4,5,Excellent
+5593,9951,4,4,Good
+5594,3778,5,5,Could be better
+5595,401,5,4,Excellent
+5596,5988,5,5,Could be better
+5597,855,5,5,Excellent
+5598,2577,5,4,Excellent
+5599,4733,4,5,Average
+5600,394,5,5,Very good
+5601,3019,5,3,Could be better
+5602,6172,3,5,Could be better
+5603,3046,5,5,Very good
+5604,4785,5,4,Good
+5605,4916,5,5,Good
+5606,2499,5,5,Average
+5607,8795,4,3,Very good
+5608,4436,5,5,Could be better
+5609,968,4,5,Average
+5610,4698,5,5,Good
+5611,7810,3,5,Could be better
+5612,1653,4,5,Average
+5613,7328,5,5,Could be better
+5614,7609,3,5,Average
+5615,8860,5,4,Good
+5616,4637,5,4,Very good
+5617,2759,5,5,Could be better
+5618,6547,4,5,Excellent
+5619,5303,4,4,Average
+5620,6414,4,5,Excellent
+5621,6327,3,5,Excellent
+5622,667,5,4,Average
+5623,9482,5,4,Excellent
+5624,531,5,4,Excellent
+5625,9488,5,5,Good
+5626,9957,5,5,Good
+5627,9887,5,5,Good
+5628,8680,5,4,Could be better
+5629,268,4,5,Good
+5630,8139,4,5,Could be better
+5631,594,5,4,Average
+5632,2660,3,5,Could be better
+5633,3138,3,5,Good
+5634,326,4,5,Could be better
+5635,8553,4,5,Excellent
+5636,7024,4,4,Good
+5637,1451,4,4,Average
+5638,8113,5,4,Excellent
+5639,2214,5,5,Good
+5640,5052,5,5,Could be better
+5641,8047,5,4,Excellent
+5642,925,4,3,Average
+5643,717,5,5,Very good
+5644,1877,5,4,Good
+5645,2935,5,5,Average
+5646,4079,5,5,Could be better
+5647,9532,4,5,Very good
+5648,2495,5,5,Excellent
+5649,823,5,5,Average
+5650,409,4,5,Excellent
+5651,9384,5,5,Excellent
+5652,7004,5,5,Average
+5653,556,5,5,Excellent
+5654,7433,4,5,Could be better
+5655,148,5,5,Could be better
+5656,3945,5,5,Good
+5657,5471,4,5,Very good
+5658,2801,4,5,Very good
+5659,2210,4,5,Very good
+5660,126,4,5,Could be better
+5661,2897,4,4,Good
+5662,4116,5,5,Very good
+5663,7478,5,4,Good
+5664,2531,4,5,Very good
+5665,5219,5,5,Very good
+5666,3685,4,5,Excellent
+5667,2,5,5,Very good
+5668,5605,4,4,Average
+5669,1214,3,4,Average
+5670,8578,4,5,Average
+5671,3524,5,5,Average
+5672,6724,4,5,Very good
+5673,8060,5,5,Excellent
+5674,763,5,5,Good
+5675,7527,3,5,Average
+5676,3798,5,5,Average
+5677,3161,5,5,Very good
+5678,2049,4,5,Could be better
+5679,8688,4,3,Good
+5680,8369,5,5,Excellent
+5681,277,4,5,Very good
+5682,1011,3,5,Excellent
+5683,8479,5,5,Excellent
+5684,4520,4,5,Excellent
+5685,7851,5,5,Average
+5686,2645,5,4,Could be better
+5687,9541,5,5,Excellent
+5688,6999,5,3,Good
+5689,2040,5,4,Excellent
+5690,216,5,5,Good
+5691,6061,4,5,Average
+5692,4606,4,5,Very good
+5693,8397,5,5,Very good
+5694,9495,4,4,Very good
+5695,7026,5,5,Very good
+5696,2607,5,5,Very good
+5697,354,4,4,Could be better
+5698,4987,5,5,Average
+5699,5379,3,4,Very good
+5700,7979,5,4,Very good
+5701,4895,5,5,Could be better
+5702,6694,5,5,Could be better
+5703,513,5,5,Very good
+5704,752,4,5,Could be better
+5705,9835,5,4,Could be better
+5706,9964,5,4,Could be better
+5707,9261,5,5,Very good
+5708,8225,5,5,Good
+5709,9545,5,5,Excellent
+5710,674,5,5,Could be better
+5711,2278,5,5,Excellent
+5712,2427,4,5,Excellent
+5713,6910,5,4,Could be better
+5714,5124,4,4,Excellent
+5715,4335,5,5,Very good
+5716,2914,5,5,Very good
+5717,4182,5,5,Excellent
+5718,682,5,4,Could be better
+5719,3815,5,5,Very good
+5720,5782,5,5,Could be better
+5721,5037,5,5,Good
+5722,7285,5,4,Excellent
+5723,896,5,5,Average
+5724,9445,5,3,Average
+5725,5746,4,3,Very good
+5726,4690,5,5,Average
+5727,1375,4,3,Average
+5728,760,5,5,Excellent
+5729,673,4,4,Very good
+5730,4379,5,5,Excellent
+5731,4750,5,5,Excellent
+5732,8453,5,5,Good
+5733,6690,5,5,Very good
+5734,2089,5,5,Very good
+5735,4656,5,5,Could be better
+5736,9525,5,4,Could be better
+5737,9995,5,3,Very good
+5738,2334,5,4,Could be better
+5739,1028,5,5,Good
+5740,1029,4,5,Could be better
+5741,9620,4,4,Very good
+5742,2400,3,5,Very good
+5743,2568,5,4,Could be better
+5744,4195,5,5,Very good
+5745,4641,5,5,Excellent
+5746,1212,5,5,Could be better
+5747,5119,3,4,Very good
+5748,9961,4,5,Good
+5749,7253,4,5,Average
+5750,7106,3,5,Excellent
+5751,9274,4,5,Excellent
+5752,5393,5,5,Excellent
+5753,5198,5,5,Good
+5754,8875,5,4,Average
+5755,5312,4,5,Good
+5756,1284,5,5,Excellent
+5757,7718,4,4,Very good
+5758,4467,5,4,Could be better
+5759,9138,5,5,Excellent
+5760,4883,5,5,Excellent
+5761,7291,4,5,Good
+5762,8411,5,5,Average
+5763,4009,4,5,Average
+5764,4090,5,5,Good
+5765,6552,5,4,Good
+5766,4151,3,5,Average
+5767,8068,5,5,Could be better
+5768,1438,5,5,Good
+5769,8329,5,3,Good
+5770,3677,4,5,Excellent
+5771,1157,5,3,Could be better
+5772,9867,4,4,Excellent
+5773,7761,3,5,Average
+5774,668,5,5,Could be better
+5775,9813,4,5,Excellent
+5776,6232,4,5,Very good
+5777,1897,4,5,Excellent
+5778,4588,4,5,Very good
+5779,4655,4,5,Could be better
+5780,6015,4,5,Good
+5781,3239,5,4,Very good
+5782,3883,5,5,Could be better
+5783,5167,3,5,Average
+5784,9469,4,4,Average
+5785,1179,5,4,Very good
+5786,44,5,4,Very good
+5787,8598,4,4,Very good
+5788,3240,5,4,Good
+5789,3134,5,5,Average
+5790,6514,5,4,Could be better
+5791,6900,4,4,Excellent
+5792,986,5,5,Average
+5793,4846,5,5,Could be better
+5794,6204,4,5,Very good
+5795,368,5,4,Very good
+5796,888,4,5,Average
+5797,9235,5,4,Average
+5798,3043,5,5,Average
+5799,8042,5,5,Average
+5800,8607,4,5,Very good
+5801,34,4,4,Very good
+5802,3565,5,5,Could be better
+5803,1156,4,5,Very good
+5804,1190,5,4,Good
+5805,1355,4,5,Very good
+5806,9925,4,5,Excellent
+5807,1652,4,5,Could be better
+5808,5911,4,5,Very good
+5809,8674,5,5,Average
+5810,9295,3,5,Average
+5811,359,4,4,Good
+5812,6570,5,5,Very good
+5813,2699,4,4,Excellent
+5814,1628,5,5,Average
+5815,3075,5,5,Could be better
+5816,740,5,5,Could be better
+5817,1872,3,5,Good
+5818,5040,4,3,Excellent
+5819,6576,5,5,Could be better
+5820,1631,5,5,Very good
+5821,7524,4,5,Good
+5822,6037,4,5,Could be better
+5823,4554,5,5,Very good
+5824,3255,5,5,Could be better
+5825,7032,5,5,Could be better
+5826,1315,5,5,Very good
+5827,6146,5,5,Could be better
+5828,5866,5,5,Very good
+5829,9636,5,5,Could be better
+5830,8679,3,5,Could be better
+5831,2675,4,5,Average
+5832,6907,4,5,Could be better
+5833,7898,3,5,Very good
+5834,2188,5,5,Average
+5835,8649,5,5,Average
+5836,9088,5,5,Could be better
+5837,6896,5,5,Excellent
+5838,2573,4,4,Could be better
+5839,381,5,5,Average
+5840,2013,5,5,Average
+5841,2605,5,5,Could be better
+5842,758,5,5,Could be better
+5843,4317,4,5,Very good
+5844,3099,4,4,Good
+5845,2752,5,5,Could be better
+5846,5166,4,5,Could be better
+5847,8780,5,4,Good
+5848,4835,5,5,Average
+5849,4533,3,5,Average
+5850,3523,5,5,Average
+5851,5837,5,5,Good
+5852,6655,5,5,Average
+5853,9114,4,5,Average
+5854,9123,5,5,Very good
+5855,721,4,5,Excellent
+5856,6179,5,4,Good
+5857,3192,5,4,Could be better
+5858,4830,3,5,Average
+5859,5532,5,4,Very good
+5860,9539,5,4,Could be better
+5861,6829,5,4,Average
+5862,2218,5,5,Could be better
+5863,3370,3,5,Good
+5864,8261,5,3,Good
+5865,2204,5,4,Average
+5866,2764,5,4,Average
+5867,4202,4,4,Excellent
+5868,3078,4,5,Good
+5869,5569,4,5,Very good
+5870,1676,5,5,Could be better
+5871,8962,4,4,Very good
+5872,7932,4,5,Average
+5873,8950,5,4,Excellent
+5874,5078,5,5,Excellent
+5875,7586,5,5,Excellent
+5876,2071,4,3,Average
+5877,9386,3,4,Average
+5878,8879,5,5,Could be better
+5879,2792,5,5,Excellent
+5880,3092,4,3,Good
+5881,410,5,5,Good
+5882,8991,5,5,Excellent
+5883,4033,5,3,Could be better
+5884,6759,3,5,Average
+5885,7986,5,5,Good
+5886,9693,4,3,Could be better
+5887,5211,4,5,Very good
+5888,1033,5,4,Excellent
+5889,3917,4,5,Good
+5890,2212,5,5,Could be better
+5891,4388,5,4,Good
+5892,53,5,5,Good
+5893,5872,5,5,Excellent
+5894,1186,5,4,Average
+5895,7372,5,5,Average
+5896,6835,4,5,Could be better
+5897,5135,5,4,Excellent
+5898,6927,4,5,Average
+5899,5333,4,5,Could be better
+5900,1264,5,5,Could be better
+5901,1277,5,4,Could be better
+5902,8175,5,5,Good
+5903,1848,3,5,Could be better
+5904,2030,4,5,Very good
+5905,5335,5,4,Very good
+5906,7199,5,5,Very good
+5907,7974,5,4,Very good
+5908,5507,4,5,Good
+5909,1764,4,5,Very good
+5910,9353,5,5,Excellent
+5911,9472,4,4,Could be better
+5912,1283,5,5,Could be better
+5913,3475,4,5,Could be better
+5914,6520,5,5,Excellent
+5915,2126,5,5,Very good
+5916,1682,4,5,Very good
+5917,4757,5,5,Good
+5918,1801,5,5,Good
+5919,2507,3,4,Good
+5920,6029,4,4,Average
+5921,8432,5,5,Good
+5922,4098,3,5,Could be better
+5923,2625,4,5,Very good
+5924,1164,5,5,Average
+5925,6291,4,5,Average
+5926,5252,4,5,Average
+5927,5495,4,5,Good
+5928,3,5,5,Excellent
+5929,2728,5,5,Average
+5930,1110,5,5,Average
+5931,3546,5,3,Good
+5932,3189,4,5,Very good
+5933,2481,5,3,Could be better
+5934,2077,5,5,Very good
+5935,7573,4,4,Very good
+5936,2480,5,5,Average
+5937,6643,5,4,Average
+5938,9409,5,5,Very good
+5939,7270,4,4,Average
+5940,3544,5,5,Average
+5941,937,3,5,Could be better
+5942,77,4,5,Could be better
+5943,2318,5,5,Average
+5944,4967,4,5,Very good
+5945,3299,5,5,Average
+5946,3619,5,4,Excellent
+5947,1215,5,3,Could be better
+5948,8258,5,5,Excellent
+5949,1074,4,4,Very good
+5950,5583,4,5,Very good
+5951,4406,5,5,Very good
+5952,1811,5,5,Good
+5953,4604,5,4,Excellent
+5954,1153,5,5,Good
+5955,7010,5,5,Average
+5956,7348,3,5,Excellent
+5957,7332,5,5,Could be better
+5958,6277,4,4,Good
+5959,2417,4,5,Excellent
+5960,6692,5,5,Excellent
+5961,15,3,3,Very good
+5962,4422,5,5,Good
+5963,7000,4,5,Average
+5964,1911,4,5,Average
+5965,1048,5,4,Could be better
+5966,8159,4,5,Average
+5967,7871,5,5,Average
+5968,5251,4,5,Very good
+5969,2726,5,4,Very good
+5970,8457,3,5,Average
+5971,9914,4,5,Excellent
+5972,2887,5,5,Very good
+5973,1249,5,4,Could be better
+5974,5806,5,5,Excellent
+5975,3408,5,5,Excellent
+5976,912,5,5,Good
+5977,560,4,5,Very good
+5978,5674,3,5,Average
+5979,193,5,5,Excellent
+5980,2628,5,5,Average
+5981,8412,3,5,Very good
+5982,1531,4,5,Good
+5983,4525,5,3,Could be better
+5984,2654,3,5,Could be better
+5985,4862,5,5,Excellent
+5986,3395,5,5,Could be better
+5987,5794,5,4,Could be better
+5988,5733,4,5,Average
+5989,8297,4,5,Very good
+5990,7756,5,4,Could be better
+5991,5637,5,4,Could be better
+5992,3126,5,4,Very good
+5993,1648,5,5,Excellent
+5994,2287,3,5,Average
+5995,4537,5,4,Excellent
+5996,352,5,4,Could be better
+5997,6175,5,5,Could be better
+5998,9954,5,5,Excellent
+5999,319,5,5,Average
+6000,9681,5,5,Excellent
+6001,5902,4,5,Excellent
+6002,2627,5,4,Excellent
+6003,9212,5,3,Could be better
+6004,7904,4,5,Good
+6005,1060,4,5,Average
+6006,4923,5,5,Good
+6007,9911,4,5,Excellent
+6008,9921,4,3,Very good
+6009,8126,3,5,Could be better
+6010,2328,5,5,Very good
+6011,8512,5,5,Very good
+6012,5616,5,5,Excellent
+6013,3179,5,4,Excellent
+6014,708,5,4,Very good
+6015,4204,5,4,Very good
+6016,955,3,5,Very good
+6017,400,5,5,Good
+6018,4547,5,4,Could be better
+6019,1486,5,5,Excellent
+6020,7155,5,5,Average
+6021,9844,5,5,Good
+6022,5306,5,5,Average
+6023,3583,5,5,Could be better
+6024,1195,4,5,Very good
+6025,8396,4,4,Average
+6026,4629,4,5,Could be better
+6027,5115,4,5,Excellent
+6028,56,3,4,Could be better
+6029,5762,5,5,Could be better
+6030,5523,5,5,Could be better
+6031,3867,4,5,Excellent
+6032,6830,5,5,Very good
+6033,9978,5,4,Good
+6034,6737,4,5,Very good
+6035,3454,4,5,Excellent
+6036,4181,5,5,Excellent
+6037,1552,5,5,Good
+6038,9082,5,5,Could be better
+6039,795,5,5,Good
+6040,9816,5,5,Average
+6041,1914,5,5,Could be better
+6042,5811,4,4,Average
+6043,3946,4,5,Average
+6044,1213,4,4,Could be better
+6045,3119,5,4,Could be better
+6046,6572,4,5,Excellent
+6047,9037,5,5,Excellent
+6048,8105,5,5,Could be better
+6049,6220,5,4,Very good
+6050,1076,5,4,Very good
+6051,1983,4,5,Excellent
+6052,3790,5,5,Average
+6053,5460,5,5,Excellent
+6054,812,5,5,Excellent
+6055,5726,4,4,Could be better
+6056,4978,5,4,Excellent
+6057,507,5,5,Could be better
+6058,5614,5,5,Good
+6059,9736,4,4,Excellent
+6060,7625,5,4,Average
+6061,5155,4,5,Good
+6062,520,5,5,Average
+6063,6199,5,4,Average
+6064,6639,4,5,Good
+6065,8077,5,5,Excellent
+6066,4354,5,5,Very good
+6067,67,5,5,Average
+6068,7289,5,5,Could be better
+6069,9574,5,5,Very good
+6070,9851,5,5,Excellent
+6071,4702,5,4,Average
+6072,4815,4,5,Could be better
+6073,9154,5,3,Good
+6074,6727,5,4,Could be better
+6075,6865,5,5,Excellent
+6076,9688,5,5,Could be better
+6077,3121,5,5,Good
+6078,7226,5,3,Excellent
+6079,2262,5,5,Could be better
+6080,9645,5,5,Very good
+6081,8199,4,4,Could be better
+6082,5244,3,5,Very good
+6083,9452,5,5,Good
+6084,435,4,5,Good
+6085,279,5,5,Average
+6086,4731,3,5,Could be better
+6087,1747,5,5,Good
+6088,9146,5,5,Excellent
+6089,9659,5,4,Very good
+6090,5032,5,4,Could be better
+6091,4700,5,5,Very good
+6092,425,4,4,Good
+6093,7875,5,4,Very good
+6094,3895,5,5,Very good
+6095,9759,3,5,Very good
+6096,4038,5,5,Very good
+6097,9650,5,5,Average
+6098,3004,5,5,Could be better
+6099,5414,4,4,Excellent
+6100,4583,5,5,Excellent
+6101,1905,5,4,Could be better
+6102,222,4,4,Good
+6103,5422,4,4,Very good
+6104,8392,5,5,Excellent
+6105,4609,3,5,Good
+6106,5454,4,5,Good
+6107,6664,3,4,Good
+6108,8164,3,5,Could be better
+6109,9173,5,4,Average
+6110,1217,5,5,Could be better
+6111,85,5,5,Excellent
+6112,1623,5,5,Average
+6113,7422,5,5,Very good
+6114,6640,5,5,Could be better
+6115,8635,5,5,Very good
+6116,2741,5,5,Excellent
+6117,1986,4,3,Excellent
+6118,203,5,4,Very good
+6119,626,5,5,Average
+6120,5763,5,4,Very good
+6121,5063,5,4,Excellent
+6122,2277,5,5,Average
+6123,969,5,5,Excellent
+6124,2306,5,5,Good
+6125,8337,5,4,Excellent
+6126,5815,4,5,Very good
+6127,6262,5,4,Very good
+6128,3511,4,5,Good
+6129,8080,4,5,Excellent
+6130,5410,5,5,Very good
+6131,1737,5,5,Excellent
+6132,8913,4,5,Excellent
+6133,3694,5,4,Could be better
+6134,242,4,5,Good
+6135,1492,4,4,Very good
+6136,2665,5,5,Average
+6137,8404,4,5,Excellent
+6138,8395,5,5,Could be better
+6139,198,4,5,Good
+6140,5324,5,5,Could be better
+6141,6309,5,5,Good
+6142,9561,5,4,Good
+6143,4358,5,5,Could be better
+6144,6170,3,5,Could be better
+6145,3715,5,5,Very good
+6146,4881,4,5,Excellent
+6147,1808,4,4,Average
+6148,7659,5,5,Very good
+6149,9440,5,5,Very good
+6150,9447,5,3,Could be better
+6151,7338,4,5,Good
+6152,4685,5,4,Good
+6153,9011,4,5,Average
+6154,6181,4,5,Excellent
+6155,3930,5,5,Very good
+6156,3849,5,5,Average
+6157,8714,4,5,Good
+6158,2209,5,5,Very good
+6159,3827,4,5,Could be better
+6160,590,4,5,Very good
+6161,7900,3,5,Very good
+6162,8378,4,5,Excellent
+6163,787,5,5,Average
+6164,5504,5,5,Excellent
+6165,6224,4,5,Could be better
+6166,8492,4,5,Excellent
+6167,2689,4,5,Excellent
+6168,5231,5,4,Could be better
+6169,8134,4,5,Very good
+6170,2106,5,5,Average
+6171,6040,3,4,Good
+6172,7094,5,5,Average
+6173,7468,4,5,Very good
+6174,8785,4,5,Average
+6175,59,5,5,Good
+6176,7065,5,5,Excellent
+6177,2704,5,5,Could be better
+6178,5068,5,5,Could be better
+6179,2809,4,5,Good
+6180,108,5,5,Average
+6181,8002,5,5,Could be better
+6182,9861,5,5,Excellent
+6183,3440,5,5,Average
+6184,4124,5,5,Excellent
+6185,2691,3,5,Good
+6186,572,5,5,Average
+6187,2656,5,5,Could be better
+6188,3287,5,4,Good
+6189,1699,4,3,Average
+6190,9302,3,5,Good
+6191,4441,4,5,Average
+6192,1703,4,4,Excellent
+6193,310,5,5,Could be better
+6194,8353,4,4,Could be better
+6195,3363,4,4,Good
+6196,5953,5,5,Very good
+6197,3326,5,5,Excellent
+6198,4260,4,5,Excellent
+6199,4131,5,3,Average
+6200,5108,5,3,Very good
+6201,3582,5,5,Very good
+6202,6230,5,5,Very good
+6203,5450,4,5,Excellent
+6204,2724,5,5,Average
+6205,3472,5,3,Good
+6206,3575,4,5,Good
+6207,6045,5,5,Could be better
+6208,6967,3,5,Very good
+6209,1809,4,5,Excellent
+6210,9378,5,3,Very good
+6211,9058,5,5,Could be better
+6212,8037,5,5,Could be better
+6213,8620,4,5,Average
+6214,9627,4,5,Very good
+6215,6460,5,4,Could be better
+6216,7550,5,4,Very good
+6217,1669,4,3,Excellent
+6218,8936,5,5,Excellent
+6219,9793,5,5,Could be better
+6220,2023,5,5,Very good
+6221,9051,5,5,Could be better
+6222,4137,4,4,Excellent
+6223,5890,5,5,Good
+6224,6192,5,5,Excellent
+6225,9370,4,4,Excellent
+6226,6243,4,5,Could be better
+6227,4636,4,5,Could be better
+6228,7772,5,5,Could be better
+6229,2488,5,5,Very good
+6230,666,5,4,Good
+6231,5391,5,5,Could be better
+6232,1709,4,5,Excellent
+6233,7304,5,5,Could be better
+6234,1187,5,3,Excellent
+6235,4466,5,5,Excellent
+6236,4775,4,4,Very good
+6237,5476,5,4,Could be better
+6238,4091,4,3,Very good
+6239,2837,3,4,Could be better
+6240,1003,4,5,Could be better
+6241,5719,5,4,Could be better
+6242,7917,5,5,Good
+6243,7849,4,5,Good
+6244,1223,5,5,Excellent
+6245,1072,4,5,Excellent
+6246,6466,5,5,Good
+6247,5519,5,5,Very good
+6248,215,4,3,Average
+6249,7243,4,5,Good
+6250,5870,5,5,Good
+6251,5148,5,5,Average
+6252,3282,4,4,Could be better
+6253,9519,4,4,Very good
+6254,1712,3,5,Good
+6255,6726,5,5,Excellent
+6256,9098,4,5,Could be better
+6257,6946,5,5,Good
+6258,8357,3,5,Could be better
+6259,9268,5,5,Excellent
+6260,4282,4,4,Excellent
+6261,4294,5,5,Could be better
+6262,422,5,5,Average
+6263,7591,5,4,Average
+6264,3217,4,5,Could be better
+6265,9398,4,5,Could be better
+6266,7858,5,4,Could be better
+6267,7674,4,5,Average
+6268,9359,5,4,Good
+6269,5697,4,5,Could be better
+6270,1085,5,3,Excellent
+6271,3994,4,5,Good
+6272,4478,5,3,Good
+6273,6837,5,5,Excellent
+6274,8786,4,5,Average
+6275,78,4,5,Good
+6276,8018,5,5,Excellent
+6277,5247,4,5,Very good
+6278,4465,5,4,Good
+6279,2465,5,3,Very good
+6280,1931,5,4,Very good
+6281,6284,5,5,Excellent
+6282,6316,5,5,Good
+6283,5353,4,3,Average
+6284,4323,5,5,Average
+6285,7748,3,4,Good
+6286,6355,5,5,Could be better
+6287,1227,4,5,Good
+6288,7469,5,5,Good
+6289,4273,5,5,Good
+6290,2791,5,5,Very good
+6291,9661,4,5,Good
+6292,6569,4,4,Very good
+6293,8483,5,5,Good
+6294,3965,5,5,Good
+6295,7084,5,5,Excellent
+6296,994,5,5,Could be better
+6297,9393,5,5,Could be better
+6298,4519,5,5,Excellent
+6299,369,4,5,Average
+6300,9882,4,4,Average
+6301,5840,5,4,Very good
+6302,8906,5,5,Very good
+6303,3014,5,5,Excellent
+6304,3520,4,5,Very good
+6305,2694,5,5,Could be better
+6306,4390,5,5,Average
+6307,933,5,5,Could be better
+6308,1232,4,4,Average
+6309,8733,5,5,Good
+6310,2924,4,5,Good
+6311,1285,5,4,Very good
+6312,4163,5,5,Good
+6313,2274,4,5,Could be better
+6314,8216,5,5,Very good
+6315,5716,4,5,Very good
+6316,7072,5,5,Average
+6317,2227,4,5,Excellent
+6318,6693,4,5,Excellent
+6319,439,4,5,Very good
+6320,4784,5,5,Very good
+6321,5478,5,5,Good
+6322,890,5,5,Very good
+6323,4443,4,4,Good
+6324,6722,5,5,Could be better
+6325,6380,5,5,Average
+6326,1254,5,5,Good
+6327,9432,5,5,Average
+6328,9049,5,3,Could be better
+6329,2843,4,5,Average
+6330,3515,5,5,Good
+6331,6130,4,5,Excellent
+6332,6590,5,5,Very good
+6333,8828,5,5,Average
+6334,9905,5,4,Good
+6335,8834,5,5,Excellent
+6336,6818,4,5,Could be better
+6337,7696,5,4,Good
+6338,4612,5,5,Very good
+6339,6197,5,5,Excellent
+6340,6842,5,5,Good
+6341,2578,5,5,Good
+6342,5319,4,5,Very good
+6343,6133,5,5,Very good
+6344,9457,5,5,Very good
+6345,6838,3,4,Average
+6346,8759,4,4,Excellent
+6347,6416,5,5,Excellent
+6348,9466,5,5,Average
+6349,6502,3,5,Good
+6350,4643,4,5,Could be better
+6351,9130,5,4,Very good
+6352,9952,4,4,Good
+6353,8252,5,3,Excellent
+6354,499,3,5,Excellent
+6355,8745,4,5,Could be better
+6356,9133,5,5,Average
+6357,694,5,4,Excellent
+6358,9322,4,5,Good
+6359,6500,5,4,Could be better
+6360,5436,5,4,Could be better
+6361,4532,3,4,Very good
+6362,260,5,5,Excellent
+6363,1736,3,5,Very good
+6364,4527,4,5,Very good
+6365,3506,5,5,Good
+6366,7767,5,5,Excellent
+6367,6499,5,5,Good
+6368,6010,5,4,Excellent
+6369,5193,5,5,Very good
+6370,2398,5,4,Good
+6371,8952,5,4,Average
+6372,3722,3,5,Could be better
+6373,3932,5,5,Could be better
+6374,1583,4,5,Average
+6375,2131,5,4,Average
+6376,4424,5,5,Average
+6377,4496,5,5,Good
+6378,8433,5,3,Excellent
+6379,3707,5,5,Average
+6380,2314,5,5,Average
+6381,7129,5,5,Could be better
+6382,4906,4,5,Average
+6383,4363,4,4,Average
+6384,4362,5,4,Could be better
+6385,4562,5,4,Average
+6386,8928,5,5,Good
+6387,6605,4,5,Excellent
+6388,7757,4,5,Good
+6389,4461,5,5,Could be better
+6390,779,5,5,Average
+6391,3964,4,4,Very good
+6392,8721,5,5,Could be better
+6393,173,5,5,Very good
+6394,9806,5,3,Good
+6395,5009,5,5,Average
+6396,3797,4,4,Could be better
+6397,7030,5,4,Average
+6398,5753,4,5,Could be better
+6399,4559,5,4,Excellent
+6400,3536,5,4,Very good
+6401,1077,5,5,Excellent
+6402,2125,4,5,Could be better
+6403,1278,5,5,Excellent
+6404,4261,5,5,Good
+6405,9940,3,4,Could be better
+6406,2827,5,5,Excellent
+6407,9205,5,5,Average
+6408,3153,5,4,Average
+6409,471,5,5,Could be better
+6410,3037,5,3,Average
+6411,446,4,5,Excellent
+6412,1062,5,5,Average
+6413,7937,3,5,Good
+6414,6200,5,5,Good
+6415,4156,5,5,Excellent
+6416,8328,5,5,Good
+6417,9566,5,5,Excellent
+6418,7682,5,5,Excellent
+6419,4313,4,5,Could be better
+6420,5299,4,4,Could be better
+6421,8963,5,5,Excellent
+6422,2737,5,5,Very good
+6423,2375,4,5,Good
+6424,1031,5,4,Very good
+6425,9893,4,5,Very good
+6426,3465,4,5,Excellent
+6427,132,5,5,Excellent
+6428,5453,5,5,Very good
+6429,4857,4,5,Good
+6430,3746,5,5,Average
+6431,3063,5,5,Very good
+6432,8641,5,5,Average
+6433,8301,5,5,Excellent
+6434,8880,5,5,Could be better
+6435,4189,4,4,Good
+6436,7927,5,5,Excellent
+6437,8194,5,5,Very good
+6438,7720,4,5,Very good
+6439,8554,5,5,Very good
+6440,8924,5,5,Could be better
+6441,7764,5,5,Could be better
+6442,3693,5,5,Very good
+6443,9245,5,4,Average
+6444,3768,4,5,Good
+6445,2414,5,5,Excellent
+6446,7416,5,5,Good
+6447,5949,5,4,Very good
+6448,2402,5,3,Very good
+6449,3426,5,5,Average
+6450,2901,4,5,Good
+6451,6931,5,4,Very good
+6452,3021,4,5,Very good
+6453,1231,5,3,Good
+6454,3982,4,4,Average
+6455,1473,5,5,Could be better
+6456,3360,5,5,Excellent
+6457,2844,3,5,Good
+6458,544,4,4,Good
+6459,1197,5,5,Excellent
+6460,1638,4,5,Average
+6461,619,5,4,Excellent
+6462,2630,5,5,Could be better
+6463,9197,5,5,Excellent
+6464,7456,5,5,Average
+6465,7399,5,4,Good
+6466,7182,5,5,Good
+6467,1580,5,5,Could be better
+6468,3399,5,3,Good
+6469,7428,4,5,Good
+6470,9604,4,4,Excellent
+6471,2557,5,4,Could be better
+6472,4032,4,3,Good
+6473,5189,4,5,Very good
+6474,2778,5,4,Excellent
+6475,4765,4,4,Good
+6476,6342,5,5,Very good
+6477,2589,4,5,Very good
+6478,5208,4,5,Very good
+6479,9798,5,5,Average
+6480,3962,5,5,Could be better
+6481,1632,5,4,Good
+6482,2831,5,4,Could be better
+6483,3512,3,5,Good
+6484,1288,5,5,Could be better
+6485,2829,5,5,Very good
+6486,6022,5,5,Could be better
+6487,6646,4,4,Average
+6488,7706,4,5,Average
+6489,4864,4,5,Average
+6490,4640,5,5,Good
+6491,6073,5,4,Average
+6492,1721,5,4,Excellent
+6493,2412,4,5,Could be better
+6494,3030,4,3,Excellent
+6495,3162,5,4,Good
+6496,2761,4,5,Excellent
+6497,1394,4,5,Average
+6498,7566,5,5,Average
+6499,9919,5,5,Average
+6500,5455,4,5,Average
+6501,3391,4,5,Good
+6502,112,5,5,Average
+6503,3753,4,4,Good
+6504,7915,5,5,Very good
+6505,6216,5,5,Excellent
+6506,1715,5,5,Excellent
+6507,7665,5,5,Average
+6508,9870,5,5,Good
+6509,8749,5,5,Very good
+6510,1138,5,5,Could be better
+6511,4975,5,5,Average
+6512,7058,3,4,Excellent
+6513,7669,5,5,Very good
+6514,9544,5,5,Good
+6515,3845,4,5,Good
+6516,4392,5,5,Could be better
+6517,6992,5,5,Average
+6518,3309,4,5,Very good
+6519,9785,4,5,Very good
+6520,3412,5,5,Excellent
+6521,6787,4,5,Average
+6522,4558,5,5,Very good
+6523,488,5,5,Average
+6524,2475,5,5,Excellent
+6525,5725,5,5,Average
+6526,8667,5,5,Excellent
+6527,8762,5,5,Average
+6528,5200,4,5,Good
+6529,8335,5,5,Average
+6530,2086,5,5,Average
+6531,1469,5,5,Very good
+6532,4751,4,5,Good
+6533,4512,5,5,Excellent
+6534,9712,5,4,Excellent
+6535,7776,4,4,Could be better
+6536,3836,4,5,Could be better
+6537,2582,4,4,Excellent
+6538,9913,4,5,Good
+6539,8710,4,4,Excellent
+6540,3068,3,5,Average
+6541,9155,5,5,Could be better
+6542,1749,5,5,Could be better
+6543,414,4,5,Average
+6544,2103,5,5,Could be better
+6545,4797,4,4,Very good
+6546,9151,5,5,Good
+6547,2668,5,5,Average
+6548,2863,3,5,Average
+6549,2165,5,4,Good
+6550,7775,5,5,Excellent
+6551,339,4,4,Excellent
+6552,8850,5,4,Could be better
+6553,2639,3,3,Could be better
+6554,6167,4,5,Could be better
+6555,1174,5,3,Could be better
+6556,4840,5,4,Average
+6557,8251,5,5,Very good
+6558,2620,3,4,Very good
+6559,5463,5,5,Excellent
+6560,2484,4,5,Excellent
+6561,2367,5,5,Very good
+6562,2046,3,5,Excellent
+6563,5705,5,5,Very good
+6564,6121,4,4,Excellent
+6565,8021,5,5,Average
+6566,8798,5,5,Very good
+6567,5999,5,5,Excellent
+6568,8081,5,4,Good
+6569,5431,5,5,Excellent
+6570,5967,4,5,Could be better
+6571,292,4,5,Could be better
+6572,934,4,5,Good
+6573,8985,4,4,Excellent
+6574,1499,4,5,Could be better
+6575,7132,5,5,Average
+6576,8344,5,4,Could be better
+6577,7426,5,5,Could be better
+6578,8926,5,4,Very good
+6579,7166,5,4,Average
+6580,9474,5,5,Excellent
+6581,3576,5,5,Average
+6582,1103,5,5,Average
+6583,5538,5,4,Average
+6584,7175,5,5,Good
+6585,6513,4,5,Very good
+6586,7880,5,4,Good
+6587,3297,5,5,Average
+6588,7378,5,3,Average
+6589,3788,4,4,Good
+6590,163,5,4,Excellent
+6591,834,5,4,Good
+6592,7687,4,5,Could be better
+6593,4,5,4,Could be better
+6594,5383,5,5,Excellent
+6595,7548,5,5,Very good
+6596,607,4,5,Very good
+6597,8,5,5,Very good
+6598,6895,5,4,Very good
+6599,1194,5,4,Could be better
+6600,3357,5,5,Average
+6601,5587,3,5,Average
+6602,1389,5,5,Excellent
+6603,3348,5,3,Good
+6604,317,5,5,Could be better
+6605,8722,4,5,Very good
+6606,1526,5,5,Very good
+6607,3720,4,5,Could be better
+6608,4825,4,5,Excellent
+6609,9145,4,5,Good
+6610,3093,3,4,Average
+6611,4543,5,5,Very good
+6612,4428,4,5,Could be better
+6613,3313,5,5,Excellent
+6614,7246,5,4,Average
+6615,2087,5,5,Average
+6616,9622,5,5,Good
+6617,3006,5,4,Average
+6618,3508,5,5,Very good
+6619,8810,5,5,Excellent
+6620,1713,5,5,Excellent
+6621,4459,5,4,Very good
+6622,4925,4,5,Good
+6623,7834,4,5,Could be better
+6624,9293,5,4,Good
+6625,3053,5,4,Good
+6626,2562,5,5,Average
+6627,4540,5,4,Good
+6628,2276,3,5,Excellent
+6629,6969,5,5,Could be better
+6630,3549,5,4,Good
+6631,7265,5,5,Very good
+6632,9304,4,5,Could be better
+6633,3196,5,4,Average
+6634,5176,5,3,Excellent
+6635,6080,4,5,Could be better
+6636,7951,5,5,Very good
+6637,1946,3,4,Good
+6638,5427,4,4,Very good
+6639,8206,4,3,Excellent
+6640,2787,5,4,Could be better
+6641,1535,5,5,Very good
+6642,9042,5,5,Excellent
+6643,304,5,4,Could be better
+6644,93,4,4,Could be better
+6645,2084,5,4,Could be better
+6646,7940,4,5,Very good
+6647,4263,5,5,Excellent
+6648,4639,5,5,Could be better
+6649,8090,3,5,Average
+6650,5974,5,5,Good
+6651,172,5,5,Very good
+6652,8017,5,5,Average
+6653,6905,4,4,Good
+6654,1693,5,5,Could be better
+6655,2563,4,4,Very good
+6656,9043,5,5,Could be better
+6657,9527,3,5,Average
+6658,2690,5,5,Good
+6659,5912,5,5,Excellent
+6660,7410,4,3,Average
+6661,9434,5,4,Could be better
+6662,4002,3,5,Good
+6663,8689,5,4,Could be better
+6664,4338,4,5,Very good
+6665,8943,3,5,Could be better
+6666,7571,4,5,Very good
+6667,8389,5,5,Excellent
+6668,3616,5,4,Could be better
+6669,1193,4,5,Could be better
+6670,2132,5,4,Could be better
+6671,6623,5,5,Good
+6672,6629,3,5,Very good
+6673,6426,5,5,Excellent
+6674,7012,3,5,Excellent
+6675,5959,5,5,Very good
+6676,473,5,5,Good
+6677,4267,5,5,Excellent
+6678,2747,5,5,Good
+6679,5322,4,5,Excellent
+6680,5897,3,5,Average
+6681,681,5,5,Average
+6682,6217,5,4,Good
+6683,79,5,5,Excellent
+6684,827,4,5,Good
+6685,390,5,4,Could be better
+6686,3580,5,4,Excellent
+6687,7488,5,4,Excellent
+6688,1666,4,5,Average
+6689,9355,5,5,Could be better
+6690,6082,5,5,Good
+6691,2662,4,3,Average
+6692,6935,5,4,Average
+6693,6650,5,5,Could be better
+6694,5728,4,5,Excellent
+6695,4707,5,5,Good
+6696,5346,5,5,Could be better
+6697,3730,4,5,Very good
+6698,5421,5,5,Excellent
+6699,8374,5,5,Very good
+6700,6685,5,5,Average
+6701,2954,5,4,Could be better
+6702,2923,5,4,Average
+6703,6767,5,5,Very good
+6704,8908,5,4,Average
+6705,2967,5,5,Very good
+6706,7646,5,3,Average
+6707,2267,5,5,Very good
+6708,6715,4,4,Could be better
+6709,2553,5,4,Good
+6710,8703,5,5,Good
+6711,4042,4,4,Good
+6712,3089,4,5,Good
+6713,679,5,5,Good
+6714,8211,5,5,Excellent
+6715,7127,5,5,Average
+6716,8605,5,3,Could be better
+6717,5038,4,5,Excellent
+6718,9314,4,4,Average
+6719,6058,5,5,Very good
+6720,7202,5,5,Could be better
+6721,8846,4,5,Very good
+6722,4051,5,5,Could be better
+6723,5363,5,5,Very good
+6724,2554,5,5,Could be better
+6725,866,5,4,Could be better
+6726,5404,5,3,Good
+6727,860,5,3,Average
+6728,8675,5,5,Average
+6729,2444,3,5,Excellent
+6730,4240,5,5,Good
+6731,364,5,5,Excellent
+6732,2221,5,5,Could be better
+6733,3817,4,5,Excellent
+6734,5757,5,5,Good
+6735,1172,5,4,Good
+6736,7768,5,5,Good
+6737,9710,5,4,Very good
+6738,7840,5,5,Excellent
+6739,8782,3,5,Good
+6740,982,5,5,Average
+6741,8045,5,5,Could be better
+6742,2473,5,5,Good
+6743,5217,4,5,Good
+6744,4939,5,4,Average
+6745,5339,5,5,Good
+6746,4932,4,4,Average
+6747,8063,5,4,Could be better
+6748,5552,5,5,Very good
+6749,7184,5,5,Excellent
+6750,7975,3,5,Very good
+6751,3353,5,5,Average
+6752,5376,5,5,Good
+6753,3933,5,5,Could be better
+6754,7692,5,5,Could be better
+6755,4620,5,5,Could be better
+6756,3664,5,5,Excellent
+6757,7036,5,5,Excellent
+6758,4492,4,5,Very good
+6759,8143,3,5,Average
+6760,185,5,4,Very good
+6761,6312,4,5,Average
+6762,2814,3,5,Excellent
+6763,2750,4,5,Excellent
+6764,4120,5,5,Excellent
+6765,6263,4,5,Excellent
+6766,5980,5,5,Good
+6767,6614,5,5,Good
+6768,8734,4,5,Average
+6769,5501,5,5,Very good
+6770,5612,4,4,Good
+6771,1735,5,5,Could be better
+6772,2611,4,5,Very good
+6773,5865,5,4,Very good
+6774,3207,4,5,Good
+6775,1768,5,3,Average
+6776,8029,5,4,Good
+6777,1733,4,5,Very good
+6778,9948,5,5,Could be better
+6779,2776,5,5,Could be better
+6780,5848,5,5,Could be better
+6781,2743,4,4,Very good
+6782,6027,5,5,Could be better
+6783,5146,5,5,Could be better
+6784,1636,4,5,Excellent
+6785,4258,5,5,Excellent
+6786,4372,5,5,Could be better
+6787,3638,5,5,Good
+6788,6081,5,5,Good
+6789,8438,4,4,Excellent
+6790,2391,5,5,Average
+6791,6268,5,5,Average
+6792,3941,4,5,Could be better
+6793,504,4,5,Good
+6794,309,4,5,Could be better
+6795,1413,4,5,Could be better
+6796,2572,5,5,Good
+6797,5639,5,5,Average
+6798,5118,5,5,Good
+6799,998,3,5,Very good
+6800,2795,5,5,Good
+6801,5854,5,5,Very good
+6802,868,5,4,Good
+6803,325,5,5,Excellent
+6804,8101,5,5,Average
+6805,2047,5,5,Excellent
+6806,8026,5,3,Could be better
+6807,4426,4,4,Average
+6808,2696,5,5,Good
+6809,2361,4,4,Good
+6810,9241,4,5,Excellent
+6811,9543,5,4,Very good
+6812,5867,5,4,Very good
+6813,7180,5,5,Average
+6814,926,5,4,Could be better
+6815,8929,4,4,Very good
+6816,9325,5,4,Average
+6817,2650,5,5,Could be better
+6818,7722,4,4,Average
+6819,8505,4,5,Good
+6820,6796,5,5,Could be better
+6821,5392,5,4,Average
+6822,6202,5,3,Average
+6823,3528,5,5,Good
+6824,9048,3,5,Excellent
+6825,1907,5,5,Could be better
+6826,7712,5,4,Good
+6827,2160,5,5,Very good
+6828,3570,4,5,Excellent
+6829,2592,4,4,Good
+6830,5900,5,5,Good
+6831,5950,5,5,Could be better
+6832,524,3,4,Average
+6833,498,5,5,Good
+6834,8994,5,5,Good
+6835,2779,5,5,Very good
+6836,2119,5,4,Excellent
+6837,9159,4,4,Could be better
+6838,7197,5,4,Average
+6839,6166,5,5,Very good
+6840,5071,4,5,Could be better
+6841,6888,5,5,Average
+6842,5365,5,5,Excellent
+6843,6384,5,4,Excellent
+6844,7604,5,5,Good
+6845,9072,3,5,Average
+6846,6913,4,5,Could be better
+6847,291,5,5,Excellent
+6848,2832,5,5,Very good
+6849,4069,5,5,Good
+6850,5776,4,5,Excellent
+6851,2363,4,5,Could be better
+6852,9180,5,5,Good
+6853,6625,3,5,Could be better
+6854,6417,5,5,Very good
+6855,1035,5,4,Average
+6856,3721,5,4,Could be better
+6857,13,4,4,Good
+6858,8495,4,5,Could be better
+6859,2523,4,5,Very good
+6860,2381,5,5,Good
+6861,6195,5,4,Could be better
+6862,332,5,4,Excellent
+6863,7360,4,5,Excellent
+6864,5795,5,3,Could be better
+6865,9024,4,4,Good
+6866,2058,5,5,Could be better
+6867,3831,5,5,Good
+6868,1200,4,4,Could be better
+6869,8876,5,5,Very good
+6870,3241,5,5,Good
+6871,7896,4,4,Could be better
+6872,6491,4,5,Very good
+6873,6866,5,5,Average
+6874,8562,5,4,Good
+6875,7779,5,5,Average
+6876,4880,4,4,Good
+6877,6234,5,5,Could be better
+6878,5336,5,4,Very good
+6879,6408,4,5,Very good
+6880,3593,4,4,Excellent
+6881,698,4,3,Could be better
+6882,3557,5,4,Average
+6883,9004,5,5,Could be better
+6884,9137,5,4,Very good
+6885,8801,5,5,Average
+6886,7057,5,4,Could be better
+6887,1503,5,5,Excellent
+6888,6630,5,5,Good
+6889,5775,5,4,Excellent
+6890,861,5,5,Good
+6891,3916,4,5,Could be better
+6892,461,5,5,Average
+6893,6544,5,5,Excellent
+6894,3663,5,4,Very good
+6895,3597,5,3,Good
+6896,1762,5,3,Average
+6897,6634,5,5,Excellent
+6898,611,5,5,Could be better
+6899,3499,4,5,Very good
+6900,4318,4,5,Could be better
+6901,4697,5,5,Good
+6902,1820,5,5,Very good
+6903,4626,5,4,Excellent
+6904,9285,4,4,Average
+6905,6794,5,5,Average
+6906,7275,5,3,Excellent
+6907,4375,5,5,Could be better
+6908,1641,4,5,Good
+6909,7967,4,5,Good
+6910,4538,5,5,Could be better
+6911,7281,3,4,Very good
+6912,7443,4,5,Good
+6913,1634,5,5,Good
+6914,7467,5,5,Average
+6915,6902,5,5,Average
+6916,9587,4,5,Excellent
+6917,5550,5,5,Good
+6918,4264,3,3,Excellent
+6919,3795,5,3,Very good
+6920,5389,4,4,Good
+6921,6801,4,5,Good
+6922,6335,5,4,Could be better
+6923,2395,4,5,Average
+6924,8132,5,5,Could be better
+6925,8796,3,5,Excellent
+6926,9345,3,5,Could be better
+6927,9718,3,5,Good
+6928,2723,4,5,Excellent
+6929,181,5,5,Good
+6930,6762,5,4,Could be better
+6931,6497,4,5,Could be better
+6932,1207,4,5,Very good
+6933,1073,5,5,Excellent
+6934,9091,5,5,Average
+6935,1994,5,5,Excellent
+6936,1594,4,4,Good
+6937,656,5,5,Excellent
+6938,5530,4,5,Good
+6939,8372,5,5,Good
+6940,2587,5,5,Excellent
+6941,8420,5,4,Could be better
+6942,3987,4,5,Excellent
+6943,2541,5,4,Very good
+6944,1806,5,4,Could be better
+6945,1166,3,5,Average
+6946,6352,4,5,Average
+6947,591,5,3,Excellent
+6948,8529,5,5,Very good
+6949,7444,5,5,Excellent
+6950,9252,5,5,Average
+6951,4792,5,3,Very good
+6952,9220,5,5,Average
+6953,6257,5,3,Average
+6954,6119,5,5,Excellent
+6955,5510,5,3,Average
+6956,4548,4,5,Good
+6957,5334,5,5,Average
+6958,4647,5,5,Could be better
+6959,9968,5,3,Average
+6960,923,5,5,Very good
+6961,5401,5,5,Very good
+6962,2856,5,5,Could be better
+6963,6845,5,5,Very good
+6964,3781,5,5,Could be better
+6965,9068,5,4,Could be better
+6966,2335,5,5,Average
+6967,4508,5,5,Very good
+6968,4075,4,4,Very good
+6969,2366,4,5,Could be better
+6970,1519,5,4,Good
+6971,1727,5,3,Could be better
+6972,5570,5,5,Good
+6973,663,5,5,Could be better
+6974,2177,5,5,Good
+6975,649,5,5,Average
+6976,9075,5,5,Good
+6977,2401,4,5,Excellent
+6978,1810,5,4,Could be better
+6979,7237,5,3,Could be better
+6980,4804,4,5,Good
+6981,3081,5,4,Good
+6982,7150,5,5,Average
+6983,4199,5,4,Could be better
+6984,7946,4,5,Could be better
+6985,2004,5,5,Very good
+6986,1597,5,5,Good
+6987,3474,4,5,Good
